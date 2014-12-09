@@ -1,0 +1,1999 @@
+{
+   "type": "Wisdom",
+   "total": "",
+   "wisdom":[	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A clash of doctrine is not a disaster -- it is an opportunity."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A dream will always triumph over reality, once it is given the chance.  ",
+         "extras":"",
+         "author":"Stanislaw Lem"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A fake fortuneteller can be tolerated. But an authentic soothsayer should be shot on sight.  Cassandra did not get half the kicking around she deserved.  ",
+         "extras":"",
+         "author":"R.A. Heinlein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A lifetime isn't nearly long enough to figure out what it's all about."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A lot of people I know believe in positive thinking, and so do I.  I believe everything positively stinks.  ",
+         "extras":"",
+         "author":"Lew Col"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A priest advised Voltaire on his death bed to renounce the devil.  Replied Voltaire, \"This is no time to make new enemies.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A sad spectacle.  If they be inhabited, what a scope for misery and folly. If they be not inhabited, what a waste of space.  ",
+         "extras":"",
+         "author":"Thomas Carlyle, looking at the stars"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A thing is not necessarily true because a man dies for it.  ",
+         "extras":"",
+         "author":"Oscar Wilde, \"The Portrait of Mr. W.H.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ah, but a man's grasp should exceed his reach,  Or what's a heaven for ?  ",
+         "extras":"",
+         "author":"Robert Browning, \"Andrea del Sarto\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All hope abandon, ye who enter here!  ",
+         "extras":"",
+         "author":"Dante Alighieri"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All men know the utility of useful things; but they do not know the utility of futility.  ",
+         "extras":"",
+         "author":"Chuang-tzu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All of the true things I am about to tell you are shameless lies.  ",
+         "extras":"",
+         "author":"The Book of Bokonon / Kurt Vonnegut Jr."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An idea is an eye given by God for the seeing of God.  Some of these eyes we cannot bear to look out of, we blind them as quickly as possible.  ",
+         "extras":"",
+         "author":"Russell Hoban, \"Pilgermann\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An idea is not responsible for the people who believe in it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And ever has it been known that love knows not its own depth until the hour of separation.  ",
+         "extras":"",
+         "author":"Kahlil Gibran"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying: \"Now it's complete because it's ended here.\"  ",
+         "extras":"",
+         "author":"Muad'dib, \"Dune\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"At the end of your life there'll be a good rest, and no further activities are scheduled."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beauty is one of the rare things which does not lead to doubt of God.  ",
+         "extras":"",
+         "author":"Jean Anouilh"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Before you ask more questions, think about whether you really want to know the answers.  ",
+         "extras":"",
+         "author":"Gene Wolfe, \"The Claw of the Conciliator\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Brahma said: Well, after hearing ten thousand explanations, a fool is no wiser. But an intelligent man needs only two thousand five hundred.  ",
+         "extras":"",
+         "author":"The Mahabharata"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"By protracting life, we do not deduct one jot from the duration of death.  ",
+         "extras":"",
+         "author":"Titus Lucretius Carus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Catharsis is something I associate with pornography and crossword puzzles.  ",
+         "extras":"",
+         "author":"Howard Chaykin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chance is perhaps the work of God when He did not want to sign.  ",
+         "extras":"",
+         "author":"Anatole France"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Circumstances rule men; men do not rule circumstances.  ",
+         "extras":"",
+         "author":"Herodotus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Coincidences are spiritual puns.  ",
+         "extras":"",
+         "author":"G.K. Chesterton"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death is a spirit leaving a body, sort of like a shell leaving the nut behind.  ",
+         "extras":"",
+         "author":"Erma Bombeck"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death is God's way of telling you not to be such a wise guy."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death is life's way of telling you you've been fired.  ",
+         "extras":"",
+         "author":"R. Geis"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death is Nature's way of recycling human beings."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death is nature's way of saying `Howdy'."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death is nature's way of telling you to slow down."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death is only a state of mind.  Only it doesn't leave you much time to think about anything else."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Depart not from the path which fate has assigned you."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Depend on the rabbit's foot if you will, but remember, it didn't help the rabbit.  ",
+         "extras":"",
+         "author":"R.E. Shay"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Destiny is a good thing to accept when it's going your way. When it isn't, don't call it destiny; call it injustice, treachery, or simple bad luck.  ",
+         "extras":"",
+         "author":"Joseph Heller, \"God Knows\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Disease can be cured; fate is incurable.  ",
+         "extras":"",
+         "author":"Chinese proverb"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ditat Deus.  [God enriches]"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not believe in miracles -- rely on them."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not seek death; death will find you.  But seek the road which makes death a fulfillment.  ",
+         "extras":"",
+         "author":"Dag Hammarskjold"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not take life too seriously; you will never get out of it alive."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do what you can to prolong your life, in the hope that someday you'll learn what it's for."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Do you think there's a God?\" \"Well,SOMEbody's out to get me!\"  ",
+         "extras":"",
+         "author":"Calvin and Hobbs"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do your part to help preserve life on Earth -- by trying to preserve your own."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't abandon hope.  Your Captain Midnight decoder ring arrives tomorrow."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't abandon hope: your Tom Mix decoder ring arrives tomorrow."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't go to bed with no price on your head.  ",
+         "extras":"",
+         "author":"Baretta"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't have good ideas if you aren't willing to be responsible for them."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't kid yourself.  Little is relevant, and nothing lasts forever."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't let people drive you crazy when you know it's in walking distance."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't make a big deal out of everything; just deal with everything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't stop to stomp ants when the elephants are stampeding."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't take life seriously, you'll never get out alive."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Doubt isn't the opposite of faith; it is an element of faith.  ",
+         "extras":"",
+         "author":"Paul Tillich, German theologian."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Down with categorical imperative!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Due to circumstances beyond your control, you are master of your fate and captain of your soul."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"During the voyage of life, remember to keep an eye out for a fair wind; batten down during a storm; hail all passing ships; and fly your colors proudly."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dying is a very dull, dreary affair.  My advice to you is to have nothing whatever to do with it.  ",
+         "extras":"",
+         "author":"W. Somerset Maughm, his last words"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dying is one of the few things that can be done as easily lying down.  ",
+         "extras":"",
+         "author":"Woody Allen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Each man is his own prisoner, in solitary confinement for life."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Each of us bears his own Hell.  ",
+         "extras":"",
+         "author":"Publius Vergilius Maro (Virgil)"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Either I'm dead or my watch has stopped.  ",
+         "extras":"",
+         "author":"Groucho Marx's last words"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Even the best of friends cannot attend each other's funeral.  ",
+         "extras":"",
+         "author":"Kehlog Albran, \"The Profit\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every person, all the events in your life are there because you have drawn them there.  What you choose to do with them is up to you.  ",
+         "extras":"",
+         "author":"Messiah's Handbook : Reminders for the Advanced Soul"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everything ends badly. Otherwise it wouldn't end."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everything in this book may be wrong.  ",
+         "extras":"",
+         "author":"Messiah's Handbook : Reminders for the Advanced Soul"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everything is possible.  Pass the word.  ",
+         "extras":"",
+         "author":"Rita Mae Brown, \"Six of One\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Execute every act of thy life as though it were thy last.  ",
+         "extras":"",
+         "author":"Marcus Aurelius"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Expansion means complexity; and complexity decay."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Facts are the enemy of truth.  ",
+         "extras":"",
+         "author":"Don Quixote"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fain would I climb, yet fear I to fall.  ",
+         "extras":"",
+         "author":"Sir Walter Raleigh"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Faith goes out through the window when beauty comes in at the door."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Faith is under the left nipple.  ",
+         "extras":"",
+         "author":"Martin Luther"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fill what's empty, empty what's full, scratch where it itches.  ",
+         "extras":"",
+         "author":"Alice Roosevelt Longworth"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For fast-acting relief, try slowing down."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For good, return good. For evil, return justice."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For your penance, say five Hail Marys and one loud BLAH!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Force has no place where there is need of skill.  ",
+         "extras":"",
+         "author":"Herodotus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTUNE'S RULES TO LIVE BY: #2  Never goose a wolverine."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTUNE'S RULES TO LIVE BY: #23  Don't cut off a police car when making an illegal U-turn."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"From listening comes wisdom and from speaking repentance."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"From the cradle to the coffin underwear comes first.  ",
+         "extras":"",
+         "author":"Bertolt Brecht"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Generally speaking, the Way of the warrior is resolute acceptance of death.  ",
+         "extras":"",
+         "author":"Miyamoto Musashi, 1645"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Getting into trouble is easy.  ",
+         "extras":"",
+         "author":"D. Winkel and F. Prosser"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Getting there is only half as far as getting there and back."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Given a choice between grief and nothing, I'd choose grief.  ",
+         "extras":"",
+         "author":"William Faulkner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God grant us the serenity to accept the things we cannot change, courage to change the things we can, and wisdom to know the difference."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God instructs the heart, not by ideas, but by pains and contradictions.  ",
+         "extras":"",
+         "author":"De Caussade"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God is the tangential point between zero and infinity.  ",
+         "extras":"",
+         "author":"Alfred Jarry"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God made everything out of nothing, but the nothingness shows through.  ",
+         "extras":"",
+         "author":"Paul Valery"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Good-bye.  I am leaving because I am bored.  ",
+         "extras":"",
+         "author":"George Saunders' dying words"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Goodbye, cool world."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Got a dictionary?  I want to know the meaning of life."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Great acts are made up of small deeds.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Happiness is having a scratch for every itch.  ",
+         "extras":"",
+         "author":"Ogden Nash"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Happiness is just an illusion, filled with sadness and confusion."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Happiness isn't having what you want, it's wanting what you have."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Happiness isn't something you experience; it's something you remember.  ",
+         "extras":"",
+         "author":"Oscar Levant"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Having the fewest wants, I am nearest to the gods.  ",
+         "extras":"",
+         "author":"Socrates"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He has shown you, o man, what is good. And what does the Lord ask of you, but to do justice, and to love kindness, and to walk humbly before your God?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He is truly wise who gains wisdom from another's mishap."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He knows not how to know who knows not also how to unknow.  ",
+         "extras":"",
+         "author":"Sir Richard Burton"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He that composes himself is wiser than he that composes a book.  ",
+         "extras":"",
+         "author":"B. Franklin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who despairs over an event is a coward, but he who holds hopes for the human condition is a fool.  ",
+         "extras":"",
+         "author":"Albert Camus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who knows not and knows that he knows not is ignorant.  Teach him. He who knows not and knows not that he knows not is a fool.  Shun him. He who knows and knows not that he knows is asleep.  Wake him."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who knows others is wise. He who knows himself is enlightened.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who knows that enough is enough will always have enough.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who knows, does not speak.  He who speaks, does not know.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Here is a test to find whether your mission on earth is finished: if you're alive, it isn't."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am not afraid of tomorrow, for I have seen yesterday and I love today.  ",
+         "extras":"",
+         "author":"William Allen White"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I didn't believe in reincarnation in any of my other lives.  I don't see why I should have to believe in it in this one.  ",
+         "extras":"",
+         "author":"Strange de Jim"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.  ",
+         "extras":"",
+         "author":"Chuang-tzu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I do not seek the ignorant; the ignorant seek me -- I will instruct them. I ask nothing but sincerity.  If they come out of habit, they become tiresome.  ",
+         "extras":"",
+         "author":"I Ching"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I gained nothing at all from Supreme Enlightenment, and for that very reason it is called Supreme Enlightenment.\"  ",
+         "extras":"",
+         "author":"Gotama Buddha"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I hate dying.  ",
+         "extras":"",
+         "author":"Dave Johnson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have often regretted my speech, never my silence.  ",
+         "extras":"",
+         "author":"Publilius Syrus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have seen the future and it is just like the present, only longer.  ",
+         "extras":"",
+         "author":"Kehlog Albran, \"The Profit\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I hope you're not pretending to be evil while secretly being good. That would be dishonest."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I just forgot my whole philosophy of life!!!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I know not how I came into this, shall I call it a dying life or a living death?  ",
+         "extras":"",
+         "author":"St. Augustine"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a guru falls in the forest with no one to hear him, was he really a guru at all?  ",
+         "extras":"",
+         "author":"Strange de Jim, \"The Metasexuals\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a man has a strong faith he can indulge in the luxury of skepticism.  ",
+         "extras":"",
+         "author":"Friedrich Nietzsche"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a man loses his reverence for any part of life, he will lose his reverence for all of life.  ",
+         "extras":"",
+         "author":"Albert Schweitzer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If little green men land in your back yard, hide any little green women you've got in the house.  ",
+         "extras":"",
+         "author":"Mike Harding, \"The Armchair Anarchist's Almanac\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If something has not yet gone wrong then it would ultimately have been beneficial for it to go wrong."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the master dies and the disciple grieves, the lives of both have been wasted."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the path be beautiful, let us not ask where it leads.  ",
+         "extras":"",
+         "author":"Anatole France"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If we do not change our direction we are likely to end up where we are headed."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If we don't survive, we don't do anything else.  ",
+         "extras":"",
+         "author":"John Sinclair"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you are not for yourself, who will be for you? If you are for yourself, then what are you? If not now, when?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you can survive death, you can probably survive anything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you find a solution and become attached to it, the solution may become your next problem."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you fool around with something long enough, it will eventually break."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you have to hate, hate gently."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you have to think twice about it, you're wrong."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you keep anything long enough, you can throw it away."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you live long enough, you'll see that every victory turns into a defeat.  ",
+         "extras":"",
+         "author":"Simone de Beauvoir"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you only have a hammer, you tend to see every problem as a nail.  ",
+         "extras":"",
+         "author":"Maslow"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you put it off long enough, it might go away."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you refuse to accept anything but the best you very often get it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you wait long enough, it will go away... after having done its damage. If it was bad, it will be back."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you want divine justice, die.  ",
+         "extras":"",
+         "author":"Nick Seldon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If your aim in life is nothing, you can't miss."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If your happiness depends on what somebody else does, I guess you do have a problem.  ",
+         "extras":"",
+         "author":"Richard Bach, \"Illusions\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Illusion is the first of all pleasures.  ",
+         "extras":"",
+         "author":"Voltaire"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Immortality -- a fate worse than death.  ",
+         "extras":"",
+         "author":"Edgar A. Shoaff"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In order to discover who you are, first learn who everybody else is; you're what's left."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In spite of everything, I still believe that people are good at heart.  ",
+         "extras":"",
+         "author":"Ann Frank"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In the long run we are all dead.  ",
+         "extras":"",
+         "author":"John Maynard Keynes"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In the next world, you're on your own."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Instead of loving your enemies, treat your friends a little better.  ",
+         "extras":"",
+         "author":"Edgar W. Howe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Intellect annuls Fate. So far as a man thinks, he is free.  ",
+         "extras":"",
+         "author":"Ralph Waldo Emerson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It does not do to leave a live dragon out of your calculations."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is easier for a camel to pass through the eye of a needle if it is lightly greased.  ",
+         "extras":"",
+         "author":"Kehlog Albran, \"The Profit\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is Fortune, not Wisdom, that rules man's life."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is not doing the thing we like to do, but liking the thing we have to do, that makes life blessed.  ",
+         "extras":"",
+         "author":"Goethe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is only with the heart one can see clearly; what is essential is invisible to the eye.  ",
+         "extras":"",
+         "author":"The Fox, 'The Little Prince\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is said that the lonely eagle flies to the mountain peaks while the lowly ant crawls the ground, but cannot the soul of the ant soar as high as the eagle?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is so stupid of modern civilisation to have given up believing in the devil when he is the only explanation of it.  ",
+         "extras":"",
+         "author":"Ronald Knox, \"Let Dons Delight\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is through symbols that man consciously or unconsciously lives, works and has his being.  ",
+         "extras":"",
+         "author":"Thomas Carlyle"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It will be advantageous to cross the great stream ... the Dragon is on the wing in the Sky ... the Great Man rouses himself to his Work."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's easier to take it apart than to put it back together.  ",
+         "extras":"",
+         "author":"Washlesky"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's hard to drive at the limit, but it's harder to know where the limits are.  ",
+         "extras":"",
+         "author":"Stirling Moss"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not reality that's important, but how you perceive things."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" \"It's today!\" said Piglet.  \"My favorite day,\" said Pooh."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's very inconvenient to be mortal -- you never know when everything may suddenly stop happening."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Just remember, wherever you go, there you are.  ",
+         "extras":"",
+         "author":"Buckaroo Bonzai"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kindness is the beginning of cruelty.  ",
+         "extras":"",
+         "author":"Muad'dib [Frank Herbert, \"Dune\"]"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Let us not look back in anger or forward in fear, but around us in awareness.  ",
+         "extras":"",
+         "author":"James Thurber"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life can be so tragic -- you're here today and here tomorrow."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life exists for no known purpose."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is a grand adventure -- or it is nothing.  ",
+         "extras":"",
+         "author":"Helen Keller"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is knowing how far to go without crossing the line."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is like a 10 speed bicycle.  Most of us have gears we never use.  ",
+         "extras":"",
+         "author":"C. Schultz"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is like a sewer.  What you get out of it depends on what you put into it.  ",
+         "extras":"",
+         "author":"Tom Lehrer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is the childhood of our immortality.  ",
+         "extras":"",
+         "author":"Goethe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is the living you do, Death is the living you don't do.  ",
+         "extras":"",
+         "author":"Joseph Pintauro"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is the urge to ecstasy."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life may have no meaning, or, even worse, it may have a meaning of which you disapprove."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life only demands from you the strength you possess. Only one feat is possible -- not to have run away.  ",
+         "extras":"",
+         "author":"Dag Hammarskjold"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life sucks, but death doesn't put out at all.  ",
+         "extras":"",
+         "author":"Thomas J. Kopp"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Live never to be ashamed if anything you do or say is published around the world -- even if what is published is not true.  ",
+         "extras":"",
+         "author":"Messiah's Handbook : Reminders for the Advanced Soul"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Living in the complex world of the future is somewhat like having bees live in your head.  But, there they are."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Loneliness is a terrible price to pay for independence."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Man's reach must exceed his grasp, for why else the heavens?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mohandas K. Gandhi often changed his mind publicly.  An aide once asked him how he could so freely contradict this week what he had said just last week. The great man replied that it was because this week he knew better."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Murphy was an optimist."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Murphy's Law is recursive.  Washing your car to make it rain doesn't work."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Music in the soul can be heard by the universe.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My theology, briefly, is that the universe was dictated but not signed.  ",
+         "extras":"",
+         "author":"Christopher Morley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nasrudin called at a large house to collect for charity.  The servant said \"My master is out.\"  Nasrudin replied, \"Tell your master that next time he goes out, he should not leave his face at the window.  Someone might steal it.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ninety percent of everything is crap.  ",
+         "extras":"",
+         "author":"Theodore Sturgeon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ninety percent of the time things turn out worse than you thought they would. The other ten percent of the time you had no right to expect that much.  ",
+         "extras":"",
+         "author":"Augustine"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No matter where I go, the place is always called \"here\"."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No use getting too involved in life -- you're only here for a limited time."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nobody ever ruined their eyesight by looking at the bright side of something."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nonsense and beauty have close connections.  ",
+         "extras":"",
+         "author":"E.M. Forster"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Normal times may possibly be over forever."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Not every question deserves an answer."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing in life is to be feared.  It is only to be understood."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing is as simple as it seems at first  Or as hopeless as it seems in the middle   Or as finished as it seems in the end."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing is but what is not."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing is ever a total loss; it can always serve as a bad example."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing is so firmly believed as that which we least know.  ",
+         "extras":"",
+         "author":"Michel de Montaigne"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing matters very much, and few things matter at all.  ",
+         "extras":"",
+         "author":"Arthur Balfour"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Of all men's miseries, the bitterest is this: to know so much and have control over nothing.  ",
+         "extras":"",
+         "author":"Herodotus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Once the toothpaste is out of the tube, it's hard to get it back in.  ",
+         "extras":"",
+         "author":"H.R. Haldeman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Once you've tried to change the world you find it's a whole bunch easier to change your mind."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One learns to itch where one can scratch.  ",
+         "extras":"",
+         "author":"Ernest Bramah"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One meets his destiny often on the road he takes to avoid it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One monk said to the other, \"The fish has flopped out of the net! How will it live?\" The other said, \"When you have gotten out of the net, I'll tell you.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Only that in you which is me can hear what I'm saying.  ",
+         "extras":"",
+         "author":"Baba Ram Dass"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Only those who leisurely approach that which the masses are busy about can be busy about that which the masses take leisurely.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Paradise is exactly like where you are right now ... only much, much better.  ",
+         "extras":"",
+         "author":"Laurie Anderson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Perfection is reached, not when there is no longer anything to add, but when there is no longer anything to take away.  ",
+         "extras":"",
+         "author":"Antoine de Saint-Exupery"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Perhaps the biggest disappointments were the ones you expected anyway."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Philosophy will clip an angel's wings.  ",
+         "extras":"",
+         "author":"John Keats"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Push where it gives and scratch where it itches."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality always seems harsher in the early morning."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality does not exist -- yet."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality is bad enough, why should I tell the truth?  ",
+         "extras":"",
+         "author":"Patrick Sky"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality is for people who lack imagination."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality is just a convenient measure of complexity.  ",
+         "extras":"",
+         "author":"Alvy Ray Smith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality is just a crutch for people who can't handle science fiction."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality is nothing but a collective hunch.  -- Lily Tomlin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Reality is that which, when you stop believing in it, doesn't go away\".  ",
+         "extras":"",
+         "author":"Philip K. Dick"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember, Grasshopper, falling down 1000 stairs begins by tripping over the first one.  ",
+         "extras":"",
+         "author":"Confusion"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Rule of Life #1 -- Never get separated from your luggage."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Seeing is believing.  You wouldn't have seen it if you hadn't believed it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"So little time, so little to do.  ",
+         "extras":"",
+         "author":"Oscar Levant"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sometimes even to live is an act of courage.  ",
+         "extras":"",
+         "author":"Seneca"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sometimes you get an almost irresistible urge to go on living."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Superstition, idolatry, and hypocrisy have ample wages, but truth goes a-begging.  ",
+         "extras":"",
+         "author":"Martin Luther"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That that is is that that is not is not."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The absurd is the essential concept and the first truth.  ",
+         "extras":"",
+         "author":"A. Camus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best you get is an even break.  ",
+         "extras":"",
+         "author":"Franklin Adams"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The chain which can be yanked is not the eternal chain.\"  ",
+         "extras":"",
+         "author":"G. Fitch"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The chief cause of problems is solutions.  ",
+         "extras":"",
+         "author":"Eric Sevareid"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The days are all empty and the nights are unreal."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The door is the key."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The farther you go, the less you know.  ",
+         "extras":"",
+         "author":"Lao Tsu, \"Tao Te Ching\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The final delusion is the belief that one has lost all delusions.  ",
+         "extras":"",
+         "author":"Maurice Chapelain, \"Main courante\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The first requisite for immortality is death.  ",
+         "extras":"",
+         "author":"Stanislaw Lem"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The greatest griefs are those we cause ourselves.  ",
+         "extras":"",
+         "author":"Sophocles"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The longest part of the journey is said to be the passing of the gate.  ",
+         "extras":"",
+         "author":"Marcus Terentius Varro"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The major sin is the sin of being born.  ",
+         "extras":"",
+         "author":"Samuel Beckett"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The more laws and order are made prominent, the more thieves and robbers there will be.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The more you complain, the longer God lets you live."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moss on the tree does not fear the talons of the hawk."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most costly of all follies is to believe passionately in the palpably not true.  It is the chief occupation of mankind.  ",
+         "extras":"",
+         "author":"H.L. Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only difference between a rut and a grave is their dimensions."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Poems, all three hundred of them, may be summed up in one of their phrases: \"Let our thoughts be correct\".  ",
+         "extras":"",
+         "author":"Confucius"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The price of success in philosophy is triviality.  ",
+         "extras":"",
+         "author":"C. Glymour."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The questions remain the same. The answers are eternally variable."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The race is not always to the swift, nor the battle to the strong, but that's the way to bet.  ",
+         "extras":"",
+         "author":"Damon Runyon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The root of all superstition is that men observe when a thing hits, but not when it misses.  ",
+         "extras":"",
+         "author":"Francis Bacon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The savior becomes the victim."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The soul would have no rainbow had the eyes no tears."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The state of innocence contains the germs of all future sin.  ",
+         "extras":"",
+         "author":"Alexandre Arnoux, \"Etudes et caprices\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth is rarely pure, and never simple.  ",
+         "extras":"",
+         "author":"Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth is what is; what should be is a dirty lie.  ",
+         "extras":"",
+         "author":"Lenny Bruce"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth of a thing is the feel of it, not the think of it.  ",
+         "extras":"",
+         "author":"Stanley Kubrick"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth you speak has no past and no future. It is, and that's all it needs to be."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are no accidents whatsoever in the universe.  ",
+         "extras":"",
+         "author":"Baba Ram Dass"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are no winners in life, only survivors."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are ten or twenty basic truths, and life is the process of discovering them over and over and over.  ",
+         "extras":"",
+         "author":"David Nichols"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is more to life than increasing its speed.  ",
+         "extras":"",
+         "author":"Mahatma Gandhi"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no comfort without pain; thus we define salvation through suffering.  ",
+         "extras":"",
+         "author":"Cato"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no cure for birth and death other than to enjoy the interval.  ",
+         "extras":"",
+         "author":"George Santayana"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no sin but ignorance.  ",
+         "extras":"",
+         "author":"Christopher Marlowe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's only one everything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To get something clean, one has to get something dirty. To get something dirty, one does not have to get anything clean."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To give happiness is to deserve happiness."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To give of yourself, you must first know yourself."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To have died once is enough.  ",
+         "extras":"",
+         "author":"Publius Vergilius Maro (Virgil)"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To lead people, you must follow behind.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Truth has no special time of its own.  Its hour is now -- always.  ",
+         "extras":"",
+         "author":"Albert Schweitzer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Truth is hard to find and harder to obscure."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Truth never comes into the world but like a bastard, to the ignominy of him that brought her birth.  ",
+         "extras":"",
+         "author":"Milton"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Waste not fresh tears over old griefs.  ",
+         "extras":"",
+         "author":"Euripides"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We can embody the truth, but we cannot know it.  ",
+         "extras":"",
+         "author":"Yates"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We have nowhere else to go... this is all we have.  ",
+         "extras":"",
+         "author":"Margaret Mead"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We have only two things to worry about:  That things will never get back to normal, and that they already have."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We have reason to be afraid.  This is a terrible place.  ",
+         "extras":"",
+         "author":"John Berryman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We rarely find anyone who can say he has lived a happy life, and who, content with his life, can retire from the world like a satisfied guest.  ",
+         "extras":"",
+         "author":"Quintus Horatius Flaccus (Horace)"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We're all in this alone.  ",
+         "extras":"",
+         "author":"Lily Tomlin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Well, you know, no matter where you go, there you are.  ",
+         "extras":"",
+         "author":"Buckaroo Banzai"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Well,\" Brahma said, \"even after ten thousand explanations, a fool is no wiser, but an intelligent man requires only two thousand five hundred.\"  ",
+         "extras":"",
+         "author":"The Mahabharata."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What does not destroy me, makes me stronger.  ",
+         "extras":"",
+         "author":"Nietzsche"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What makes the universe so hard to comprehend is that there's nothing to compare it with."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What sane person could live in this world and not be crazy?  ",
+         "extras":"",
+         "author":"Ursula K. LeGuin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What we Are is God's gift to us. What we Become is our gift to God."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whatever occurs from love is always beyond good and evil.  ",
+         "extras":"",
+         "author":"Friedrich Nietzsche"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whatever you do will be insignificant, but it is very important that you do it.  ",
+         "extras":"",
+         "author":"Gandhi"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When it's dark enough you can see the stars.  ",
+         "extras":"",
+         "author":"Ralph Waldo Emerson,"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When the speaker and he to whom he is speaks do not understand, that is metaphysics.  ",
+         "extras":"",
+         "author":"Voltaire"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When the wind is great, bow before it; when the wind is heavy, yield to it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When you die, you lose a very important part of your life.  ",
+         "extras":"",
+         "author":"Brooke Shields"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Who does not trust enough will not be trusted.  ",
+         "extras":"",
+         "author":"Lao Tsu"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wisdom is knowing what to do with what you know.  ",
+         "extras":"",
+         "author":"J. Winter Smith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wisdom is rarely found on the best-seller list."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"[Wisdom] is a tree of life to those laying hold of her, making happy each one holding her fast.  ",
+         "extras":"",
+         "author":"Proverbs 3:18, NSV"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"With listening comes wisdom, with speaking repentance."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wonder is the feeling of a philosopher, and philosophy begins in wonder.  ",
+         "extras":"",
+         "author":"Socrates, quoting Plato  [Huh?  That's like Johnson quoting Boswell]"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Yes, but which self do you want to be?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can always pick up your needle and move to another groove.  ",
+         "extras":"",
+         "author":"Tim Leary"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can get *anywhere* in ten minutes if you drive fast enough."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can never tell which way the train went by looking at the tracks."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can no more win a war than you can win an earthquake.  ",
+         "extras":"",
+         "author":"Jeannette Rankin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can observe a lot just by watching.  ",
+         "extras":"",
+         "author":"Yogi Berra"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can only live once, but if you do it right, once is enough."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't get there from here."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't mend a wristwatch while falling from an airplane."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't push on a string."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't run away forever, But there's nothing wrong with getting a good head start.  ",
+         "extras":"",
+         "author":"Jim Steinman, \"Rock and Roll Dreams Come Through\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"You can't survive by sucking the juice from a wet mitten.\"  ",
+         "extras":"",
+         "author":"Charles Schulz, \"Things I've Had to Learn Over and      Over and Over\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't take it with you -- especially when crossing a state line."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You climb to reach the summit, but once there, discover that all roads lead down.  ",
+         "extras":"",
+         "author":"Stanislaw Lem, \"The Cyberiad\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have all eternity to be cautious in when you're dead.  ",
+         "extras":"",
+         "author":"Lois Platford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have to run as fast as you can just to stay where you are. If you want to get anywhere, you'll have to run much faster.  ",
+         "extras":"",
+         "author":"Lewis Carroll"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You will always find something in the last place you look."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your happiness is intertwined with your outlook on life."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your mind understands what you have been taught; your heart, what is true."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your picture of the world often changes just before you get it into focus."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your wig steers the gig.  ",
+         "extras":"",
+         "author":"Lord Buckley"
+      }
+   ]
+}

@@ -1,0 +1,552 @@
+{
+   "type": "Law",
+   "total": "",
+   "wisdom":[	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A countryman between two lawyers is like a fish between two cats. ",
+         "extras":"",
+         "author":"Ben Franklin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A friend of mine won't get a divorce, because he hates lawyers more than he hates his wife. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A jury consists of twelve persons chosen to decide who has the better lawyer. ",
+         "extras":"",
+         "author":"Robert Frost "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A Los Angeles judge ruled that \"a citizen may snore with immunity in his own home, even though he may be in possession of unusual and exceptional ability in that particular field.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" A Los Angeles judge ruled that \"a citizen may snore with immunity in his own home, even though he may be in possession of unusual and exceptional ability in that particular field.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" A New York City judge ruled that if two women behind you at the movies insist on discussing the probable outcome of the film, you have the right to turn around and blow a Bronx cheer at them. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A New York City ordinance prohibits the shooting of rabbits from the rear of a Third Avenue street car -- if the car is in motion. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A Riverside, California, health ordinance states that two persons may not kiss each other without first wiping their lips with carbolized rosewater. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A small town that cannot support one lawyer can always support two. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"According to Kentucky state law, every person must take a bath at least once a year. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And then there was the lawyer that stepped in cow manure and thought he was melting... "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Anti-trust laws should be approached with exactly that attitude. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Atlanta makes it against the law to tie a giraffe to a telephone pole or street lamp. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be frank and explicit with your lawyer ... it is his business to confuse the issue afterwards. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Behold the warranty -- the bold print giveth and the fine print taketh away. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Between grand theft and a legal fee, there only stands a law degree. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Carmel, New York, has an ordinance forbidding men to wear coats and trousers that don't match. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chicago law prohibits eating in a place that is on fire. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Diogenes went to look for an honest lawyer. \"How's it going?\", someone asked him, after a few days.  \"Not too bad\", replied Diogenes. \"I still have my lantern.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"District of Columbia pedestrians who leap over passing autos to escape injury, and then strike the car as they come down, are liable for any damage inflicted on the vehicle. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Divorce is a game played by lawyers. ",
+         "extras":"",
+         "author":"Cary Grant "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Doctors and lawyers must go to school for years and years, often with little sleep and with great sacrifice to their first wives. ",
+         "extras":"",
+         "author":"Roy G. Blount, Jr. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fights between cats and dogs are prohibited by statute in Barber, North Carolina. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For certain people, after fifty, litigation takes the place of sex. ",
+         "extras":"",
+         "author":"Gore Vidal "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Frankfort, Kentucky, makes it against the law to shoot off a policeman's tie. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He is no lawyer who cannot take two sides. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" Horses are forbidden to eat fire hydrants in Marshalltown, Iowa. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in th Court: Q: Do you drink when you're on duty? A: I don't drink when I'm on duty, unless I come on duty drunk. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in the Court: Q.  And who is this person you are speaking of? A.  My ex-widow said it. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in the Court: Q.  Doctor, did you say he was shot in the woods? A.  No, I said he was shot in the lumbar region. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in the Court: Q.  Officer, what led you to believe the defendant was under the influence? A.  Because he was argumentary and he couldn't pronunciate his words. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in the Court: Q: Are you qualified to give a urine sample? A: Yes, I have been since early childhood. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in the Court: Q: Are you sexually active? A: No, I just lie there. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in the Court: Q: Did you tell your lawyer that your husband had offered you indignities? A: He didn't offer me nothing; he just said I could have the furniture. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humor in the Court: Q: Now, you have investigated other murders, have you not, where there was    a victim? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I need another lawyer like I need another hole in my head. ",
+         "extras":"",
+         "author":"Fratianno "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I remember when legal used to mean lawful, now it means some kind of loophole. ",
+         "extras":"",
+         "author":"Leo Kessler "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" Idaho state law makes it illegal for a man to give his sweetheart a box of candy weighing less than fifty pounds. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a jury in a criminal trial stays out for more than twenty-four hours, it is certain to vote acquittal, save in those instances where it votes guilty. ",
+         "extras":"",
+         "author":"Joseph C. Goulden "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If reporters don't know that truth is plural, they ought to be lawyers. ",
+         "extras":"",
+         "author":"Tom Wicker "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Blythe, California, a city ordinance declares that a person must own at least two cows before he can wear cowboy boots in public. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Boston, it is illegal to hold frog-jumping contests in nightclubs. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Columbia, Pennsylvania, it is against the law for a pilot to tickle a female flying student under her chin with a feather duster in order to get her attention. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Corning, Iowa, it's a misdemeanor for a man to ask his wife to ride in any motor vehicle. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Denver it is unlawful to lend your vacuum cleaner to your next-door neighbor. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Devon, Connecticut, it is unlawful to walk backwards after sunset. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Greene, New York, it is illegal to eat peanuts and walk backwards on the sidewalks when a concert is on. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Lexington, Kentucky, it's illegal to carry an ice cream cone in your pocket. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Lowes Crossroads, Delaware, it is a violation of local law for any pilot or passenger to carry an ice cream cone in their pocket while either flying or waiting to board a plane. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" In Memphis, Tennessee, it is illegal for a woman to drive a car unless there is a man either running or walking in front of it waving a red flag to warn approaching motorists and pedestrians. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Ohio, if you ignore an orator on Decoration day to such an extent as to publicly play croquet or pitch horseshoes within one mile of the speaker's stand, you can be fined $25.00. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Pocataligo, Georgia, it is a violation for a woman over 200 pounds and attired in shorts to pilot or ride in an airplane. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Pocatello, Idaho, a law passed in 1912 provided that \"The carrying of concealed weapons is forbidden, unless same are exhibited to public view.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Seattle, Washington, it is illegal to carry a concealed weapon that is over six feet in length. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Tennessee, it is illegal to shoot any game other than whales from a moving automobile. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Tulsa, Oklahoma, it is against the law to open a soda bottle without the supervision of a licensed engineer. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In West Union, Ohio, No married man can go flying without his spouse along at any time, unless he has been married for more than 12 months. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is against the law for a monster to enter the corporate limits of Urbana, Illinois. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is illegal to drive more than two thousand sheep down Hollywood Boulevard at one time. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is illegal to say \"Oh, Boy\" in Jonesboro, Georgia. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is Mr. Mellon's credo that $200,000,000 can do no wrong.  Our offense consists in doubting it. ",
+         "extras":"",
+         "author":"Justice Robert H. Jackson "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is Texas law that when two trains meet each other at a railroad crossing, each shall come to a full stop, and neither shall proceed until the other has gone. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It shall be unlawful for any suspicious person to be within the municipality. ",
+         "extras":"",
+         "author":"Local ordinance, Euclid Ohio "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's illegal in Wilbur, Washington, to ride an ugly horse. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Just remember: when you go to court, you are trusting your fate to twelve people that weren't smart enough to get out of jury duty! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kansas state law requires pedestrians crossing the highways at night to wear tail lights. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kirkland, Illinois, law forbids bees to fly over the village or through any of its streets. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Laws are like sausages.  It's better not to see them being made. ",
+         "extras":"",
+         "author":"Otto von Bismarck "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Let us remember that ours is a nation of lawyers and order. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"... Logically incoherent, semantically incomprehensible, and legally ...  impeccable! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Loud burping while walking around the airport is prohibited in Halstead, Kansas. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men often believe -- or pretend -- that the \"Law\" is something sacred, or at least a science -- an unfounded assumption very convenient to governments. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Minors in Kansas City, Missouri, are not allowed to purchase cap pistols; they may buy shotguns freely, however. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never put off until tomorrow what you can do today.  There might be a law against it by that time. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"NEVER swerve to hit a lawyer riding a bicycle -- it might be your bicycle. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"New Hampshire law forbids you to tap your feet, nod your head, or in any way keep time to the music in a tavern, restaurant, or cafe. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Of course it's the murder weapon.  Who would frame someone with a fake? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She cried, and the judge wiped her tears with my checkbook. ",
+         "extras":"",
+         "author":"Tommy Manville "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sho' they got to have it against the law.  Shoot, ever'body git high, they wouldn't be nobody git up and feed the chickens.  Hee-hee. ",
+         "extras":"",
+         "author":"Terry Southern "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some men are heterosexual, and some are bisexual, and some men don't think about sex at all... they become lawyers. ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sometimes a man who deserves to be looked down upon because he is a fool is despised only because he is a lawyer. ",
+         "extras":"",
+         "author":"Montesquieu "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Texas law forbids anyone to have a pair of pliers in his possession. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The animals are not as stupid as one thinks -- they have neither doctors nor lawyers. ",
+         "extras":"",
+         "author":"L. Docquier "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" The Arkansas legislature passed a law that states that the Arkansas River can rise no higher than to the Main Street bridge in Little Rock. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The City of Palo Alto, in its official description of parking lot standards, specifies the grade of wheelchair access ramps in terms of centimeters of rise per foot of run.  A compromise, I imagine... "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between a lawyer and a rooster is that the rooster gets up in the morning and clucks defiance. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The District of Columbia has a law forbidding you to exert pressure on a balloon and thereby cause a whistling sound on the streets. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" The judge fined the jaywalker fifty dollars and told him if he was caught again, he would be thrown in jail.  Fine today, cooler tomorrow. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Law, in its majestic equality, forbids the rich, as well as the poor, to sleep under the bridges, to beg in the streets, and to steal bread. ",
+         "extras":"",
+         "author":"Anatole France "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The penalty for laughing in a courtroom is six months in jail; if it were not for this penalty, the jury would never hear the evidence. ",
+         "extras":"",
+         "author":"H. L. Mencken "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The primary requisite for any new tax law is for it to exempt enough voters to win the next election. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The state law of Pennsylvania prohibits singing in the bathtub. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is a Massachusetts law requiring all dogs to have their hind legs tied during the month of April. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no better way of exercising the imagination than the study of law. No poet ever interpreted nature as freely as a lawyer interprets truth. ",
+         "extras":"",
+         "author":"Jean Giraudoux, \"Tiger at the Gates\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Virginia law forbids bathtubs in the house; tubs must be kept in the yard. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Welcome to Utah. If you think our liquor laws are funny, you should see our underwear! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What do you have when you have six lawyers buried up to their necks in sand? Not enough sand. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where it is a duty to worship the sun it is pretty sure to be a crime to examine the laws of heat. ",
+         "extras":"",
+         "author":"Christopher Morley "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why does a hearse horse snicker, hauling a lawyer away? ",
+         "extras":"",
+         "author":"Carl Sandburg "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"With Congress, every time they make a joke it's a law; and every time they make a law it's a joke. ",
+         "extras":"",
+         "author":"Will Rogers"
+      }
+   ]
+}

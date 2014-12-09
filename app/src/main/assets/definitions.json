@@ -1,0 +1,5088 @@
+{
+   "type": "Definitions",
+   "total": "",
+   "wisdom":[	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"186,282 miles per second: It isn't just a good idea, it's the law!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"2180, U.S. History question: What 20th Century U.S. President was almost impeached and what office did he later hold?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"3rd Law of Computing: Anything that can go wr fortune: Segmentation violation -- Core dumped",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"667: The neighbor of the beast.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A Law of Computer Programming: Make it possible for programmers to write in English and you will find that programmers cannot write in English.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A musician, an artist, an architect: the man or woman who is not one of these is not a Christian.",
+         "extras":"",
+         "author":"William Blake"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Acceptance testing: An unsuccessful attempt to find bugs.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Accordion, n.: A bagpipe with pleats.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Accuracy, n.: The vice of being right",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Adler's Distinction: Language is all that separates us from the lower animals, and from the bureaucrats.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Adult, n.: One old enough to know better.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Afternoon, n.: That part of the day we spend worrying about how we wasted the morning.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Agnes' Law: Almost everything in life is easier to get into than out of.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Air Force Inertia Axiom: Consistency is always easier to defend than correctness.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Alaska: A prelude to \"No.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Albrecht's Law: Social innovations tend to the level of minimum tolerable well-being.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"algorithm, n.: Trendy dance for hip programmers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"alimony, n: Having an ex you can bank on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All new: Parts not interchangeable with previous model.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Allen's Axiom: When all else fails, read the instructions.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ambiguity: Telling the truth when you don't mean to.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Amoebit: Amoeba/rabbit cross; it can multiply and divide at the same time.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Androphobia: Fear of men.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Anthony's Law of Force: Don't force it; get a larger hammer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Antonym, n.: The opposite of the word you're trying to think of.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Aphasia: Loss of speech in social scientists when asked at parties, \"But of what use is your research?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Appendix: A portion of a book, for which nobody yet has discovered any use.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Arbitrary systems, pl.n.: Systems about which nothing general can be said, save \"nothing general can be said.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Arithmetic: An obscure art no longer practiced in the world's developed countries.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Armadillo: To provide weapons to a Spanish pickle.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Armor's Axiom: Virtue is the failure to achieve vice.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Armstrong's Collection Law: If the check is truly in the mail, it is surely made out to someone else.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Arnold's Addendum: Anything not fitting into these categories causes cancer in rats.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Atlanta: An entire city surrounded by an airport.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Auction: A gyp off the old block.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"audophile, n: Someone who listens to the equipment instead of the music.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Authentic: Indubitably true, in somebody's opinion.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Automobile, n.: A four-wheeled vehicle that runs up hills and down pedestrians.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bachelor: A guy who is footloose and fiancee-free.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bachelor: A man who chases women and never Mrs. one.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Backward conditioning: Putting saliva in a dog's mouth in an attempt to make a bell ring.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bagdikian's Observation: Trying to be a first-rate reporter on the average American newspaper is like trying to play Bach's \"St. Matthew Passion\" on a ukelele.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Baker's First Law of Federal Geometry: A block grant is a solid mass of money surrounded on all sides by governors.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Banacek's Eighteenth Polish Proverb: The hippo has no sting, but the wise man would rather be sat upon by the bee.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Barach's Rule: An alcoholic is a person who drinks more than his own physician.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Barker's Proof: Proofreading is more effective after publication.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Barth's Distinction: There are two types of people: those who divide people into two types, and those who don't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Baruch's Observation: If all you have is a hammer, everything looks like a nail.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"BASIC, n.: A programming language. Related to certain social diseases in that those who have it will not admit it in polite company.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beauty: What's in your eye when you have a bee in your hand.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Begathon, n.: A multi-day event on public television, used to raise money so you won't have to watch commercials.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"belief, n: Something you do not believe.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Benson's Dogma: ASCII is our god, and Unix is his profit.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bershere's Formula for Failure: There are only two kinds of people who fail: those who listen to nobody... and those who listen to everybody.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bilbo's First Law: You cannot count friends that are all packed up in barrels.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Binary, adj.: Possessing the ability to have friends of both sexes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bing's Rule: Don't try to stem the tide -- move the beach.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bipolar, adj.: Refers to someone who has homes in Nome, Alaska, and Buffalo, New York.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bloom's Seventh Law of Litigation: The judge's jokes are always funny.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Blore's Razor: Given a choice between two theories, take the one which is funnier.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Blutarsky's Axiom: Nothing is impossible for the man who will not listen to reason.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Boling's postulate: If you're feeling good, don't worry.  You'll get over it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bolub's Fourth Law of Computerdom: Project teams detest weekly progress reporting because it so vividly manifests their lack of progress.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bombeck's Rule of Medicine: Never go to a doctor whose office plants have died.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Boob's Law: You always find something in the last place you look.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Booker's Law: An ounce of application is worth a ton of abstraction.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bore, n.: A guy who wraps up a two-minute idea in a two-hour vocabulary.",
+         "extras":"",
+         "author":"Walter Winchell"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Boucher's Observation: He who blows his own horn always plays the music several octaves higher than originally written.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bower's Law: Talent goes where the action is.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bowie's Theorem: If an experiment works, you must be using the wrong equipment.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"boy, n: A noise with dirt on it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bradley's Bromide: If computers get too powerful, we can organize them into a committee -- that will do them in.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"briefcase, n: A trial where the jury gets together and forms a lynching party.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"broad-mindedness, n: The result of flattening high-mindedness out.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Brogan's Constant: People tend to congregate in the back of the church and the front of the bus.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"brokee, n: Someone who buys stocks on the advice of a broker.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Brook's Law: Adding manpower to a late software project makes it later.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bubble Memory, n.: A derogatory term, usually referring to a person's intelligence. See also \"vacuum tube\".",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bucy's Law: Nothing is ever accomplished by a reasonable man.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"bug, n: A son of a glitch.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bugs, pl. n.: Small living things that small living boys throw on small living girls.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bumper sticker: All the parts falling off this car are of the very finest British manufacture.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bunker's Admonition: You cannot buy beer; you can only rent it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"bureaucracy, n: A method for transforming energy into solid waste.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bureaucrat, n.: A person who cuts red tape sideways.",
+         "extras":"",
+         "author":"J. McCabe"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"bureaucrat, n: A politician who has tenure.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Burke's Postulates: Anything is possible if you don't know what you are talking about. Don't create a problem for which you do not have the answer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"buzzword, n: The fly in the ointment of computer literacy.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"byob, v: Believing Your Own Bull",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cache: A very expensive part of the memory system of a computer that no one is supposed to know is there.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cahn's Axiom: When all else fails, read the instructions.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Campbell's Law: Nature abhors a vacuous experimenter.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Captain Penny's Law: You can fool all of the people some of the time, and some of the people all of the time, but you Can't Fool Mom.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Carson's Consolation: Nothing is ever a complete failure. It can always be used as a bad example.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Carson's Observation on Footwear: If the shoe fits, buy the other one too.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Carswell's Corollary: Whenever man comes up with a better mousetrap, nature invariably comes up with a better mouse.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cat, n.: Lapwarmer with built-in buzzer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chamberlain's Laws: (1) The big guys always win. (2) Everything tastes more or less like chicken.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"character density, n.: The number of very weird people in the office.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Charity, n.: A thing that begins at home and usually stays there.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"checkuary, n: The thirteenth month of the year.  Begins New Year's Day and ends when a person stops absentmindedly writing the old year on his checks.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chef, n.: Any cook who swears in French.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cheit's Lament: If you help a friend in need, he is sure to remember you-- the next time he's in need.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chemicals, n.: Noxious substances from which modern foods are made.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cheops' Law: Nothing ever gets built on schedule or within budget.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chism's Law of Completion: The amount of time required to complete a government project is precisely equal to the length of time already spent on it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chisolm's First Corollary to Murphy's Second Law: When things just can't possibly get any worse, they will.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Churchill's Commentary on Man: Man will occasionally stumble over the truth, but most of the time he will pick himself up and continue on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Clarke's Conclusion: Never let your sense of morals interfere with doing the right thing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Clay's Conclusion: Creativity is great, but plagiarism is faster.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"COBOL: An exercise in Artificial Inelegance.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"COBOL: Completely Over and Beyond reason Or Logic.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cohen's Law: There is no bottom to worse.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cold, adj.: When the politicians walk around with their hands in their own pockets.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cole's Law: Thinly sliced cabbage.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Collaboration, n.: A literary partnership based on the false assumption that the other fellow can spell.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"College: The fountains of knowledge, where everyone goes to drink.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Colvard's Logical Premises: All probabilities are 50",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  against you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Command, n.: Statement presented by a human and accepted by a computer in such a manner as to make the human feel as if he is in control.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Complex system: One with real problems and imaginary profits.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Compliment, n.: When you say something to another which everyone knows isn't true.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Concept, n.: Any \"idea\" for which an outside consultant billed you more than $25,000.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Confirmed bachelor: A man who goes through life without a hitch.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Consultant, n.: An ordinary man a long way from home.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"consultant, n.: Someone who knowns 101 ways to make love, but can't get a date.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Consultant, n.: Someone who'd rather climb a tree and tell a lie than stand on the ground and tell the truth.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Consultation, n.: Medical term meaning \"to share the wealth.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Conversation, n.: A vocal competition in which the one who is catching his breath is called the listener.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Correspondence Corollary: An experiment may be considered a success if no more than half your data must be discarded to obtain correspondence with your theory.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Corry's Law: Paper is always strongest at the perforations.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"court, n.: A place where they dispense with justice.",
+         "extras":"",
+         "author":"Arthur Train"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Creditor, n.: A man who has a better memory than a debtor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Crenna's Law of Political Accountability: If you are the first to know about something bad, you are going to be held responsible for acting on it, regardless of your formal duties.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Croll's Query: If tin whistles are made of tin, what are foghorns made of?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cropp's Law: The amount of work done varies inversly with the time spent in the office.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"cursor address, n: \"Hello, cursor!\"",
+         "extras":"",
+         "author":"Stan Kelly-Bootle, \"The Devil's DP Dictionary\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cursor, n.: One whose program will not run.",
+         "extras":"",
+         "author":"Robb Russon"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cutler Webster's Law: There are two sides to every argument, unless a person is personally involved, in which case there is only one.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cynic, n.: Experienced.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cynic, n.: One who looks through rose-colored glasses with a jaundiced eye.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Data, n.: An accrual of straws on the backs of theories.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Data, n.: Computerspeak for \"information\".  Properly pronounced the way Bostonians pronounce the word for a female child.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Davis' Law of Traffic Density: The density of rush-hour traffic is directly proportional to 1.5 times the amount of extra time you allow to arrive on time.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Davis's Dictum: Problems that go away by themselves, come back by themselves.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Deadwood, n.: Anyone in your company who is more senior than you are.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death wish, n.: The only wish that always comes true, whether or not one wishes it to.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Decision maker, n.: The person in your office who was unable to form a task force before the music stopped.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Default, n.: The hardware's, of course.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Denver, n.: A smallish city located just below the `O' in Colorado.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"design, v.: What you regret not doing later on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"DeVries' Dilemma: If you hit two keys on the typewriter, the one you don't want hits the paper.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dibble's First Law of Sociology: Some do, some don't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Die, v.: To stop sinning suddenly.",
+         "extras":"",
+         "author":"Elbert Hubbard"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"diplomacy, n: Lying in state.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"disbar, n: As distinguished from some other bar.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Distinctive, adj.: A different color or shape than our competitors.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"divorce, n: A change of wife.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Documentation: Instructions translated from Swedish by Japanese for English speaking persons.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dow's Law: In a hierarchical organization, the higher the level, the greater the confusion.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Drakenberg's Discovery: If you can't seem to find your glasses, it's probably because you don't have them on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Drew's Law of Highway Biology: The first bug to hit a clean windshield lands directly in front of your eyes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"drug, n: A substance that, injected into a rat, produces a scientific paper.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Duty, n: What one expects from others.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"economics, n.: Economics is the study of the value and meaning of J.K. Galbraith.",
+         "extras":"",
+         "author":"Mike Harding, \"The Armchair Anarchist's Almanac\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"economist, n: Someone who's good with figures, but doesn't have enough personality to become an accountant.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Egotism, n: Doing the New York Times crossword puzzle with a pen.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ehrman's Commentary: (1) Things will get worse before they get better. (2) Who said things would get better?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Electrocution, n.: Burning at the stake with all the modern improvements.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Elephant, n.: A mouse built to government specifications.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Emacs, n.: A slow-moving parody of a text editor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Emerson's Law of Contrariness: Our chief want in life is somebody who shall make us do what we can.  Having found them, we shall then hate them for it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"enhance, v.: To tamper with an image, usually to its detriment.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Entreprenuer, n.: A high-rolling risk taker who would rather be a spectacular failure than a dismal success.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Envy, n.: Wishing you'd been born with an unfair advantage, instead of having to try and acquire one.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Epperson's law: When a man says it's a silly, childish game, it's probably something his wife can beat him at.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Expense Accounts, n.: Corporate food stamps.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Experience, n.: Something you don't get until just after you need it.",
+         "extras":"",
+         "author":"Olivier"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Expert, n.: Someone who comes from out of town and shows slides.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fairy Tale, n.: A horror story to prepare children for the newspapers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"falsie salesman, n: Fuller bust man.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Famous last words:",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ferguson's Precept: A crisis is when you can't say \"let's forget the whole thing.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fidelity, n.: A virtue peculiar to those who are about to be betrayed.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fifth Law of Procrastination: Procrastination avoids boredom; one never has the feeling that there is nothing important to do.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"File cabinet: A four drawer, manually activated trash compactor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"filibuster, n.: Throwing your wait around.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Finagle's Creed: Science is true.  Don't be misled by facts.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Finagle's First Law: If an experiment works, something has gone wrong.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Finagle's Seventh Law: The perversity of the universe tends toward a maximum.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fine's Corollary: Functionality breeds Contempt.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Finster's Law: A closed mouth gathers no feet.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"First Law of Bicycling: No matter which way you ride, it's uphill and against the wind.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"First law of debate: Never argue with a fool.  People might not know the difference.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"First Law of Socio-Genetics: Celibacy is not hereditary.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"First Rule of History: History doesn't repeat itself -- historians merely repeat each other.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fishbowl, n.: A glass-enclosed isolation cell where newly promoted managers are kept for observation.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Flon's Law: There is not now, and never will be, a language in which it is the least bit difficult to write bad programs.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Flugg's Law: When you need to knock on wood is when you realize that the world is composed of vinyl, naugahyde and aluminum.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Foolproof Operation: No provision for adjustment.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Forecast, n.: A prediction of the future, based on the past, for which the forecaster demands payment in the present.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Forgetfulness, n.: A gift of God bestowed upon debtors in compensation for their destitution of conscience.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fourth Law of Revision: It is usually impractical to worry beforehand about interferences -- if you have none, someone will make one for you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fourth Law of Thermodynamics: If the probability of success is not almost one, it is damn near zero.",
+         "extras":"",
+         "author":"David Ellis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fresco's Discovery: If you knew what you were doing you'd probably be bored.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fried's 1st Rule: Increased automation of clerical function invariably results in increased operational costs.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fuch's Warning: If you actually look like your passport photo, you aren't well enough to travel.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fudd's First Law of Opposition: Push something hard enough and it will fall over.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fun Facts, #14: In table tennis, whoever gets 21 points first wins.  That's how it once was in baseball -- whoever got 21 runs first won.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Galbraith's Law of Human Nature: Faced with the choice between changing one's mind and proving that there is no need to do so, almost everybody gets busy on the proof.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Genius, n.: A chemist who discovers a laundry additive that rhymes with \"bright.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"genlock, n.: Why he stays in the bottle.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gilbert's Discovery: Any attempt to use the new super glues results in the two pieces sticking to your thumb and index finger rather than to each other.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ginsburg's Law: At the precise moment you take off your shoe in a shoe store, your big toe will pop out of your sock to see what's going on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Goda's Truism: By the time you get to the point where you can make ends meet, somebody moves the ends.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gold's Law: If the shoe fits, it's ugly.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Goldenstern's Rules: (1) Always hire a rich attorney (2) Never buy from a rich salesman.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gordon's first law: If a research project is not worth doing, it is not worth doing well.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gordon's Law: If you think you have the solution, the question was poorly phrased.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"gossip, n.: Hearing something you like about someone you don't.",
+         "extras":"",
+         "author":"Earl Wilson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Government's Law: There is an exception to all laws.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Grabel's Law: 2 is not equal to 3 -- not even for large values of 2.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"grasshopotomaus: A creature that can leap to tremendous heights... once.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gravity: What you get when you eat too much and too fast.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Great American Axiom: Some is good, more is better, too much is just right.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Green's Law of Debate: Anything is possible if you don't know what you're talking about.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Greener's Law: Never argue with a man who buys ink by the barrel.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Grelb's Reminder: Eighty percent of all people consider themselves to be above average drivers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Griffin's Thought: When you starve with a tiger, the tiger starves last.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Grinnell's Law of Labor Laxity: At all times, for any task, you have not got enough done today.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Guillotine, n.: A French chopping center.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gumperson's Law: The probability of a given event occurring is inversely proportional to its desirability.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"guru, n: A computer owner who can read the manual.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hacker's Law: The belief that enhanced understanding will necessarily stir a nation to action is one of mankind's oldest illusions.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"hacker, n.: A master byter.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hangover, n.: The burden of proof.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"hangover, n.: The wrath of grapes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hanlon's Razor: Never attribute to malice that which is adequately explained by stupidity.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hanson's Treatment of Time: There are never enough hours in a day, but always too many days before Saturday.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"hard, adj.: The quality of your own data; also how it is to believe those of other people.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hardware, n.: The parts of a computer system that can be kicked.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Harriet's Dining Observation: In every restaurant, the hardness of the butter pats increases in direct proportion to the softness of the bread.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Harris's Lament: All the good ones are taken.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Harrisberger's Fourth Law of the Lab: Experience is directly proportional to the amount of equipment ruined.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Harrison's Postulate: For every action, there is an equal and opposite criticism.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hartley's First Law: You can lead a horse to water, but if you can get him to float on his back, you've got something.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hawkeye's Conclusion: It's not easy to play the clown when you've got to run the whole circus.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"heavy, adj.: Seduced by the chocolate side of the force.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hempstone's Question: If you have to travel on the Titanic, why not go first class?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Herth's Law: He who turns the other cheek too far gets it in the neck.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hildebrant's Principle: If you don't know where you are going, any road will get you there.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hitchcock's Staple Principle: The stapler runs out of staples only while you are trying to staple something.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hlade's Law: If you have a difficult task, give it to a lazy person -- they will find an easier way to do it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hoare's Law of Large Problems: Inside every large problem is a small problem struggling to get out.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hoffer's Discovery: The grand act of a dying institution is to issue a newly revised, enlarged edition of the policies and procedures manual.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hofstadter's Law: It always takes longer than you expect, even when you take Hofstadter's Law into account.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hollerith, v.: What thou doest when thy phone is on the fritzeth.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"honeymoon, n.: A short period of doting between dating and debting.",
+         "extras":"",
+         "author":"Ray C. Bandy"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Horner's Five Thumb Postulate: Experience varies directly with equipment ruined.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Horngren's Observation: Among economists, the real world is often a special case.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Household hint: If you are out of cream for your coffee, mayonnaise makes a dandy substitute.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HOW YOU CAN TELL THAT IT'S GOING TO BE A ROTTEN DAY: #1040 Your income tax refund cheque bounces.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HOW YOU CAN TELL THAT IT'S GOING TO BE A ROTTEN DAY: #15 Your pet rock snaps at you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HOW YOU CAN TELL THAT IT'S GOING TO BE A ROTTEN DAY: #32: You call your answering service and they've never heard of you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Howe's Law: Everyone has a scheme that will not work.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hubbard's Law: Don't take life too seriously; you won't get out of it alive.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hurewitz's Memory Principle: The chance of forgetting something is directly proportional to... to... uh.....",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"IBM Pollyanna Principle: Machines should work.  People should think.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"IBM's original motto: Cogito ergo vendo; vendo ergo sum.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"IBM: [International Business Machines Corp.] Also known as Itty Bitty Machines or The Lawyer's Friend.  The dominant force in computer marketing, having supplied worldwide some 75",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  of all known hardware and 10",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  of all software.  To protect itself from the litigious envy of less successful organizations, such as the US government, IBM employs 68",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  of all known ex-Attorneys' General.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"IBM: It may be slow, but it's hard to use.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"idleness, n.: Leisure gone to seed.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"ignorance, n.: When you don't know anything, and someone else finds out.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"inbox, n.: A catch basin for everything you don't want to deal with, but are afraid to throw away.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"index, n.: Alphabetical list of words of no possible interest where an alphabetical list of subjects with references ought to be.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Information Center, n.: A room staffed by professional computer people whose job it is to tell you why you cannot have the information you require.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Information Processing: What you call data processing when people are so disgusted with it they won't let it be discussed in their presence.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ingrate, n.: A man who bites the hand that feeds him, and then complains of indigestion.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"innovate, v.: To annoy people.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"interest, n.: What borrowers pay, lenders receive, stockholders own, and burned out employees must feign.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"intoxicated, adj.: When you feel sophisticated without being able to pronounce it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Iron Law of Distribution: Them that has, gets.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"ISO applications: A solution in search of a problem!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"It's in process\": So wrapped up in red tape that the situation is almost hopeless.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Jacquin's Postulate on Democratic Government: No man's life, liberty, or property are safe while the legislature is in session.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Jenkinson's Law: It won't work.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"job interview, n.: The excruciating process during which personnel officers separate the wheat from the chaff -- then hire the chaff.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"job Placement, n.: Telling your boss what he can do with your job.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"jogger, n.: An odd sort of person with a thing for pain.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Johnson's First Law: When any mechanical contrivance fails, it will do so at the most inconvenient possible time.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Johnson's law: Systems resemble the organizations that create them.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Jones' Motto: Friends come and go, but enemies accumulate.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Jones' Second Law: The man who smiles when things go wrong has thought of someone to blame it on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Juall's Law on Nice Guys: Nice guys don't always finish last; sometimes they don't finish. Sometimes they don't even get a chance to start!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Justice, n.: A decision in your favor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kafka's Law: In the fight between you and the world, back the world.",
+         "extras":"",
+         "author":"Franz Kafka, \"RS's 1974 Expectation of Days\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kaufman's First Law of Party Physics: Population density is inversely proportional to the square of the distance from the keg.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kaufman's Law: A policy is a restrictive document to prevent a recurrence of a single incident, in which that incident is never mentioned.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kennedy's Market Theorem: Given enough inside information and unlimited credit, you've got to go broke.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kent's Heuristic: Look for it first where you'd most like to find it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"kernel, n.: A part of an operating system that preserves the medieval traditions of sorcery and black art.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kettering's Observation: Logic is an organized way of going wrong with confidence.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kime's Law for the Reward of Meekness: Turning the other cheek merely ensures two bruised cheeks.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kin, n.: An affliction of the blood.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kliban's First Law of Dining: Never eat anything bigger than your head.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Knebel's Law: It is now proved beyond doubt that smoking is one of the leading causes of statistics.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"knowledge, n.: Things you believe.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kramer's Law: You can never tell which way the train went by looking at the tracks.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Larkinson's Law: All laws are basically false.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"laser, n.: Failed death ray.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Laura's Law: No child throws up in the bathroom.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Law of Continuity: Experiments should be reproducible.  They should all fail the same way.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Law of Procrastination: Procrastination avoids boredom; one never has the feeling that there is nothing important to do.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Law of the Jungle: He who hesitates is lunch.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"lawsuit, n.: A machine which you go into as a pig and come out as a sausage.",
+         "extras":"",
+         "author":"Ambrose Bierce"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lazlo's Chinese Relativity Axiom: No matter how great your triumphs or how tragic your defeats -- approximately one billion Chinese couldn't care less.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lee's Law: Mother said there would be days like this, but she never said that there'd be so many!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Leibowitz's Rule: When hammering a nail, you will never hit your finger if you hold the hammer with both hands.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"leverage, n.: Even if someone doesn't care what the world thinks about them, they always hope their mother doesn't find out.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lewis's Law of Travel: The first piece of luggage out of the chute doesn't belong to anyone, ever.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Liar: one who tells an unpleasant truth.",
+         "extras":"",
+         "author":"Oliver Herford"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lie, n.: A very poor substitute for the truth, but the only one discovered to date.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lieberman's Law: Everybody lies, but it doesn't matter since nobody listens.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"life, n.: A whim of several billion cells to be you for a while.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"life, n.: Learning about people the hard way -- by being one.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"life, n.: That brief interlude between nothingness and eternity.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"lighthouse, n.: A tall building on the seashore in which the government maintains a lamp and the friend of a politician.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"like: When being alive at the same time is a wonderful coincidence.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Linus' Law: There is no heavier burden than a great potential.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"lisp, v.: To call a spade a thpade.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lockwood's Long Shot: The chances of getting eaten up by a lion on Main Street aren't one in a million, but once would be enough.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"love,  n.: Love ties in a knot in the end of the rope.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"love, n.: When it's growing, you don't mind watering it with a few tears.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"love, n.: When you don't want someone too close -- because you're very sensitive to pleasure.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"love, n.: When you like to think of someone on days that begin with a morning.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"love, n.: When, if asked to choose between your lover and happiness, you'd skip happiness in a heartbeat.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"love, v.: I'll let you play with my life if you'll let me play with yours.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lowery's Law: If it jams -- force it. If it breaks, it needed replacing anyway.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lubarsky's Law of Cybernetic Entomology: There's always one more bug.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lunatic Asylum, n.: The place where optimism most flourishes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Machine-Independent, adj.: Does not run on any existing machine.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Madison's Inquiry: If you have to travel on the Titanic, why not go first class?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"of the observed measurements must be discarded to     obtain a correspondence with the theory.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Main's Law: For every action there is an equal and opposite government program.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Maintainer's Motto: If we can't fix it, it ain't broke.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Majority, n.: That quality that distinguishes a crime from a law.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Malek's Law: Any simple idea will be worded in the most complicated way.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"malpractice, n.: The reason surgeons wear masks.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"management, n.: The art of getting other people to do all the work.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"manic-depressive, adj.: Easy glum, easy glow.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Manly's Maxim: Logic is a systematic method of coming to the wrong conclusion with confidence.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mark's Dental-Chair Discovery: Dentists are incapable of asking questions that require a simple yes or no answer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"marriage, n.: Convertible bonds.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage, n.: The evil aye.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marxist Law of Distribution of Wealth: Shortages will be divided equally among the peasants.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Maryann's Law: You can always find what you're not looking for.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Maslow's Maxim: If the only tool you have is a hammer, you treat everything like  a nail.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mason's First Law of Synergism: The one day you'd sell your soul for something, souls are a glut.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"mathematician, n.: Some one who believes imaginary things appear right before your _i's.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Matz's Law: A conclusion is the place where you got tired of thinking.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"May's Law: The quality of correlation is inversly proportional to the density of control.  (The fewer the data points, the smoother the curves.)",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"McEwan's Rule of Relative Importance: When traveling with a herd of elephants, don't be the first to lie down and rest.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"McGowan's Madison Avenue Axiom: If an item is advertised as \"under $50\", you can bet it's not $19.95.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Meade's Maxim: Always remember that you are absolutely unique, just like everyone else.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Meader's Law: Whatever happens to you, it will previously have happened to everyone you know, only more so.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"meeting, n.: An assembly of people coming together to decide what person or department not represented in the room must solve a problem.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"meetings, n.: A place where minutes are kept and hours are lost.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"memo, n.: An interoffice communication too often written more for the benefit of the person who sends it than the person who receives it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mencken and Nathan's Fifteenth Law of The Average American: The worst actress in the company is always the manager's wife.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mencken and Nathan's Ninth Law of The Average American: The quality of a champagne is judged by the amount of noise the cork makes when it is popped.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mencken and Nathan's Second Law of The Average American: All the postmasters in small towns read all the postcards.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Menu, n.: A list of dishes which the restaurant has just run out of.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Meskimen's Law: There's never time to do it right, but there's always time to do it over.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"meterologist, n.: One who doubts the established fact that it is bound to rain if you forget your umbrella.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Micro Credo: Never trust a computer bigger than you can lift.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"micro: Thinker toys.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Miksch's Law: If a string has one end, then it has another end.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Miller's Slogan: Lose a few, lose a few.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"millihelen, n.: The amount of beauty required to launch one ship.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Minicomputer: A computer that can be afforded on the budget of a middle-level manager.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"MIPS: Meaningless Indicator of Processor Speed",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"MIT: The Georgia Tech of the North",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mitchell's Law of Committees: Any simple problem can be made insoluble if enough meetings are held to discuss it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mix's Law: There is nothing more permanent than a temporary building. There is nothing more permanent than a temporary tax.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"mixed emotions: Watching a bus-load of lawyers plunge off a cliff. With five empty seats.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"mixed emotions: Watching your mother-in-law back off a cliff... in your brand new Mercedes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"modesty, n.: Being comfortable that others will discover your greatness.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mollison's Bureaucracy Hypothesis: If an idea can survive a bureaucratic review and be implemented it wasn't worth doing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"momentum, n.: What you give a person when they are going away.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Moon, n.: 1. A celestial object whose phase is very important to hackers. See  PHASE OF THE MOON.  2. Dave Moon (MOON@MC).",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Moore's Constant: Everybody sets out to do something, and everybody does something, but no one does what he sets out to do.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"mophobia, n.: Fear of being verbally abused by a Mississippian.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Morton's Law: If rats are experimented upon, they will develop cancer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mosher's Law of Software Engineering: Don't worry if it doesn't work right.  If everything did, you'd be out of a job.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mr. Cole's Axiom: The sum of the intelligence on the planet is a constant; the population is growing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"mummy, n.: An Egyptian who was pressed for time.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Murphy's Law of Research: Enough research will tend to support your theory.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Murray's Rule: Any country with \"democratic\" in the title isn't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nachman's Rule: When it comes to foreign food, the less authentic the better.",
+         "extras":"",
+         "author":"Gerald Nachman"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"new, adj.: Different color from previous model.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Newlan's Truism: An \"acceptable\" level of unemployment means that the  government economist to whom it is acceptable still has a job.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Newman's Discovery: Your best dreams may not come true; fortunately, neither will your worst dreams.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Newton's Law of Gravitation: What goes up must come down.  But don't expect it to come down where you can find it.  Murphy's Law applies to Newton's.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Newton's Little-Known Seventh Law: A bird in the hand is safer than one overhead.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nick the Greek's Law of Life: All things considered, life is 9 to 5 against.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ninety-Ninety Rule of Project Schedules: The first ninety percent of the task takes ninety percent of the time, and the last ten percent takes the other ninety percent.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"no brainer: A decision which, viewed through the retrospectoscope, is \"obvious\" to those who failed to make it originally.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"no maintenance: Impossible to fix.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"nolo contendere: A legal term meaning: \"I didn't do it, judge, and I'll never do it again.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"nominal egg: New Yorkerese for expensive.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Non-Reciprocal Laws of Expectations: Negative expectations yield negative results. Positive expectations yield negative results.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Novinson's Revolutionary Discovery: When comes the revolution, things will be different -- not better, just different.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nowlan's Theory: He who hesitates is not only lost, but several miles from the next freeway exit.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"O'Brian's Law: Everything is always done for the wrong reasons.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"O'Reilly's Law of the Kitchen: Cleanliness is next to impossible",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"O'Toole's commentary on Murphy's Law: Murphy was an optimist.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Occam's eraser: The philosophical principle that even the simplest solution is bound to have something wrong with it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Office Automation: The use of computers to improve efficiency in the office by removing anyone you would want to talk with over coffee.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ogden's Law: The sooner you fall behind, the more time you have to catch up.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Old Japanese proverb: There are two kinds of fools -- those who never climb Mt. Fuji, and those who climb it twice.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Old timer, n.: One who remembers when charity was a virtue and not an organization.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Oliver's Law: Experience is something you don't get until just after you need it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Olmstead's Law: After all is said and done, a hell of a lot more is said than done.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"omnibiblious, adj.: Indifferent to type of drink.  Ex: \"Oh, you can get me anything. I'm omnibiblious.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"On-line, adj.: The idea that a human being should always be accessible to a computer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"One size fits all\": Doesn't fit anyone.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One-Shot Case Study, n.: The scientific equivalent of the four-leaf clover, from which it is concluded all clovers possess four leaves and are sometimes green.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"optimist, n: A bagpiper with a beeper.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Oregano, n.: The ancient Italian art of pizza folding.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Osborn's Law: Variables won't; constants aren't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"pain, n.: One thing, at least it proves that you're alive!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pandora's Rule: Never open a box you didn't close.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"paranoia, n.: A healthy understanding of the way the universe works.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Parkinson's Fifth Law: If there is a way to delay in important decision, the good bureaucracy, public or private, will find it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Parkinson's Fourth Law: The number of people in any working group tends to increase regardless of the amount of work to be done.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"party, n.: A gathering where you meet people who drink so much you can't even remember their names.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pascal Users: The Pascal system will be replaced next Tuesday by Cobol. Please modify your programs accordingly.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pascal Users: To show respect for the 313th anniversary (tomorrow) of the death of Blaise Pascal, your programs will be run at half speed.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Password:",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Patageometry, n.: The study of those mathematical properties that are invariant under brain transplants.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"patent: A method of publicizing inventions so others can copy them.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Paul's Law: In America, it's not how much an item costs, it's how much you save.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Paul's Law: You can't fall off the floor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pecor's Health-Food Principle: Never eat rutabaga on any day of the week that has a \"y\" in it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Peers's Law: The solution to a problem changes the nature of the problem.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Penguin Trivia #46: Animals who are not penguins can only wish they were.",
+         "extras":"",
+         "author":"Chicago Reader 10/15/82"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"pension: A federally insured chain letter.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"perfect guest: One who makes his host feel at home.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Peterson's Admonition: When you think you're going down for the third time -- just remember that you may have counted wrong.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"philosophy: The ability to bear with calmness the misfortunes of our friends.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"philosophy: Unintelligible answers to insoluble problems.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pickle's Law: If Congress must do a painful thing, the thing must be done in an odd-number year.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Please take note:",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pohl's law: Nothing is so good that somebody, somewhere, will not hate it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"poisoned coffee, n.: Grounds for divorce.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pollyanna's Educational Constant: The hyperactive child is never absent.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"polygon: Dead parrot.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Poorman's Rule: When you pull a plastic garbage bag from its handy dispenser package, you always get hold of the closed end and try to pull it open.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Portable, adj.: Survives system reboot.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"poverty, n.: An unfortunate state that persists as long as anyone lacks anything he would like to have.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Power, n.: The only narcotic regulated by the SEC instead of the FDA.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"prairies, n.: Vast plains covered by treeless forests.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Preudhomme's Law of Window Cleaning: It's on the other side.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Price's Advice: It's all a game -- play it to have fun.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"problem drinker, n.: A man who never buys.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Programming Department: Mistakes made while you wait.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pryor's Observation: How long you live has nothing to do  with how long you are going to be dead.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pudder's Law: Anything that begins well will end badly. (Note: The converse of Pudder's law is not true.)",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD:  \"It's not the despair... I can stand the despair.  It's the hope.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"A child of 5 could understand this!  Fetch me a child of 5.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"A university faculty is 500 egotists with a common parking problem.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Do you smell something burning or is it me?\"",
+         "extras":"",
+         "author":"Joan of Arc"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Don't let your mind wander -- it's too little to be let out alone.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"East is east... and let's keep it that way.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Even the Statue of Liberty shaves her pits.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Every morning I read the obituaries; if my name's not there, I go to work.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Everything I am today I owe to people, whom it is now to late to punish.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"He eats like a bird... five times his own weight each day.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"He's on the same bus, but he's sure as hell got a different ticket.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I ain't broke, but I'm badly bent.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I am not sure what this is, but an 'F' would only dignify it.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I don't think they could put him in a mental hospital. On the other hand, if he were already in, I don't think they'd let him out.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I drive my car quietly, for it goes without saying.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I haven't come far enough, and don't call me baby.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I may not be able to walk, but I drive from the sitting posistion.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I never met a man I couldn't drink handsome.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I only touch base with reality on an as-needed basis!\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I sprinkled some baking powder over a couple of potatoes, but it didn't work.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I thought I saw a unicorn on the way over, but it was just a horse with one of the horns broken off.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I tried buying a goat instead of a lawn tractor; had to return it though.  Couldn't figure out a way to connect the snow blower.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I used to be an idealist, but I got mugged by reality.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I used to be lost in the shuffle, now I just shuffle along with the lost.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I used to get high on life but lately I've built up a resistance.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I used to go to UCLA, but then my Dad got a job.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I used to jog, but the ice kept bouncing out of my glass.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I won't say he's untruthful, but his wife has to call the dog for dinner.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I'd never marry a woman who didn't like pizza... I might play golf with her, but I wouldn't marry her!\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I'll listen to reason when it comes out on CD.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I'm just a boy named 'su'...\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I'm not really for apathy, but I'm not against it either...\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I'm on a seafood diet -- I see food and I eat it.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I've always wanted to work in the Federal Mint.  And then go on strike. To make less money.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I've got one last thing to say before I go; give me back all of my stuff.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"I've just learned about his illness.  Let's hope it's nothing trivial.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"If he learns from his mistakes, pretty soon he'll know everything.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"If I could walk that way, I wouldn't need the cologne, now would I?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"If I'm what I eat, I'm a chocolate chip cookie.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"If you keep an open mind people will throw a lot of garbage in it.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"In the shopping mall of the mind, he's in the toy department.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It seems to me that your antenna doesn't bring in too many stations anymore.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It was so cold last winter that I saw a lawyer with his hands in his own pockets.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It wouldn't have been anything, even if it were gonna be a thing.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It's a cold bowl of chili, when love don't work out.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It's been Monday all week today.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It's been real and it's been fun, but it hasn't been real fun.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It's hard to tell whether he has an ace up his sleeve or if the ace is missing from his deck altogether.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"It's sort of a threat, you see.  I've never been very good at them myself, but I'm told they can be very effective.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Just how much can I get away with and still go to heaven?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Lack of planning on your part doesn't consitute an emergency on my part.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Like this rose, our love will wilt and die.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"My life is a soap opera, but who gets the movie rights?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"My shampoo lasts longer than my relationships.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Of course it's the murder weapon.  Who would frame someone with a fake?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Of course there's no reason for it, it's just our policy.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Oh, no, no...I'm not beautiful.  Just very, very pretty.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Our parents were never our age.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Overweight is when you step on your dog's tail and it dies.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Say, you look pretty athletic. What say we put a pair of tennis shoes on you and run you into the wall?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"She's about as smart as bait.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Sure, I turned down a drink once.  Didn't understand the question.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"The baby was so ugly they had to hang a pork chop around its neck to get the dog to play with it.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"The elder gods went to Suggoth and all I got was this lousy T-shirt.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"There may be no excuse for laziness, but I'm sure looking.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"This is a one line proof... if we start sufficiently far to the left.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Unlucky?  If I bought a pumpkin farm, they'd cancel Halloween.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"What do you mean, you had the dog fixed?   Just what made you think he was broken!\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"What I like most about myself is that I'm so understanding when I mess things up.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"What women and psychologists call `dropping your armor', we call \"baring your neck.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"When she hauled ass, it took three trips.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Who?  Me?  No, no, NO!!  But I do sell rugs.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"Wouldn't it be wonderful if real life supported control-Z?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"You want me to put *holes* in my ears and hang things from them? How...tribal.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: \"You're so dumb you don't even have wisdom teeth.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: All I want is a little more than I'll ever get.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: All I want is more than my fair share.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Flash!Flash!I love you! ...but we only have fourteen hours to save the earth!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: How can I miss you if you won't go away?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: I love your outfit, does it come in your size?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: I'm not a nerd -- I'm \"socially challenged\".",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: I've heard about civil Engineers, but I've never met one.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: If it's too loud, you're too old.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: If you're looking for trouble, I can offer you a wide selection.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Money isn't everything, but at least it keeps the kids in touch.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: My mother was the travel agent for guilt trips.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: On a scale of 1 to 10 I'd say...  oh, somewhere in there.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Sacred cows make great hamburgers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Silence is the only virtue he has left.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Some people have one of those days.  I've had one of those lives.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Talent does what it can, genius what it must. I do what I get paid to do.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Talk about willing people... over half of them are willing to work and the others are more than willing to watch them.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: The forest may be quiet, but that doesn't mean the snakes have gone away.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: The only easy way to tell a hamster from a gerbil is that the gerbil has more dark meat.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"QOTD: Y'know how s'm people treat th'r body like a TEMPLE? Well, I treat mine like 'n AMUSEMENT PARK...  S'great...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quality control, n.: Assuring that the quality of a product does not get out of hand and add to the cost of its manufacture or design.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quality Control, n.: The process of testing one out of every 1,000 units coming off a production line to make sure that at least one out of 100 works.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"quark: The sound made by a well bred duck.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quigley's Law: Whoever has any authority over you, no matter how small, will atttempt to use it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ralph's Observation: It is a mistake to let any mechanical object realise that you are in a hurry.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Random, n.: As in number, predictable.  As in memory access, unpredictable.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ray's Rule of Precision: Measure with a micrometer.  Mark with chalk.  Cut with an axe.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Time, adj.: Here and now, as opposed to fake time, which only occurs there and then.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reappraisal, n.: An abrupt change of mind after being found out.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Recursion n.: See Recursion.",
+         "extras":"",
+         "author":"Random Shack Data Processing Dictionary"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reformed, n.: A synagogue that closes for the Jewish holidays.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Regression analysis: Mathematical techniques for trying to understand why things are getting worse.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reichel's Law: A body on vacation tends to remain on vacation unless acted upon by an outside force.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reisner's Rule of Conceptual Inertia: If you think big enough, you'll never have to do it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reliable source, n.: The guy you just met.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Renning's Maxim: Man is the highest animal.  Man does the classifying.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reputation, adj.: What others are not thinking about you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Revolution, n.: A form of government abroad.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"revolutionary, adj.: Repackaged.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Robot, n.: University administrator.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Robustness, adj.: Never having to say you're sorry.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Rocky's Lemma of Innovation Prevention: Unless the results are known in advance, funding agencies will reject the proposal.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"rugged, adj.: Too heavy to lift.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Rule of Defactualization: Information deteriorates upward through bureaucracies.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Rule of the Great: When people you greatly admire appear to be thinking deep thoughts, they probably are thinking about lunch.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Rune's Rule: If you don't care where you are, you ain't lost.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ryan's Law: Make three correct guesses consecutively and you will establish yourself as an expert.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sacher's Observation: Some people grow with responsibility -- others merely swell.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Satellite Safety Tip #14: If you see a bright streak in the sky coming at you, duck.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sattinger's Law: It works better if you plug it in.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Savage's Law of Expediency: You want it bad, you'll get it bad.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Schapiro's Explanation: The grass is always greener on the other side -- but that's because they use more manure.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Schmidt's Observation: All things being equal, a fat person uses more soap than a thin person.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Second Law of Final Exams: In your toughest final -- for the first time all year -- the most distractingly attractive student in the class will sit next to you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Secretary's Revenge: Filing almost everything under \"the\".",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Seleznick's Theory of Holistic Medicine: Ice Cream cures all ills.  Temporarily.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Self Test for Paranoia: You know you have it when you can't think of anything that's your own fault.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"senility, n.: The state of mind of elderly persons with whom one happens to disagree.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"serendipity, n.: The process by which human knowledge is advanced.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Serocki's Stricture: Marriage is always a bachelor's last option.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Shannon's Observation: Nothing is so frustrating as a bad situation that is beginning to improve.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"share, n.: To give in, endure humiliation.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Shaw's Principle: Build a system that even a fool can use, and only a fool will want to use it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Shedenhelm's Law: All trails have more uphill sections than they have downhill sections.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Shick's Law: There is no problem a good miracle can't solve.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Silverman's Law: If Murphy's Law can go wrong, it will.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Simon's Law: Everything put together falls apart sooner or later.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Slous' Contention: If you do a job too well, you'll get stuck with it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"snappy repartee: What you'd say if you had another chance.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sodd's Second Law: Sooner or later, the worst possible set of circumstances is bound to occur.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Software, n.: Formal evening attire for female computer analysts.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Speer's 1st Law of Proofreading: The visibility of an error is inversely proportional to the number of times you have looked at it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Spence's Admonition: Never stow away on a kamikaze plane.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Spouse, n.: Someone who'll stand by you through all the trouble you wouldn't have had if you'd stayed single.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"standards, n.: The principles we use to reject other people's code.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"statistics, n.: A system for expressing your political prejudices in convincing scientific guise.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Steckel's Rule to Success: Good enough is never good enough.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Steele's Law: There exist tasks which cannot be done by more than ten men or fewer than one hundred.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Steele's Plagiarism of Somebody's Philosophy: Everybody should believe in something -- I believe I'll have another drink.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Steinbach's Guideline for Systems Programming: Never test for an error condition you don't know how to handle.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stenderup's Law: The sooner you fall behind, the more time you will have to catch up.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stock's Observation: You no sooner get your head above water but what someone pulls your flippers off.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stone's Law: One man's \"simple\" is another man's \"huh?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"strategy, n.: A comprehensive plan of inaction.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Strategy: A long-range plan whose merit cannot be evaluated until sometime after those creating it have left the organization.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stult's Report: Our problems are mostly behind us.  What we have to do now is fight the solutions.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stupid, n.: Losing $25 on the game and $25 on the instant replay.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sturgeon's Law: 90",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  of everything is crud.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"sugar daddy, n.: A man who can afford to raise cain.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"SUN Microsystems: The Network IS the Load Average.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"sushi, n.: When that-which-may-still-be-alive is put on top of rice and strapped on with electrical tape.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sushido, n.: The way of the tuna.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Swahili, n.: The language used by the National Enquirer to print their retractions.",
+         "extras":"",
+         "author":"Johnny Hart"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sweater, n.: A garment worn by a child when its mother feels chilly.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Swipple's Rule of Order: He who shouts the loudest has the floor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"system-independent, adj.: Works equally poorly on all systems.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"T-shirt Of The Day: I'm the person your mother warned you about.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"T-shirt: Life is *not* a Cabaret, and stop calling me chum!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Tact, n.: The unsaid part of what you're thinking.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"take forceful action: Do something that should have been done a long time ago.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"tax office, n.: Den of inequity.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Taxes, n.: Of life's two certainties, the only one for which you can get an extension.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"taxidermist, n.: A man who mounts animals.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"teamwork, n.: Having someone to blame.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Teutonic: Not enough gin.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The 357.73 Theory: Auditors always reject expense accounts with a bottom line divisible by 5.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Abrams' Principle: The shortest distance between two points is off the wall.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Ancient Doctrine of Mind Over Matter: I don't mind... and you don't matter.",
+         "extras":"",
+         "author":"As revealed to reporter G. Rivera by Swami Havabanana"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Beatles: Paul McCartney's old back-up band.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Fifth Rule: You have taken yourself too seriously.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Golden Rule of Arts and Sciences: He who has the gold makes the rules.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Gordian Maxim: If a string has one end, it has another.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Heineken Uncertainty Principle: You can never be sure how many beers you had last night.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Illiterati Programus Canto 1: A program is a lot like a nose: Sometimes it runs, and sometimes it blows.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Kennedy Constant: Don't get mad -- get even.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Law of the Letter: The best way to inspire fresh thoughts is to seal the envelope.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Marines: The few, the proud, the dead on the beach.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Marines: The few, the proud, the not very bright.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Phone Booth Rule: A lone dime always gets the number nearly right.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The qotc (quote of the con) was Liz's: \"My brain is paged out to my liver.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Roman Rule: The one who says it cannot be done should never interrupt the one who is doing it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Second Law of Thermodynamics: If you think things are in a mess now, just wait!",
+         "extras":"",
+         "author":"Jim Warner"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Theory of Selective Supervision: The one time in the day that you lean back and relax is the one time the boss walks through the office.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Those lovable Brits department: They also have trouble pronouncing `vitamin'.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thyme's Law: Everything goes wrong at once.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"timesharing, n: An access method whereby one computer abuses many people.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"today, n.: A nice place to visit, but you can't stay here for long.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Toni's Solution to a Guilt-Free Life: If you have to lie to someone, it's their fault.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"transfer, n.: A promotion you receive on the condition that you leave town.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"travel, n.: Something that makes you feel like you're getting somewhere.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Trust me\": Translation of the Latin \"caveat emptor.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Turnaucka's Law: The attention span of a computer is only as long as its electrical cord.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Tussman's Law: Nothing is as inevitable as a mistake whose time has come.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Udall's Fourth Law: Any change or reform you make is going to have consequences you don't like.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Uncle Ed's Rule of Thumb: Never use your thumb for a rule. You'll either hit it with a hammer or get a splinter in it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Underlying Principle of Socio-Genetics: Superiority is recessive.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"unfair competition, n.: Selling cheaper than we do.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"union, n.: A dues-paying club workers wield to strike management.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Universe, n.: The problem.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Unnamed Law: If it happens, it must be possible.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"untold wealth, n.: What you left out on April 15th.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"User n.: A programmer who will believe anything you tell him.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Vail's Second Axiom: The amount of work to be done increases in proportion to the amount of work already completed.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Van Roy's Law: An unbreakable toy is useful for breaking other toys.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Velilind's Laws of Experimentation: (1) If reproducibility may be a problem, conduct the test only once. (2) If a straight line fit is required, obtain only two data points.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"VMS, n.: The world's foremost multi-user adventure game.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"volcano, n.: A mountain with hiccups.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Volley Theory: It is better to have lobbed and lost than never to have lobbed at all.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"vuja de: The feeling that you've *never*, *ever* been in this situation before.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Watson's Law: The reliability of machinery is inversely proportional to the number and significance of any persons watching it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"We'll look into it\": By the time the wheels make a full turn, we assume you will have forgotten about it, too.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"we: The single most important word in the world.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"weapon, n.: An index of the lack of development of a culture.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Weiler's Law: Nothing is impossible for the man who doesn't have to do it himself.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Weinberg's First Law: Progress is only made on alternate Fridays.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Weinberg's Principle: An expert is a person who avoids the small errors while sweeping on to the grand fallacy.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Weinberg's Second Law: If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Weiner's Law of Libraries: There are no answers, only cross references.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"well-adjusted, adj.: The ability to play bridge or golf as if they were games.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Westheimer's Discovery: A couple of months in the laboratory can frequently save a couple of hours in the library.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whistler's Law: You never know who is right, but you always know who is in charge.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whitehead's Law: The obvious answer is always overlooked.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wiker's Law: Government expands to absorb revenue and then some.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wilcox's Law: A pat on the back is only a few centimeters from a kick in the pants.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Williams and Holland's Law: If enough data is collected, anything may be proven by statistical methods.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wilner's Observation: All conversations with a potato should be conducted in private.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"wok, n.: Something to thwow at a wabbit.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"wolf, n.: A man who knows all the ankles.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Woodward's Law: A theory is better than its explanation.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Woolsey-Swanson Rule: People would rather live with a problem they cannot solve rather than accept a solution they cannot understand.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"work, n.: The blessed respite from screaming kids and soap operas for which you actually get paid.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Worst Month of 1981 for Downhill Skiing: August. The lift lines are the shortest, though.",
+         "extras":"",
+         "author":"Steve Rubenstein"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Worst Vegetable of the Year: The brussels sprout.  This is also the worst vegetable of next year.",
+         "extras":"",
+         "author":"Steve Rubenstein"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"WYSIWYG: What You See Is What You Get.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"yo-yo, n.: Something that is occasionally up but normally down. (see also Computer).",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"zeal, n.: Quality seen in new graduates -- if you're quick.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Zero Defects, n.: The result of shutting down a production line.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Zymurgy's Law of Volunteer Labor: People are always available for work in the past tense. ",
+         "extras":"",
+         "author":""
+      }
+  ]
+}

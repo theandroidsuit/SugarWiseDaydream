@@ -1,0 +1,529 @@
+{
+   "type": "Sports",
+   "total": "",
+   "wisdom":[
+
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A gambler's biggest thrill is winning a bet. His next biggest thrill is losing a bet."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A nickel ain't worth a dime anymore. ",
+         "extras":"",
+         "author":"Yogi Berra"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All bridge hands are equally likely, but some are more equally likely than others. ",
+         "extras":"",
+         "author":"Alan Truscott"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing. ",
+         "extras":"",
+         "author":"Dave Barry"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"[Babe] Ruth made a big mistake when he gave up pitching. ",
+         "extras":"",
+         "author":"Tris Speaker, 1921"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bill Dickey is learning me his experience. ",
+         "extras":"",
+         "author":"Yogi Berra in his rookie season."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Check me if I'm wrong, Sandy, but if I kill all the golfers... they're gonna lock me up and throw away the key!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't let go of what you've got hold of, until you have hold of something else. ",
+         "extras":"",
+         "author":"First Rule of Wing Walking"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ever feel like life was a game and you had the wrong instruction book?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ever feel like you're the head pin on life's bowling alley, and everyone's rolling strikes?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every creature has within him the wild, uncontrollable urge to punt. ",
+         "extras":"",
+         "author":"Snoopy"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Flying is the second greatest feeling you can have.  The greatest feeling? Landing...  Landing is the greatest feeling you can have."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Football builds self-discipline.  What else would induce a spectator to sit out in the open in subfreezing weather?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Football combines the two worst features of American life. It is violence punctuated by committee meetings. ",
+         "extras":"",
+         "author":"George F. Will, \"Men At Work:  The Craft of Baseball\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Football is a game designed to keep coalminers off the streets. ",
+         "extras":"",
+         "author":"Jimmy Breslin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTUNE'S FUN FACTS TO KNOW AND TELL:  #14  The Baby Ruth candy bar was not named after George Herman \"The Babe\" Ruth, but after the oldest daughter of President Grover Cleveland."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"From 0 to \"what seems to be the problem officer\" in 8.3 seconds. ",
+         "extras":"",
+         "author":"Ad for the new VW Corrado"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Give a man a fish, and you feed him for a day. Teach a man to fish, and he'll invite himself over for dinner. ",
+         "extras":"",
+         "author":"Calvin Keegan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Give me a fish and I will eat today.  Teach me to fish and I will eat forever."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Go directly to jail.  Do not pass Go, do not collect $200."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Horse sense is the thing a horse has which keeps it from betting on people. ",
+         "extras":"",
+         "author":"W. C. Fields"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How can you think and hit at the same time? ",
+         "extras":"",
+         "author":"Yogi Berra"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I always turn to the sports pages first, which record people's accomplishments. The front page has nothing but man's failures. ",
+         "extras":"",
+         "author":"Chief Justice Earl Warren"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I believe that professional wrestling is clean and everything else in the world is fixed. ",
+         "extras":"",
+         "author":"Frank Deford, sports writer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I can't decide whether to commit suicide or go bowling. ",
+         "extras":"",
+         "author":"Florence Henderson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I guess the Little League is even littler than we thought. ",
+         "extras":"",
+         "author":"D. Cavett"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I just know I'm a better manager when I have Joe DiMaggio in center field. ",
+         "extras":"",
+         "author":"Casey Stengel"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I like your game but we have to change the rules."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I never met a man I didn't want to fight. ",
+         "extras":"",
+         "author":"Lyle Alzado, professional football lineman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I went to the race track once and bet on a horse that was so good that it took seven others to beat him!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I would rather say that a desire to drive fast sports cars is what sets man apart from the animals."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'd rather push my Harley than ride a rice burner."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm a lucky guy, and I'm happy to be with the Yankees. And I want to thank everyone for making this night necessary. ",
+         "extras":"",
+         "author":"Yogi Berra at a dinner in his honor"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm glad we don't have to play in the shade. ",
+         "extras":"",
+         "author":"Golfer Bobby Jones on being told that it was 105 degrees      in the shade."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I've only got 12 cards."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If people concentrated on the really important things in life, there'd be a shortage of fishing poles. ",
+         "extras":"",
+         "author":"Doug Larson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If swimming is so good for your figure, how come whales look the way they do?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you don't know what game you're playing, don't ask what the score is."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you sit down at a poker game and don't see a sucker, get up.  You're the sucker."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you want to see card tricks, you have to expect to take cards. ",
+         "extras":"",
+         "author":"Harry Blackstone"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you're carrying a torch, put it down.  The Olympics are over."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Africa some of the native tribes have a custom of beating the ground with clubs and uttering spine chilling cries.  Anthropologists call this a form of primitive self-expression.  In America we call it golf."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Brooklyn, we had such great pennant races, it made the World Series just something that came later. ",
+         "extras":"",
+         "author":"Walter O'Malley, Dodgers owner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It gets late early out there. ",
+         "extras":"",
+         "author":"Yogi Berra"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It has long been known that one horse can run faster than another -- but which one? Differences are crucial. ",
+         "extras":"",
+         "author":"Lazarus Long"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's like deja vu all over again. ",
+         "extras":"",
+         "author":"Yogi Berra"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not whether you win or lose but how you played the game. ",
+         "extras":"",
+         "author":"Grantland Rice"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not whether you win or lose, it's how you look playing the game."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Keep grandma off the streets -- legalize bingo."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is a gamble at terrible odds, if it was a bet you wouldn't take it. ",
+         "extras":"",
+         "author":"Tom Stoppard, \"Rosencrantz and Guildenstern are Dead\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is a game of bridge -- and you've just been finessed."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is a yo-yo, and mankind ties knots in the string."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Look, we play the Star Spangled Banner before every game.  You want us to pay income taxes, too? ",
+         "extras":"",
+         "author":"Bill Veeck, Chicago White Sox"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Love means nothing to a tennis player."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" Max told his friend that he'd just as soon not go hiking in the hills. Said he, \"I'm an anti-climb Max.\"  [So is that punchline.]"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Most people's favorite way to end a game is by winning."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My way of joking is to tell the truth. That's the funniest joke in the world. ",
+         "extras":"",
+         "author":"Muhammad Ali"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nadia Comaneci, simple perfection. ",
+         "extras":"",
+         "author":"'76 Olympics"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never play pool with anyone named \"Fats\"."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"NEWS FLASH!! Today the East German pole-vault champion became the West German pole-vault champion."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing increases your golf score like witnesses."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Now there's three things you can do in a baseball game: you can win or you can lose or it can rain. ",
+         "extras":"",
+         "author":"Casey Stengel"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"On Thanksgiving Day all over America, families sit down to dinner at the same moment -- halftime."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One thought driven home is better than three left on base."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One way to stop a runaway horse is to bet on him."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"P-K4"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Repel them.  Repel them.  Induce them to relinquish the spheroid. ",
+         "extras":"",
+         "author":"Indiana University football cheer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reporter:   \"What would you do if you found a million dollars?\" Yogi Berra: \"If the guy was poor, I would give it back.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Rube Walker: \"Hey, Yogi, what time is it?\" Yogi Berra:  \"You mean now?\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sailing is fun, but scrubbing the decks is aardvark. ",
+         "extras":"",
+         "author":"Heard on Noahs' ark"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Show me a good loser in professional sports and I'll show you an idiot. Show me a good sportsman and I'll show you a player I'm looking to trade. ",
+         "extras":"",
+         "author":"Leo Durocher"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"So I'm ugly.  So what? I never saw anyone hit with his face. ",
+         "extras":"",
+         "author":"Yogi Berra"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Support Bingo, keep Grandma off the streets."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Teamwork is essential -- it allows you to blame someone else."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That's the true harbinger of spring, not crocuses or swallows returning to Capistrano, but the sound of a bat on a ball. ",
+         "extras":"",
+         "author":"Bill Veeck"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The one sure way to make a lazy man look respectable is to put a fishing rod in his hand."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The real problem with hunting elephants is carrying the decoys."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The surest way to remain a winner is to win once, and then not play any more."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The urge to gamble is so universal and its practice so pleasurable that I assume it must be evil. ",
+         "extras":"",
+         "author":"Heywood Broun"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The whole of life is futile unless you consider it as a sporting proposition."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"They also surf who only stand on waves."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To be sure of hitting the target, shoot first and, whatever you hit, call it the target."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Trust everybody, but cut the cards. ",
+         "extras":"",
+         "author":"Finlay Peter Dunne, \"Mr. Dooley's Philosophy\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" Two brothers, Mort and Bill, like to sail.  While Bill has a great deal of experience, he certainly isn't the rigger Mort is."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When in doubt, lead trump."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Winning isn't everything, but losing isn't anything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Winning isn't everything.  It's the only thing. ",
+         "extras":"",
+         "author":"Vince Lombardi"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Woman:     \"Is Yoo-Hoo hyphenated?\" Yogi Berra: \"No, ma'am, its not even carbonated.\""
+      }
+   ]
+}

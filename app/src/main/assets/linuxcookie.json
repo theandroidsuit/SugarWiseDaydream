@@ -1,0 +1,510 @@
+{
+   "type": "Linux Cookie",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":" Linux machine! because a 486 is a terrible thing to waste!",
+         "extras":"",
+         "author":"jjs@wintermute.ucr.edu, Joe Sloan"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"A word to the wise: a credentials dicksize war is usually a bad idea on the net.\"",
+         "extras":"",
+         "author":"David Parsons in c.o.l.development.system, about coding in C."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Absolutely nothing should be concluded from these figures except that no conclusion can be drawn from them.\"",
+         "extras":"",
+         "author":"Joseph L. Brothers, Linux/PowerPC Project"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"All language designers are arrogant.  Goes with the territory...\"",
+         "extras":"",
+         "author":"Larry Wall"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports on it, you know they are just evil lies.\"",
+         "extras":"",
+         "author":"Linus Torvalds, Linus.Torvalds@cs.helsinki.fi"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"...and scantily clad females, of course.  Who cares if it's below zero outside\"",
+         "extras":"",
+         "author":"Linus Torvalds"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Are [Linux users] lemmings collectively jumping off of the cliff of reliable, well-engineered commercial software?\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As usual, this being a 1.3.x release, I haven't even compiled this kernel yet.  So if it works, you should be doubly impressed.",
+         "extras":"",
+         "author":"Linus Torvalds, announcing kernel 1.3.3 on the linux-kernel mailing list"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Avoid the Gates of Hell.  Use Linux.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be warned that typing \fBkillall \fIname\fP may not have the desired effect on non-Linux systems, especially when done by a privileged user.",
+         "extras":"",
+         "author":"From the killall manual page"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Besides, I think [Slackware] sounds better than 'Microsoft,' don't you?\"",
+         "extras":"",
+         "author":"Patrick Volkerding"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"But what can you do with it?  -- ubiquitous cry from Linux-user partner.",
+         "extras":"",
+         "author":"Andy Pearce, ajp@hpopd.pwd.hp.com"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"By golly, I'm beginning to think Linux really *is* the best thing since sliced bread.\"",
+         "extras":"",
+         "author":"Vance Petree, Virginia Power"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"...Deep Hack Mode--that mysterious and frightening state of consciousness where Mortal Users fear to tread.\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dijkstra probably hates me.",
+         "extras":"",
+         "author":"Linus Torvalds, in kernel/sched.c"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Even more amazing was the realization that God has Internet access.  I wonder if He has a full newsfeed?\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":">Ever heard of .cshrc? That's a city in Bosnia.  Right?",
+         "extras":"",
+         "author":"Discussion in comp.os.linux.misc on the intuitiveness of commands"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fatal Error: Found [MS-Windows] System -> Repartitioning Disk for Linux...",
+         "extras":"",
+         "author":"cbbrown@io.org, Christopher Browne"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How do I type \"for i in *.dvi do xdvi i done\" in a GUI?",
+         "extras":"",
+         "author":"Discussion in comp.os.linux.misc on the intuitiveness of interfaces"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"How should I know if it works? That's what beta testers are for.  I only coded it.\"",
+         "extras":"",
+         "author":"Attributed to Linus Torvalds"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I develop for Linux for a living, I used to develop for DOS. Going from DOS to Linux is like trading a glider for an F117.",
+         "extras":"",
+         "author":"entropy@world.std.com, Lawrence Foard"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I did this 'cause Linux gives me a woody.  It doesn't generate revenue.",
+         "extras":"",
+         "author":"Dave '-ddt->` Taylor, announcing DOOM for Linux"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Feel free to contact me (flames about my english and the useless of this driver will be redirected to /dev/null, oh no, it's full...).",
+         "extras":"",
+         "author":"Michael Beck, describing the PC-speaker sound device"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I once witnessed a long-winded, month-long flamewar over the use of mice vs. trackballs...It was very silly.\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I would rather spend 10 hours reading someone else's source code than 10 minutes listening to Musak waiting for technical support which isn't.\"",
+         "extras":"",
+         "author":"Dr. Greg Wettstein, Roger Maris Cancer Center"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I'd crawl over an acre of 'Visual This++' and 'Integrated Development That' to get to gcc, Emacs, and gdb.  Thank you.\"",
+         "extras":"",
+         "author":"Vance Petree, Virginia Power"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I've run DOOM more in the last few days than I have the last few months. I just love debugging ;-)",
+         "extras":"",
+         "author":"Linus Torvalds"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"If the future navigation system [for interactive networked services on the NII] looks like something from Microsoft, it will never work.\"",
+         "extras":"",
+         "author":"Chairman of Walt Disney Television & Telecommunications"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"If you want to travel around the world and be invited to speak at a lot of different places, just write a Unix operating system.\"",
+         "extras":"",
+         "author":"Linus Torvalds"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In most countries selling harmful things like drugs is punishable. Then howcome people can sell Microsoft software and go unpunished?",
+         "extras":"",
+         "author":"hasku@rost.abo.fi, Hasse Skrifvars"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Intel engineering seem to have misheard Intel marketing strategy. The phrase was \"Divide and conquer\" not \"Divide and cock up\"",
+         "extras":"",
+         "author":"iialan@www.linux.org.uk, Alan Cox"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"It's God.  No, not Richard Stallman, or Linus Torvalds, but God.\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"LILO, you've got me on my knees!",
+         "extras":"",
+         "author":"David Black, dblack@pilot.njin.net, with apologies to Derek and the Dominos, and Werner Almsberger"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Linux is obsolete.",
+         "extras":"",
+         "author":"Andrew Tanenbaum"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Linux poses a real challenge for those with a taste for late-night hacking (and/or conversations with God).\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Linux!Guerrilla UNIX Development     Venimus, Vidimus, Dolavimus.",
+         "extras":"",
+         "author":"mah@ka4ybr.com, Mark A. Horton KA4YBR"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"...[Linux's] capacity to talk via any medium except smoke signals.\"",
+         "extras":"",
+         "author":"Dr. Greg Wettstein, Roger Maris Cancer Center"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"linux: because a PC is a terrible thing to waste.",
+         "extras":"",
+         "author":"ksh@cis.ufl.edu put this on Tshirts in '93"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Linux: Because a PC is a terrible thing to waste.",
+         "extras":"",
+         "author":"komarimf@craft.camp.clarkson.edu, Mark Komarinski"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"linux: the choice of a GNU generation.",
+         "extras":"",
+         "author":"ksh@cis.ufl.edu put this on Tshirts in '93"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Linux: the operating system with a CLUE... Command Line User Environment\".",
+         "extras":"",
+         "author":"Seen in a posting in comp.software.testing"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"lp1 on fire.",
+         "extras":"",
+         "author":"One of the more obfuscated kernel messages"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"MSDOS didn't get as bad as it is overnight -- it took over ten years of careful development.\"",
+         "extras":"",
+         "author":"dmeggins@aix1.uottawa.ca"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Never make any mistaeks.\"",
+         "extras":"",
+         "author":"Anonymous, in a mail discussion about to a kernel bug report"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"> No manual is ever necessary. May I politely interject here: BULLSHIT.  That's the biggest Apple lie of all!",
+         "extras":"",
+         "author":"Discussion in comp.os.linux.misc on the intuitiveness of interfaces"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Not me, guy. I read the Bash man page each day like a Jehovah's Witness reads the Bible. No wait, the Bash man page IS the bible. Excuse me... ",
+         "extras":"",
+         "author":"Taken from comp.os.linux.misc"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Oh, I've seen copies [of Linux Journal] around the terminal room at The Labs.\"",
+         "extras":"",
+         "author":"Dennis Ritchie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"On a normal ascii line, the only safe condition to detect is a 'BREAK' - everything else having been assigned functions by Gnu EMACS.\"",
+         "extras":"",
+         "author":"Tarl Neustaedter"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"On the Internet, no one knows you're using Windows NT\"",
+         "extras":"",
+         "author":"Ramiro Estrugo, restrugo@fateware.com"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are no threads in a.b.p.erotica, so there's no  gain in using a threaded news reader.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Problem solving under linux has never been the circus that it is under AIX.\"",
+         "extras":"",
+         "author":"Pete Ehlke in comp.unix.aix"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Running Windows on a Pentium is like having a brand new Porsche but only be able to drive backwards with the handbrake on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"sic transit discus mundi\"",
+         "extras":"",
+         "author":"From the System Administrator's Guide, by Lars Wirzenius"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sigh.  I like to think it's just the Linux people who want to be on the \"leading edge\" so bad they walk right off the precipice.",
+         "extras":"",
+         "author":"Craig E. Groeschel"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The chat program is in public domain. This is not the GNU public license. If it breaks then you get to keep both pieces.",
+         "extras":"",
+         "author":"Copyright notice for the chat program"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The nice thing about Windows is - It does not just crash, it displays a dialog box and lets you press 'OK' first.",
+         "extras":"",
+         "author":"Arno Schaefer's .sig"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only \"intuitive\" interface is the nipple. After that, it's all learned.",
+         "extras":"",
+         "author":"Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X interfaces."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are two types of Linux developers - those who can spell, and those who can't. There is a constant pitched battle between the two.",
+         "extras":"",
+         "author":"From one of the post-1.1.54 kernel update messages posted to c.o.l.a"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"...Unix, MS-DOS, and Windows NT (also known as the Good, the Bad, and the Ugly).\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"We all know Linux is great...it does infinite loops in 5 seconds.\"",
+         "extras":"",
+         "author":"Linus Torvalds about the superiority of Linux on the Amterdam Linux Symposium"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are MicroSoft.  You will be assimilated.  Resistance is futile.",
+         "extras":"",
+         "author":"Attributed to B.G., Gill Bates"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are Pentium of Borg. Division is futile. You will be approximated.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are using Linux daily to UP our productivity - so UP yours!",
+         "extras":"",
+         "author":"Adapted from Pat Paulsen by Joe Sloan"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We come to bury DOS, not to praise it.",
+         "extras":"",
+         "author":"Paul Vojta, vojta@math.berkeley.edu, paraphrasing a quote of Shakespeare"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We use Linux for all our mission-critical applications. Having the source code means that we are not held hostage by anyone's support department.",
+         "extras":"",
+         "author":"Russell Nelson, President of Crynwr Software"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"`When you say \"I wrote a program that crashed Windows\", people just stare at you blankly and say \"Hey, I got those with the system, *for free*\".'",
+         "extras":"",
+         "author":"Linus Torvalds"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Whip me.  Beat me.  Make me maintain AIX.\"",
+         "extras":"",
+         "author":"Stephan Zielinski"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Who is General Failure and why is he reading my hard disk ?\" Microsoft spel chekar vor sail, worgs grate !!",
+         "extras":"",
+         "author":"leitner@inf.fu-berlin.de, Felix von Leitner"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why use Windows, since there is a door?",
+         "extras":"",
+         "author":"fachat@galileo.rhein-neckar.de, Andre Fachat"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"World domination.  Fast\"",
+         "extras":"",
+         "author":"Linus Torvalds"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"..you could spend *all day* customizing the title bar.Believe me.  I speak from experience.\"",
+         "extras":"",
+         "author":"Matt Welsh"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your job is being a professor and researcher: That's one hell of a good excuse for some of the brain-damages of minix. ",
+         "extras":"",
+         "author":"Linus Torvalds to Andrew Tanenbaum"
+      }
+   ]
+}

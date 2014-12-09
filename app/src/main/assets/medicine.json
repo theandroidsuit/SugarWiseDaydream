@@ -1,0 +1,335 @@
+{
+   "type": "Medicine",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":"After twelve years of therapy my psychiatrist said something that brought tears to my eyes.  He said, \"No hablo ingles.\"",
+         "extras":"",
+         "author":"Ronnie Shakes"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Anyone who goes to a psychiatrist ought to have his head examined.",
+         "extras":"",
+         "author":"Samuel Goldwyn"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be a better psychiatrist and the world will beat a psychopath to your door.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Better to use medicines at the outset than at the last moment.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cure the disease and kill the patient.",
+         "extras":"",
+         "author":"Francis Bacon"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death has been proven to be 99",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  fatal in laboratory rats.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dental health is next to mental health.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ever notice that the word \"therapist\" breaks down into \"the rapist\"? Simple coincidence? Maybe...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God is dead and I don't feel all too well either...",
+         "extras":"",
+         "author":"Ralph Moonen"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Good health\" is merely the slowest rate at which one can die.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Happiness is good health and a bad memory.",
+         "extras":"",
+         "author":"Ingrid Bergman"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Health is merely the slowest possible rate at which one can die.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Health nuts are going to feel stupid someday, lying in hospitals dying of nothing.",
+         "extras":"",
+         "author":"Redd Foxx"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"His ideas of first-aid stopped short of squirting soda water.",
+         "extras":"",
+         "author":"P.G. Wodehouse"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I get my exercise acting as pallbearer to my friends who exercise.",
+         "extras":"",
+         "author":"Chauncey Depew"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I got the bill for my surgery.Now I know what those doctors were wearing masks for.",
+         "extras":"",
+         "author":"James Boren"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I keep seeing spots in front of my eyes.\" \"Did you ever see a doctor?\" \"No, just spots.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you look like your driver's license photo -- see a doctor. If you look like your passport photo -- it's too late for a doctor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is very vulgar to talk like a dentist when one isn't a dentist. It produces a false impression.",
+         "extras":"",
+         "author":"Oscar Wilde"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's no longer a question of staying healthy.  It's a question of finding a sickness you like.",
+         "extras":"",
+         "author":"Jackie Mason"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not reality or how you perceive things that's important -- it's what you're taking for it...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Just because your doctor has a name for your condition doesn't mean he knows what it is.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Laetrile is the pits.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My doctorate's in Literature, but it seems like a pretty good pulse to me.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Neurotics build castles in the sky, Psychotics live in them, And psychiatrists collect the rent.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never go to a doctor whose office plants have died.",
+         "extras":"",
+         "author":"Erma Bombeck"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"New England Life, of course.  Why do you ask?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Paralysis through analysis.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Proper treatment will cure a cold in seven days, but left to itself, a cold will hang on for a week.",
+         "extras":"",
+         "author":"Darrell Huff"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Psychiatry enables us to correct our faults by confessing our parents' shortcomings.",
+         "extras":"",
+         "author":"Laurence J. Peter, \"Peter's Principles\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Psychology.  Mind over matter.Mind under matter?  It doesn't matter. Never mind.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pushing 30 is exercise enough.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pushing 40 is exercise enough.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quit worrying about your health.  It'll go away.",
+         "extras":"",
+         "author":"Robert Orben"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sigmund's wife wore Freudian slips.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some people need a good imaginary cure for their painful imaginary ailment.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sometimes the best medicine is to stop taking something.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Straw?No, too stupid a fad.  I put soot on warts.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The 80's -- when you can't tell hairstyles from chemotherapy.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"... the Mayo Clinic, named after its founder, Dr. Ted Clinic ...\"",
+         "extras":"",
+         "author":"Dave Barry"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The New England Journal of Medicine reports that 9 out of 10 doctors agree that 1 out of 10 doctors is an idiot.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The real reason psychology is hard is that psychologists are trying to do the impossible.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The reason they're called wisdom teeth is that the experience makes you wise.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The secret of healthy hitchhiking is to eat junk food.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The trouble with heart disease is that the first symptom is often hard to deal with: death.",
+         "extras":"",
+         "author":"Michael Phelps"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When a lot of remedies are suggested for a disease, that means it can't be cured.",
+         "extras":"",
+         "author":"Anton Chekhov, \"The Cherry Orchard\""
+      }
+   ]
+}

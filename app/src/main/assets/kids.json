@@ -1,0 +1,818 @@
+{
+   "type": "Kids",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A baby is an alimentary canal with a loud voice at one end and no responsibility at the other.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A baby is God's opinion that the world should go on.",
+         "extras":"",
+         "author":"Carl Sandburg"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A child of five could understand this!Fetch me a child of five.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A kid'll eat the middle of an Oreo, eventually.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"About the only thing we have left that actually discriminates in favor of the plain people is the stork.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Adam and Eve had many advantages, but the principal one was, that they escaped teething.",
+         "extras":"",
+         "author":"Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Adopted kids are such a pain -- you have to teach them how to look like you... ",
+         "extras":"",
+         "author":"Gilda Radner"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any father who thinks he's all important should remind himself that this country honors fathers only one day a year while pickles get a whole week.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Anyone who uses the phrase \"easy as taking candy from a baby\" has never tried taking candy from a baby.",
+         "extras":"",
+         "author":"Robin Hood"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beat your son every day; you may not know why, but he will.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Because we don't think about future generations, they will never forget us.",
+         "extras":"",
+         "author":"Henrik Tikkanen"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Breast Feeding should not be attempted by fathers with hairy chests, since they can make the baby sneeze and give it wind.",
+         "extras":"",
+         "author":"Mike Harding, \"The Armchair Anarchist's Almanac\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Catching his children with their hands in the new, still wet, patio, the father spanked them.  His wife asked, \"Don't you love your children?\" \"In the abstract, yes, but not in the concrete.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Catproof is an oxymoron, childproof nearly so.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Children are like cats, they can tell when you don't like them. That's when they come over and violate your body space.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Children are natural mimics who act like their parents despite every effort to teach them good manners.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Children are unpredictable.  You never know what inconsistency they're going to catch you in next.",
+         "extras":"",
+         "author":"Franklin P. Jones"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them.",
+         "extras":"",
+         "author":"Oscar Wilde"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Children seldom misquote you.  In fact, they usually repeat word for word what you shouldn't have said.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Children's talent to endure stems from their ignorance of alternatives.",
+         "extras":"",
+         "author":"Maya Angelou, \"I Know Why the Caged Bird Sings\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Delusions are often functional. A mother's opinions about her children's beauty, intelligence, goodness, et cetera ad nauseam, keep her from drowning them at birth.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not handicap your children by making their lives easy.",
+         "extras":"",
+         "author":"Robert Heinlein"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fertility is hereditary.  If your parents didn't have any children, neither will you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For adult education nothing beats children.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For children with short attention spans: boomerangs that don't come back.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Get Revenge!  Live long enough to be a problem for your children!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Give a small boy a hammer and he will find that everything he encounters needs pounding.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Give your child mental blocks for Christmas.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Having children is like having a bowling alley installed in your brain.",
+         "extras":"",
+         "author":"Martin Mull"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How sharper than a serpent's tooth is a sister's \"See?\"",
+         "extras":"",
+         "author":"Linus Van Pelt"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I called my parents the other night, but I forgot about the time difference. They're still living in the fifties.",
+         "extras":"",
+         "author":"Strange de Jim"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I hate babies.They're so human.",
+         "extras":"",
+         "author":"H.H. Munro"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I know what \"custody\" [of the children] means.\"Get even.\"  That's all custody means.Get even with your old lady.",
+         "extras":"",
+         "author":"Lenny Bruce"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I love children.  Especially when they cry -- for then someone takes them away.",
+         "extras":"",
+         "author":"Nancy Mitford"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I tell ya, I was an ugly kid.  I was so ugly that my dad kept the kid's picture that came with the wallet he bought.",
+         "extras":"",
+         "author":"Rodney Dangerfield"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I told my kids, \"Someday, you'll have kids of your own.\"  One of them said, \"So will you.\"",
+         "extras":"",
+         "author":"Rodney Dangerfield"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I used to think I was a child; now I think I am an adult -- not because I no longer do childish things, but because those I call adults are no more mature than I am.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a child annoys you, quiet him by brushing his hair.If this doesn't work, use the other side of the brush on the other end of the child.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If parents would only realize how they bore their children.",
+         "extras":"",
+         "author":"G.B. Shaw"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If pregnancy were a book they would cut the last two chapters.",
+         "extras":"",
+         "author":"Nora Ephron, \"Heartburn\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the very old will remember, the very young will listen.",
+         "extras":"",
+         "author":"Chief Dan George"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you have never been hated by your child, you have never been a parent.",
+         "extras":"",
+         "author":"Bette Davis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If your mother knew what you're doing, she'd probably hang her head and cry.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Insanity is hereditary. You get it from your kids.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is better to remain childless than to father an orphan.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is no wonder that people are so horrible when they start life as children.",
+         "extras":"",
+         "author":"Kingsley Amis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is so soon that I am done for, I wonder what I was begun for.",
+         "extras":"",
+         "author":"Epitaph, Cheltenham Churchyard"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It now costs more to amuse a child than it once did to educate his father.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's never too late to have a happy childhood.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kids always brighten up a house; mostly by leaving the lights on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lies!  All lies!  You're all lying against my boys!",
+         "extras":"",
+         "author":"Ma Barker"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life does not begin at the moment of conception or the moment of birth. It begins when the kids leave home and the dog dies.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is a sexually transmitted disease with 100",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  mortality.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is like a diaper -- short and loaded.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Literature is mostly about having sex and not much about having children. Life is the other way around.",
+         "extras":"",
+         "author":"David Lodge, \"The British Museum is Falling Down\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Maturity is only a short break in adolescence.",
+         "extras":"",
+         "author":"Jules Feiffer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"May you have many beautiful and obedient daughters.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"May you have many handsome and obedient sons.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Microwaves frizz your heir.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My family history begins with me, but yours ends with you.",
+         "extras":"",
+         "author":"Iphicrates"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My mother loved children -- she would have given anything if I had been one.",
+         "extras":"",
+         "author":"Groucho Marx"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My mother wants grandchildren, so I said, \"Mom, go for it!\"",
+         "extras":"",
+         "author":"Sue Murphy"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My mother was a test tube; my father was a knife.",
+         "extras":"",
+         "author":"Friday"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My parents went to Niagara Falls and all I got was this crummy life.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nature makes boys and girls lovely to look upon so they can be tolerated until they acquire some sense.",
+         "extras":"",
+         "author":"William Phelps"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never have children, only grandchildren.",
+         "extras":"",
+         "author":"Gore Vidal"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never lend your car to anyone to whom you have given birth.",
+         "extras":"",
+         "author":"Erma Bombeck"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never raise your hand to your children -- it leaves your midsection unprotected.",
+         "extras":"",
+         "author":"Robert Orben"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never trust a child farther than you can throw it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No house is childproofed unless the little darlings are in straitjackets.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No matter how old a mother is, she watches her middle-aged children for signs of improvement.",
+         "extras":"",
+         "author":"Florida Scott-Maxwell"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One father is more than a hundred schoolmasters.",
+         "extras":"",
+         "author":"George Herbert"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One of the disadvantages of having children is that they eventually get old enough to give you presents they make at school.",
+         "extras":"",
+         "author":"Robert Byrne"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Only adults have difficulty with childproof caps.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Out of the mouths of babes does often come cereal.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Parents often talk about the younger generation as if they didn't have much of anything to do with it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Please, Mother! I'd rather do it myself!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reinhart was never his mother's favorite -- and he was an only child.",
+         "extras":"",
+         "author":"Thomas Berger"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember that as a teenager you are in the last stage of your life when you will be happy to hear that the phone is for you.",
+         "extras":"",
+         "author":"Fran Lebowitz, \"Social Studies\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Snow and adolescence are the only problems that disappear if you ignore them long enough.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Somewhere on this globe, every ten seconds, there is a woman giving birth to a child.  She must be found and stopped.",
+         "extras":"",
+         "author":"Sam Levenson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Teach children to be polite and courteous in the home, and, when they grow up, they won't be able to edge a car onto a freeway.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Test-tube babies shouldn't throw stones.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That all men should be brothers is the dream of people who have no brothers.",
+         "extras":"",
+         "author":"Charles Chincholles, \"Pensees de tout le monde\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The average income of the modern teenager is about 2 a.m.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The denunciation of the young is a necessary part of the hygiene of older people, and greatly assists in the circulation of the blood.",
+         "extras":"",
+         "author":"Logan Pearsall Smith"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The fact that boys are allowed to exist at all is evidence of a remarkable Christian forbearance among men.",
+         "extras":"",
+         "author":"Ambrose Bierce"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The first half of our lives is ruined by our parents and the second half by our children.",
+         "extras":"",
+         "author":"Clarence Darrow"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The full impact of parenthood doesn't hit you until you multiply the number of your kids by thirty-two teeth.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The future is a myth created by insurance salesmen and high school counselors.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The good die young -- because they see it's no use living if you've got to be good.",
+         "extras":"",
+         "author":"John Barrymore"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The idea is to die young as late as possible.",
+         "extras":"",
+         "author":"Ashley Montague"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The modern child will answer you back before you've said anything.",
+         "extras":"",
+         "author":"Laurence J. Peter"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The only real way to look younger is not to be born so soon.\"",
+         "extras":"",
+         "author":"Charles Schulz, \"Things I've Had to Learn Over and    Over and Over\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The problem with the gene pool is that there is no lifeguard.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The real reason large families benefit society is because at least a few of the children in the world shouldn't be raised by beginners.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The years of peak mental activity are undoubtedly between the ages of four and eighteen.  At four we know all the questions, at eighteen all the answers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"There was a boy called Eustace Clarence Scrubb, and he almost deserved it.\"",
+         "extras":"",
+         "author":"C. S. Lewis, \"The Chronicles of Narnia\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's no point in being grown up if you can't be childish sometimes.",
+         "extras":"",
+         "author":"Dr. Who"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's nothing wrong with teenagers that reasoning with them won't aggravate.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Toddlers are the stormtroopers of the Lord of Entropy.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Troubles are like babies; they only grow by nursing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two parent drops spent months teaching their son how to be part of the ocean.After months of training, the father drop commented to the mother drop, \"We've taught our boy everything we know, he's fit to be tide.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are the people our parents warned us about.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What's done to children, they will do to society.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When childhood dies, its corpses are called adults.",
+         "extras":"",
+         "author":"Brian Aldiss"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When I was 16, I thought there was no hope for my father.  By the time I was 20, he had made great improvement.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When you were born, a big chance was taken for you.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why do they call it baby-SITTING when all you do is run after them?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can learn many things from children.  How much patience you have, for instance.",
+         "extras":"",
+         "author":"Franklin P. Jones"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't hug a child with nuclear arms.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Youth is such a wonderful thing.  What a crime to waste it on children.",
+         "extras":"",
+         "author":"George Bernard Shaw"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Youth is the trustee of posterity.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Youth is when you blame all your troubles on your parents; maturity is when you learn that everything is the fault of the younger generation.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Youth.It's a wonder that anyone ever outgrows it. ",
+         "extras":"",
+         "author":""
+      }
+   ]
+}

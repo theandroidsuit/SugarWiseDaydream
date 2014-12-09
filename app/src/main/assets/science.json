@@ -1,0 +1,3837 @@
+{
+   "type": "Science",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":"1 + 1 = 3, for large values of 1."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"(1) Never draw what you can copy. (2) Never copy what you can trace. (3) Never trace what you can cut out and paste down."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"1.79 x 10^12 furlongs per fortnight -- it's not just a good idea, it's the law!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"10.0 times 0.1 is hardly ever 1.0."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"13. ...  r-q1"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"355/113 -- Not the famous irrational number PI, but an incredible simulation!\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A conclusion is simply the place where someone got tired of thinking."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A conference is a gathering of important people who singly can do nothing but together can decide that nothing can be done.  ",
+         "extras":"",
+         "author":"Fred Allen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A fail-safe circuit will destroy others.  ",
+         "extras":"",
+         "author":"Klipstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A failure will not appear until a unit has passed final inspection."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"A fractal is by definition a set for which the Hausdorff Besicovitch dimension strictly exceeds the topological dimension.\"  ",
+         "extras":"",
+         "author":"Mandelbrot, \"The Fractal Geometry of Nature\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A mathematician is a device for turning coffee into theorems.  ",
+         "extras":"",
+         "author":"P. Erdos"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A method of solution is perfect if we can forsee from the start, and even prove, that following that method we shall attain our aim.  ",
+         "extras":"",
+         "author":"Leibnitz"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A pain in the ass of major dimensions.  ",
+         "extras":"",
+         "author":"C.A. Desoer, on the solution of non-linear circuits"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A physicist is an atom's way of knowing about atoms.  ",
+         "extras":"",
+         "author":"George Wald"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A sine curve goes off to infinity, or at least the end of the blackboard.  ",
+         "extras":"",
+         "author":"Prof. Steiner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A social scientist, studying the culture and traditions of a small North African tribe, found a woman still practicing the ancient art of matchmaking. Locally, she was known as the Moor, the marrier."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A transistor protected by a fast-acting fuse will protect the fuse by blowing first."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A triangle which has an angle of 135 degrees is called an obscene triangle."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"According to the latest official figures, 43%  of all statistics are totally worthless."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Actually, the probability is 100%  After a number of decimal places, nobody gives a damn."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"After an instrument has been assembled, extra components will be found on the bench."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"After the last of 16 mounting screws has been removed from an access cover, it will be discovered that the wrong access cover has been removed."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"After years of research, scientists recently reported that there is, indeed, arroz in Spanish Harlem."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" Against his wishes, a math teacher's classroom was remodeled.  Ever since, he's been talking about the good old dais.  His students planted a small orchard in his honor; the trees all have square roots."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Air is water with holes in it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Air pollution is really making us pay through the nose."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Alexander Graham Bell is alive and well in New York, and still waiting for a dial tone."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Algebraic symbols are used when you do not know what you are talking about.  ",
+         "extras":"",
+         "author":"Philippe Schnoebelen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All Finagle Laws may be bypassed by learning the simple art of doing without thinking."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All great discoveries are made by mistake.  ",
+         "extras":"",
+         "author":"Young"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All great ideas are controversial, or have been at one time."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All laws are simulations of reality.  ",
+         "extras":"",
+         "author":"John C. Lilly"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All life evolves by the differential survival of replicating entities.  ",
+         "extras":"",
+         "author":"Dawkins"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All power corrupts, but we need electricity."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All science is either physics or stamp collecting.  ",
+         "extras":"",
+         "author":"Ernest Rutherford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All seems condemned in the long run to approximate a state akin to Gaussian noise.  ",
+         "extras":"",
+         "author":"James Martin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All syllogisms have three parts, therefore this is not a syllogism."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All the evidence concerning the universe has not yet been collected, so there's still hope."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All theoretical chemistry is really physics; and all theoretical chemists  know it.  ",
+         "extras":"",
+         "author":"Richard P. Feynman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Although the moon is smaller than the earth, it is farther away."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Always draw your curves, then plot your reading."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Always leave room to add an explanation if it doesn't work out."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Always think of something new; this helps you forget your last rotten idea.  ",
+         "extras":"",
+         "author":"Seth Frankel"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Always try to do things in chronological order; it's less confusing that way."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An age is called Dark not because the light fails to shine, but because people refuse to see it.  ",
+         "extras":"",
+         "author":"James Michener, \"Space\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An authority is a person who can tell you more about something than you really care to know."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An economist is a man who would marry Farrah Fawcett-Majors for her money."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An egghead is one who stands firmly on both feet, in mid-air, on both sides of an issue.  ",
+         "extras":"",
+         "author":"Homer Ferguson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any circuit design must contain at least one part which is obsolete, two parts which are unobtainable, and three parts which are still under development."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any sufficiently advanced technology is indistinguishable from a rigged demo."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any sufficiently advanced technology is indistinguishable from magic.  ",
+         "extras":"",
+         "author":"Arthur C. Clarke"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Anyone who imagines that all fruits ripen at the same time as the strawberries, knows nothing about grapes.  ",
+         "extras":"",
+         "author":"Philippus Paracelsus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Anything cut to length will be too short."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Arithmetic is being able to count up to twenty without taking off your shoes.  ",
+         "extras":"",
+         "author":"Mickey Mouse"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Artificial intelligence has the same relation to intelligence as artificial flowers have to flowers.  ",
+         "extras":"",
+         "author":"David Parnas"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As you will see, I told them, in no uncertain terms, to see Figure one.  ",
+         "extras":"",
+         "author":"Dave \"First Strike\" Pare"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ask five economists and you'll get five different explanations (six if one went to Harvard).  ",
+         "extras":"",
+         "author":"Edgar R. Fiedler"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Base 8 is just like base 10, if you are missing two fingers.  ",
+         "extras":"",
+         "author":"Tom Lehrer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Before Xerox, five carbons were the maximum extension of anybody's ego."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Between infinite and short there is a big difference.  ",
+         "extras":"",
+         "author":"G.H. Gonnet"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Biology grows on you."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Biology is the only science in which multiplication means the same thing as division."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"But it does move!  ",
+         "extras":"",
+         "author":"Galileo Galilei"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chemist who falls in acid is absorbed in work."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chemist who falls in acid will be tripping for weeks."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chemistry is applied theology.  ",
+         "extras":"",
+         "author":"Augustus Stanley Owsley III"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chemistry professors never die, they just fail to react."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Consider a spherical bear, in simple harmonic motion...\"  ",
+         "extras":"",
+         "author":"Professor in the UCB physics department"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Contrariwise,\" continued Tweedledee, \"if it was so, it might be, and if it were so, it would be; but as it isn't, it ain't. That's logic!\"  ",
+         "extras":"",
+         "author":"Lewis Carroll, \"Through the Looking Glass\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Did you hear that two rabbits escaped from the zoo and so far they have only recaptured 116 of them?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Did you know that if you took all the economists in the world and lined them up end to end, they'd still point in the wrong direction?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dimensions will always be expressed in the least usable term, convertible only through the use of weird and unnatural conversion factors.  Velocity, for example, will be expressed in furlongs per fortnight."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dinosaurs aren't extinct.  They've just learned to hide in the trees."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do molecular biologists wear designer genes?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Duct tape is like the force.  It has a light side, and a dark side, and it holds the universe together ...  ",
+         "extras":"",
+         "author":"Carl Zwanzig"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"E = MC ** 2 +- 3db"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Economics is extremely useful as a form of employment for economists.  ",
+         "extras":"",
+         "author":"John Kenneth Galbraith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Economists can certainly disappoint you.  One said that the economy would turn up by the last quarter.  Well, I'm down to mine and it hasn't.  ",
+         "extras":"",
+         "author":"Robert Orben"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Economists state their GNP growth projections to the nearest tenth of a percentage point to prove they have a sense of humor.  ",
+         "extras":"",
+         "author":"Edgar R. Fiedler"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Elegance and truth are inversely related.  ",
+         "extras":"",
+         "author":"Becker's Razor"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Elliptic paraboloids for sale."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Entropy isn't what it used to be."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Entropy requires no maintenance.  ",
+         "extras":"",
+         "author":"Markoff Chaney"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Enzymes are things invented by biologists that explain things which otherwise require harder thinking.  ",
+         "extras":"",
+         "author":"Jerome Lettvin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Eureka!  ",
+         "extras":"",
+         "author":"Archimedes"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every little picofarad has a nanohenry all its own.  ",
+         "extras":"",
+         "author":"Don Vonada"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every nonzero finite dimensional inner product space has an orthonormal basis.  It makes sense, when you don't think about it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everything should be made as simple as possible, but not simpler.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everything that can be invented has been invented.  ",
+         "extras":"",
+         "author":"Charles Duell, Director of U.S. Patent Office, 1899"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Experience varies directly with equipment ruined."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Experiments must be reproducible; they should all fail in the same way."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Factorials were someone's attempt to make math LOOK exciting."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Facts are stubborn, but statistics are more pliable."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Federal grants are offered for... research into the recreation potential of interplanetary space travel for the culturally disadvantaged."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For every complex problem, there is a solution that is simple, neat, and wrong.  ",
+         "extras":"",
+         "author":"H. L. Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For God's sake, stop researching for a while and begin to think!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For large values of one, one equals two, for small values of two."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTUNE'S FUN FACTS TO KNOW AND TELL:  #44  Zebras are colored with dark stripes on a light background."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Friction is a drag."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fundamentally, there may be no basis for anything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Genetics explains why you look like your father, and if you don't, why you should."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"(German philosopher) Georg Wilhelm Hegel, on his deathbed, complained, \"Only one man ever understood me.\"  He fell silent for a while and then added, \"And he didn't understand me.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God doesn't play dice.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God made the integers; all else is the work of Man.  ",
+         "extras":"",
+         "author":"Kronecker"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God may be subtle, but he isn't plain mean.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God runs electromagnetics by wave theory on Monday, Wednesday, and Friday, and the Devil runs them by quantum theory on Tuesday, Thursday, and Saturday.  ",
+         "extras":"",
+         "author":"William Bragg"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Going the speed of light is bad for your age."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Good morning.  This is the telephone company.  Due to repairs, we're giving you advance notice that your service will be cut off indefinitely at ten o'clock.  That's two minutes from now."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gosh that takes me back... or is it forward?  That's the trouble with time travel, you never can tell.\"  ",
+         "extras":"",
+         "author":"Doctor Who, \"Androids of Tara\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Got Mole problems?  Call Avogadro at 6.02 x 10^23."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gravity brings me down."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Gravity is a myth, the Earth sucks."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"GREAT MOMENTS IN HISTORY (#7): April 2, 1751  Issac Newton becomes discouraged when he falls up a flight of stairs."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He keeps differentiating, flying off on a tangent."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He: Let's end it all, bequeathin' our brains to science. She: What?!?  Science got enough trouble with their OWN brains.  ",
+         "extras":"",
+         "author":"Walt Kelly"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Heard that the next Space Shuttle is supposed to carry several Guernsey cows? It's gonna be the herd shot 'round the world."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Heavier than air flying machines are impossible.  ",
+         "extras":"",
+         "author":"Lord Kelvin, President, Royal Society, c. 1895"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Heisenberg may have been here."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Heisenberg may have slept here..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Help fight continental drift."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Houston, Tranquillity Base here.  The Eagle has landed.  ",
+         "extras":"",
+         "author":"Neil Armstrong"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How can you do 'New Math' problems with an 'Old Math' mind?  ",
+         "extras":"",
+         "author":"Charles Schulz"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How many weeks are there in a light year?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How often I found where I should be going only by setting out for somewhere else.  ",
+         "extras":"",
+         "author":"R. Buckminster Fuller"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Human beings were created by water to transport it uphill."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am not an Economist. I am an honest man!  ",
+         "extras":"",
+         "author":"Paul McCracken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I cannot believe that God plays dice with the cosmos.  ",
+         "extras":"",
+         "author":"Albert Einstein, on the randomness of quantum mechanics"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I don't think so,\" said Ren'e Descartes.  Just then, he vanished."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have a theory that it's impossible to prove anything, but I can't prove it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have hardly ever known a mathematician who was capable of reasoning.  ",
+         "extras":"",
+         "author":"Plato"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have yet to see any problem, however complicated, which, when you looked at it in the right way, did not become still more complicated.  ",
+         "extras":"",
+         "author":"Poul Anderson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I put up my thumb... and it blotted out the planet Earth.  ",
+         "extras":"",
+         "author":"Neil Armstrong"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I tell them to turn to the study of mathematics, for it is only there that they might escape the lusts of the flesh.  ",
+         "extras":"",
+         "author":"Thomas Mann, \"The Magic Mountain\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I think it is true for all _n.  I was just playing it safe with _n >= 3 because I couldn't remember the proof.\"  ",
+         "extras":"",
+         "author":"Baker, Pure Math 351a"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I THINK MAN INVENTED THE CAR by instinct.  ",
+         "extras":"",
+         "author":"Jack Handley, The New Mexican, 1988."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I THINK THEY SHOULD CONTINUE the policy of not giving a Nobel Prize for paneling.  ",
+         "extras":"",
+         "author":"Jack Handley, The New Mexican, 1988."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I use technology in order to hate it more properly.  ",
+         "extras":"",
+         "author":"Nam June Paik"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If A = B and B = C, then A = C, except where void or prohibited by law.  ",
+         "extras":"",
+         "author":"Roy Santoro"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a camel is a horse designed by a committee, then a consensus forecast is a camel's behind.  ",
+         "extras":"",
+         "author":"Edgar R. Fiedler"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If A equals success, then the formula is A = X + Y + Z.  X is work.  Y is play.  Z is keep your mouth shut.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If all else fails, immortality can always be assured by spectacular error.  ",
+         "extras":"",
+         "author":"John Kenneth Galbraith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If all the world's economists were laid end to end, we wouldn't reach a conclusion.  ",
+         "extras":"",
+         "author":"William Baumol"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If an experiment works, something has gone wrong."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If entropy is increasing, where is it coming from?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If God is perfect, why did He create discontinuous functions?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I had only known, I would have been a locksmith.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I have not seen so far it is because I stood in giant's footsteps."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I set here and stare at nothing long enough, people might think I'm an engineer working on something.  ",
+         "extras":"",
+         "author":"S.R. McElroy"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If in any problem you find yourself doing an immense amount of work, the answer can be obtained by simple inspection."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it is a Miracle, any sort of evidence will answer, but if it is a Fact, proof is necessary.  ",
+         "extras":"",
+         "author":"Samuel Clemens"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it smells it's chemistry, if it crawls it's biology, if it doesn't work it's physics."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it wasn't for Newton, we wouldn't have to eat bruised apples."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If mathematically you end up with the wrong answer, try multiplying by the page number."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the aborigine drafted an IQ test, all of Western civilization would presumably flunk it.  ",
+         "extras":"",
+         "author":"Stanley Garn"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the facts don't fit the theory, change the facts.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the human brain were so simple that we could understand it, we would be so simple we couldn't."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If they can make penicillin out of moldy bread, they can sure make something out of you.  ",
+         "extras":"",
+         "author":"Muhammad Ali"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"If value corrupts then absolute value corrupts absolutely.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you analyse anything, you destroy it.  ",
+         "extras":"",
+         "author":"Arthur Miller"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you are smart enough to know that you're not smart enough to be an Engineer, then you're in Business."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you can't understand it, it is intuitively obvious."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you push the \"extra ice\" button on the soft drink vending machine, you won't get any ice.  If you push the \"no ice\" button, you'll get ice, but no cup."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you steal from one author it's plagiarism; if you steal from many it's research.  ",
+         "extras":"",
+         "author":"Wilson Mizner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you're not part of the solution, you're part of the precipitate."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Imagination is more important than knowledge.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In 1750 Issac Newton became discouraged when he fell up a flight of stairs."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In 1869 the waffle iron was invented for people who had wrinkled waffles."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"IN MY OPINION anyone interested in improving himself should not rule out becoming pure energy.  ",
+         "extras":"",
+         "author":"Jack Handley, The New Mexican, 1988."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Nature there are neither rewards nor punishments, there are consequences.  ",
+         "extras":"",
+         "author":"R.G. Ingersoll"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In order to dial out, it is necessary to broaden one's dimension."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"In order to make an apple pie from scratch, you must first create the universe.\"  ",
+         "extras":"",
+         "author":"Carl Sagan, Cosmos"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"In short, N is Richardian if, and only if, N is not Richardian.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In specifications, Murphy's Law supersedes Ohm's."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In the beginning there was nothing.  And the Lord said \"Let There Be Light!\" And still there was nothing, but at least now you could see it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In theory, there is no difference between theory and practice. In practice, there is."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In these matters the only certainty is that there is nothing certain.  ",
+         "extras":"",
+         "author":"Pliny the Elder"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Information is the inverse of entropy."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Interchangeable parts won't."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Invest in physics -- own a piece of Dirac!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Irrationality is the square root of all evil\"  ",
+         "extras":"",
+         "author":"Douglas Hofstadter"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Is knowledge knowable? If not, how do we know that?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Isn't it interesting that the same people who laugh at science fiction listen to weather forecasts and economists?  ",
+         "extras":"",
+         "author":"Kelvin Throop III"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Isn't it strange that the same people that laugh at gypsy fortune tellers take economists seriously?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It has just been discovered that research causes cancer in rats."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is contrary to reasoning to say that there is a vacuum or space in which there is absolutely nothing.  ",
+         "extras":"",
+         "author":"Descartes"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is impossible to travel faster than light, and certainly not desirable, as one's hat keeps blowing off.  ",
+         "extras":"",
+         "author":"Woody Allen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is much easier to suggest solutions when you know nothing about the problem."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is not every question that deserves an answer.  ",
+         "extras":"",
+         "author":"Publilius Syrus"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is not for me to attempt to fathom the inscrutable workings of Providence.  ",
+         "extras":"",
+         "author":"The Earl of Birkenhead"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is not that polar co-ordinates are complicated, it is simply that cartesian co-ordinates are simpler than they have a right to be.  ",
+         "extras":"",
+         "author":"Kleppner & Kolenhow, \"An Introduction to Mechanics\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is now quite lawful for a Catholic woman to avoid pregnancy by a resort to mathematics, though she is still forbidden to resort to physics and chemistry.  ",
+         "extras":"",
+         "author":"H.L. Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is true that if your paperboy throws your paper into the bushes for five straight days it can be explained by Newton's Law of Gravity.  But it takes Murphy's law to explain why it is happening to you."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It seems intuitively obvious to me, which means that it might be wrong.  ",
+         "extras":"",
+         "author":"Chris Torek"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It seems that more and more mathematicians are using a new, high level language named \"research student\"."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's hard to think of you as the end result of millions of years of evolution."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's later than you think, the joint Russian-American space mission has already begun."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not an optical illusion, it just looks like one.  ",
+         "extras":"",
+         "author":"Phil White"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not hard to admit errors that are [only] cosmetically wrong.  ",
+         "extras":"",
+         "author":"J.K. Galbraith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kleeneness is next to Godelness."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Klein bottle for rent -- inquire within."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Last yeer I kudn't spel Engineer.  Now I are won."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lawrence Radiation Laboratory keeps all its data in an old gray trunk."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is a biochemical reaction to the stimulus of the surrounding environment in a stable ecosphere, while a bowl of cherries is a round container filled with little red fruits on sticks."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is a whim of several billion cells to be you for a while."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is difficult because it is non-linear."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Logic is a little bird, sitting in a tree; that smells *awful*."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Logic is a pretty flower that smells bad."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Logic is a systematic method of coming to the wrong conclusion with confidence."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Logic is the chastity belt of the mind!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Love makes the world go 'round, with a little help from intrinsic angular momentum."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ma Bell is a mean mother!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Machines have less problems.  I'd like to be a machine.  ",
+         "extras":"",
+         "author":"Andy Warhol"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Make it myself?  But I'm a physical organic chemist!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Make it right before you make it faster."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Man will never fly.  Space travel is merely a dream.  All aspirin is alike."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Math is like love -- a simple idea but it can get complicated.  ",
+         "extras":"",
+         "author":"R. Drabek"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mathematicians are like Frenchmen:  whatever you say to them they translate into their own language and forthwith it is something entirely different.  ",
+         "extras":"",
+         "author":"Johann Wolfgang von Goethe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mathematicians often resort to something called Hilbert space, which is described as being n-dimensional.  Like modern sex, any number can play.  ",
+         "extras":"",
+         "author":"Dr. Thor Wald, \"Beep/The Quincunx of Time\", by James Blish"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mathematicians practice absolute freedom.  ",
+         "extras":"",
+         "author":"Henry Adams"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mathematics deals exclusively with the relations of concepts to each other without consideration of their relation to experience.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mathematics is the only science where one never knows what  one is talking about nor whether what is said is true.  ",
+         "extras":"",
+         "author":"Russell"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Matter cannot be created or destroyed, nor can it be returned without a receipt."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Matter will be damaged in direct proportion to its value."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Measure twice, cut once."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Measure with a micrometer.  Mark with chalk.  Cut with an axe."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mediocrity finds safety in standardization.  ",
+         "extras":"",
+         "author":"Frederick Crane"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men love to wonder, and that is the seed of science."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing had happened.  ",
+         "extras":"",
+         "author":"Winston Churchill"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Murphy's Law, that brash proletarian restatement of Godel's Theorem.  ",
+         "extras":"",
+         "author":"Thomas Pynchon, \"Gravity's Rainbow\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My geometry teacher was sometimes acute, and sometimes obtuse, but always, always, he was right.  [That's an interesting angle.  I wonder if there are any parallels?]"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mystics always hope that science will some day overtake them.  ",
+         "extras":"",
+         "author":"Booth Tarkington"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Natural laws have no pity."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nature always sides with the hidden flaw."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nature is by and large to be found out of doors, a location where, it cannot be argued, there are never enough comfortable chairs.  ",
+         "extras":"",
+         "author":"Fran Lebowitz"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nature, to be commanded, must be obeyed.  ",
+         "extras":"",
+         "author":"Francis Bacon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Neil Armstrong tripped."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Neutrinos are into physicists."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Neutrinos have bad breadth."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never worry about theory as long as the machinery does what it's supposed to do.  ",
+         "extras":"",
+         "author":"R. A. Heinlein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No amount of careful planning will ever replace dumb luck."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No amount of genius can overcome a preoccupation with detail."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nondeterminism means never having to say you are wrong."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nonsense.  Space is blue and birds fly through it.  ",
+         "extras":"",
+         "author":"Heisenberg"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing is rich but the inexhaustible wealth of nature. She shows us only surfaces, but she is a million fathoms deep.  ",
+         "extras":"",
+         "author":"Ralph Waldo Emerson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Numeric stability is probably not all that important when you're guessing."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Of course you can't flap your arms and fly to the moon.  After a while you'd run out of air to push against."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Often statistics are used as a drunken man uses lampposts -- for support rather than illumination."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One Bell System - it sometimes works."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One Bell System - it used to work before they installed the Dimension!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One Bell System - it works."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One can search the brain with a microscope and not find the mind, and can search the stars with a telescope and not find God.  ",
+         "extras":"",
+         "author":"J. Gustav White"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One can't proceed from the informal to the formal by formal means."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One has to look out for engineers -- they begin with sewing machines and end up with the atomic bomb.  ",
+         "extras":"",
+         "author":"Marcel Pagnol"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One man's \"magic\" is another man's engineering.  \"Supernatural\" is a null word.  ",
+         "extras":"",
+         "author":"Robert Heinlein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One man's constant is another man's variable.  ",
+         "extras":"",
+         "author":"A.J. Perlis"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One of the chief duties of the mathematician in acting as an advisor... is to discourage... from expecting too much from mathematics.  ",
+         "extras":"",
+         "author":"N. Wiener"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One small step for man, one giant stumble for mankind."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Only God can make random selections."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ontogeny recapitulates phylogeny."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Optimization hinders evolution."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Order and simplification are the first steps toward mastery of a subject -- the actual enemy is the unknown.  ",
+         "extras":"",
+         "author":"Thomas Mann"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the study of carbon compounds that crawl.  ",
+         "extras":"",
+         "author":"Mike Adams"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Our vision is to speed up time, eventually eliminating it.\"  ",
+         "extras":"",
+         "author":"Alex Schure % , the toxic effect is somewhat delayed and it takes about 2.5 billion inhalations before death takes place.  The reason for the delay is the difference in the mechanism of the toxic effect of oxygen in 20%  concentration.  It apparently contributes to a complex process called aging, of which very little is known, except that it is always fatal.  However, the main disadvantage of the 20%  Parallel lines never meet, unless you bend one or both of them."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Parts that positively cannot be assembled in improper order will be."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"People who go to conferences are the ones who shouldn't."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Philogyny recapitulates erogeny; erogeny recapitulates philogyny."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Picture the sun as the origin of two intersecting 6-dimensional hyperplanes from which we can deduce a certain transformational sequence which gives us the terminal velocity of a rubber duck ...\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pie are not square.  Pie are round.  Cornbread are square."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Polymer physicists are into chains."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pound for pound, the amoeba is the most vicious animal on earth."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Power corrupts.  And atomic power corrupts atomically."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Progress means replacing a theory that is wrong with one more subtly wrong."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Prototype designs always work.  ",
+         "extras":"",
+         "author":"Don Vonada"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Protozoa are small, and bacteria are small, but viruses are smaller than the both put together.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quantum Mechanics is a lovely introduction to Hilbert Spaces!  ",
+         "extras":"",
+         "author":"Overheard at last year's Archimedeans' Garden Party"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quantum Mechanics is God's version of \"Trust me.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quark! Quark! Beware the quantum duck!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Radioactive cats have 18 half-lives."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality must take precedence over public relations, for Mother Nature cannot be fooled.  ",
+         "extras":"",
+         "author":"R.P. Feynman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember Darwin; building a better mousetrap merely results in smarter mice."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Research is the best place to be: you work your buns off, and if it works you're a hero; if it doesn't, well -- nobody else has done it yet either, so you're still a valiant nerd."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Research is to see what everybody else has seen, and think what nobody else has thought."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Research is what I'm doing when I don't know what I'm doing.  ",
+         "extras":"",
+         "author":"Wernher von Braun"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Round Numbers are always false.  ",
+         "extras":"",
+         "author":"Samuel Johnson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Saliva causes cancer, but only if swallowed in small amounts over a long period of time.  ",
+         "extras":"",
+         "author":"George Carlin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science and religion are in full accord but science and faith are in complete discord."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science is built up of facts, as a house is with stones.  But a collection of facts is no more a science than a heap of stones is a house.  ",
+         "extras":"",
+         "author":"Jules Henri Poincar'e"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science is what happens when preconception meets verification."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science may someday discover what faith has always known."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Scientists are people who build the Brooklyn Bridge and then buy it.  ",
+         "extras":"",
+         "author":"William Buckley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sentient plasmoids are a gas."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Simplicity does not precede complexity, but follows it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Solutions are obvious if one only has the optical power to observe them over the horizon.  ",
+         "extras":"",
+         "author":"K.A. Arsdall"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Space is to place as eternity is to time.  ",
+         "extras":"",
+         "author":"Joseph Joubert"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Space tells matter how to move and matter tells space how to curve.  ",
+         "extras":"",
+         "author":"Wheeler"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Statistics are no substitute for judgement.  ",
+         "extras":"",
+         "author":"Henry Clay"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Statistics means never having to say you're certain."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stellar rays prove fibbing never pays. Embezzlement is another matter."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Support bacteria -- it's the only culture some people have!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Take an astronaut to launch."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Technological progress has merely provided us with more efficient means for going backwards.  ",
+         "extras":"",
+         "author":"Aldous Huxley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Technology is dominated by those who manage what they do not understand."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That's one small step for a man; one giant leap for mankind.  ",
+         "extras":"",
+         "author":"Neil Armstrong"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The aim of science is to seek the simplest explanations of complex facts. Seek simplicity and distrust it.  ",
+         "extras":"",
+         "author":"Whitehead."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The amount of time between slipping on the peel and landing on the pavement is precisely 1 bananosecond."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The amount of weight an evangelist carries with the almighty is measured in billigrahams."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best defense against logic is ignorance."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The bigger the theory the better."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The biggest difference between time and space is that you can't reuse time.  ",
+         "extras":"",
+         "author":"Merrick Furst"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The bomb will never go off.  I speak as an expert in explosives.  ",
+         "extras":"",
+         "author":"Admiral William Leahy, U.S. Atomic Bomb Project"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The church saves sinners, but science seeks to stop their manufacture.  ",
+         "extras":"",
+         "author":"Elbert Hubbard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The clash of ideas is the sound of freedom."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The clearest way into the Universe is through a forest wilderness.  ",
+         "extras":"",
+         "author":"John Muir"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The devil finds work for idle circuits to do."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The devil finds work for idle glands."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between reality and unreality is that reality has so little to recommend it.  ",
+         "extras":"",
+         "author":"Allan Sherman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship.  ",
+         "extras":"",
+         "author":"Robert Heinlein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The earth is like a tiny grain of sand, only much, much heavier."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The economy depends about as much on economists as the weather does on weather forecasters.  ",
+         "extras":"",
+         "author":"Jean-Paul Kauffmann"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The explanation requiring the fewest assumptions is the most likely to be correct.  ",
+         "extras":"",
+         "author":"William of Occam"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The following statement is not true.  The previous statement is true."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Force is what holds everything together.  It has its dark side, and it has its light side. It's sort of like cosmic duct tape."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The four building blocks of the universe are fire, water, gravel and vinyl.\"  ",
+         "extras":"",
+         "author":"Dave Barry"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The function of the expert is not to be more right than other people, but to be wrong for more sophisticated reasons.  ",
+         "extras":"",
+         "author":"Dr. David Butler, British psephologist"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The generation of random numbers is too important to be left to chance."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The goal of science is to build better mousetraps.  The goal of nature is to build better mice."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The herd instinct among economists makes sheep look like independent thinkers."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The identical is equal to itself, since it is different.\"  ",
+         "extras":"",
+         "author":"Franco Spisani"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The instruments of science do not in themselves discover truth.  And there are searchings that are not concluded by the coincidence of a pointer and a mark.  ",
+         "extras":"",
+         "author":"Fred Saberhagen, \"The Berserker Wars\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The key elements in human thinking are not numbers but labels of fuzzy sets.  ",
+         "extras":"",
+         "author":"L. Zadeh"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The light of a hundred stars does not equal the light of the moon."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The marvels of today's modern technology include the development of a soda can, when discarded will last forever ... and a $7,000 car which when properly cared for will rust out in two or three years."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The meek shall inherit the earth; the rest of us will go to the stars."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The meek shall inherit the earth; the rest of us, the Universe."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moon is a planet just like the Earth, only it is even deader."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moon is made of green cheese.  ",
+         "extras":"",
+         "author":"John Heywood"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moon may be smaller than Earth, but it's further away."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The more they over-think the plumbing the easier it is to stop up the drain."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most exciting phrase to hear in science, the one that heralds new discoveries, is not \"Eureka!\" (I found it!) but \"That's funny ...\"  ",
+         "extras":"",
+         "author":"Isaac Asimov"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The nation that controls magnetism controls the universe.  ",
+         "extras":"",
+         "author":"Chester Gould/Dick Tracy"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only function of economic forecasting is to make astrology look respectable.  ",
+         "extras":"",
+         "author":"John Kenneth Galbraith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only perfect science is hind-sight."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only person who always got his work done by Friday was Robinson Crusoe."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only possible interpretation of any research whatever in the `social sciences' is: some do, some don't.  ",
+         "extras":"",
+         "author":"Ernest Rutherford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.  ",
+         "extras":"",
+         "author":"Niels Bohr"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The perversity of nature is nowhere better demonstrated by the fact that, when exposed to the same atmosphere, bread becomes hard while crackers become soft."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The purpose of Physics 7A is to make the engineers realize that they're not perfect, and to make the rest of the people realize that they're not engineers."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The rate at which a disease spreads through a corn field is a precise measurement of the speed of blight."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The reason that every major university maintains a department of mathematics is that it's cheaper than institutionalizing all those people."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The rule on staying alive as a forecaster is to give 'em a number or give 'em a date, but never give 'em both at once.  ",
+         "extras":"",
+         "author":"Jane Bryant Quinn"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Shuttle is now going five times the sound of speed.  ",
+         "extras":"",
+         "author":"Dan Rather, first landing of Columbia"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The solution of problems is the most characteristic and peculiar sort of voluntary thinking.  ",
+         "extras":"",
+         "author":"William James"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The solution of this problem is trivial and is left as an exercise for the reader."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The solution to a problem changes the nature of the problem.  ",
+         "extras":"",
+         "author":"Peer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The speed of anything depends on the flow of everything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The study of non-linear physics is like the study of non-elephant biology."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The subspace W inherits the other 8 properties of V. And there aren't even any property taxes.\"  ",
+         "extras":"",
+         "author":"J. MacKay, Mathematics 134b"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The sum of the Universe is zero."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The test of intelligent tinkering is to save all the parts.  ",
+         "extras":"",
+         "author":"Aldo Leopold"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The tree of research must from time to time be refreshed with the blood of bean counters.  ",
+         "extras":"",
+         "author":"Alan Kay"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth of a proposition has nothing to do with its credibility.  And vice versa."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The two most common things in the Universe are hydrogen and stupidity.  ",
+         "extras":"",
+         "author":"Harlan Ellison"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The unfacts, did we have them, are too imprecisely few to warrant our certitude."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe does not have laws -- it has habits, and habits can be broken."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe is all a spin-off of the Big Bang."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe is an island, surrounded by whatever it is that surrounds universes."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe is like a safe to which there is a combination -- but the combination is locked up in the safe.  ",
+         "extras":"",
+         "author":"Peter DeVries"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Universe is populated by stable things.  ",
+         "extras":"",
+         "author":"Richard Dawkins"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe seems neither benign nor hostile, merely indifferent.  ",
+         "extras":"",
+         "author":"Sagan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The University of California Statistics Department; where mean is normal, and deviation standard."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it.  ",
+         "extras":"",
+         "author":"E. Hubbard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Wright Bothers weren't the first to fly.  They were just the first not to crash."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Theory is gray, but the golden tree of life is green.  ",
+         "extras":"",
+         "author":"Goethe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There *is* no such thing as a civil engineer."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are no data that cannot be plotted on a straight line if the axis are chosen correctly."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"There are three principal ways to lose money: wine, women, and engineers. While the first two are more pleasant, the third is by far the more certain.\"  ",
+         "extras":"",
+         "author":"Baron Rothschild, ca. 1800"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There can be no twisted thought without a twisted molecule.  ",
+         "extras":"",
+         "author":"R. W. Gerard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no likelihood man can ever tap the power of the atom.  ",
+         "extras":"",
+         "author":"Robert Millikan, Nobel Prize in Physics, 1923"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no opinion so absurd that some philosopher will not express it.  ",
+         "extras":"",
+         "author":"Marcus Tullius Cicero, \"Ad familiares\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no royal road to geometry.  ",
+         "extras":"",
+         "author":"Euclid"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's a whole WORLD in a mud puddle!  ",
+         "extras":"",
+         "author":"Doug Clifford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's no future in time travel."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's no sense in being precise when you don't even know what you're talking about.  ",
+         "extras":"",
+         "author":"John von Neumann"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Things equal to nothing else are equal to each other."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This is clearly another case of too many mad scientists, and not enough hunchbacks."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This is the theory that Jack built. This is the flaw that lay in the theory that Jack built. This is the palpable verbal haze that hid the flaw that lay in..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This place just isn't big enough for all of us.  We've got to find a way off this planet."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This universe shipped by weight, not by volume.  Some expansion of the contents may have occurred during shipment."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Those who can, do; those who can't, simulate."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Those who can, do; those who can't, write. Those who can't write work for the Bell Labs Record."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"... though his invention worked superbly -- his theory was a crock of sewage from beginning to end.  ",
+         "extras":"",
+         "author":"Vernor Vinge, \"The Peace War\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thus mathematics may be defined as the subject in which we never know what we are talking about, nor whether what we are saying is true.  ",
+         "extras":"",
+         "author":"Bertrand Russell"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Time is an illusion perpetrated by the manufacturers of space."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Time is nature's way of making sure that everything doesn't happen at once.  Space is nature's way of making sure that everything doesn't happen to you."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To converse at the distance of the Indes by means of sympathetic contrivances may be as natural to future times as to us is a literary correspondence.  ",
+         "extras":"",
+         "author":"Joseph Glanvill, 1661"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To invent, you need a good imagination and a pile of junk.  ",
+         "extras":"",
+         "author":"Thomas Edison"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Torque is cheap."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two is not equal to three, even for large values of two."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two percent of zero is almost nothing."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two wrights don't make a rong, they make an airplane.  Or bicycles."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"UFOs are for real: the Air Force doesn't exist."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Understanding is always the understanding of a smaller problem in relation to a bigger problem.  ",
+         "extras":"",
+         "author":"P.D. Ouspensky"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Utility is when you have one telephone, luxury is when you have two, opulence is when you have three -- and paradise is when you have none.  ",
+         "extras":"",
+         "author":"Doug Larson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are each entitled to our own opinion, but no one is entitled to his own facts.  ",
+         "extras":"",
+         "author":"Patrick Moynihan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We can defeat gravity. The problem is the paperwork involved."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We can predict everything, except the future."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We cannot command nature except by obeying her.  ",
+         "extras":"",
+         "author":"Sir Francis Bacon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"We don't care.  We don't have to.  We're the Phone Company.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We don't know one millionth of one percent about anything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We don't know who it was that discovered water, but we're pretty sure that it wasn't a fish.  ",
+         "extras":"",
+         "author":"Marshall McLuhan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We gave you an atomic bomb, what do you want, mermaids?  ",
+         "extras":"",
+         "author":"I. I. Rabi to the Atomic Energy Commission"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We have a equal opportunity Calculus class -- it's fully integrated."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We must believe that it is the darkest before the dawn of a beautiful new world.  We will see it when we believe it.  ",
+         "extras":"",
+         "author":"Saul Alinsky"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We warn the reader in advance that the proof presented here depends on a clever but highly unmotivated trick.  ",
+         "extras":"",
+         "author":"Howard Anton, \"Elementary Linear Algebra\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We who revel in nature's diversity and feel instructed by every animal tend to brand Homo sapiens as the greatest catastrophe since the Cretaceous extinction.  ",
+         "extras":"",
+         "author":"S.J. Gould"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We will have solar energy as soon as the utility companies solve one technical problem -- how to run a sunbeam through a meter."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wernher von Braun settled for a V-2 when he coulda had a V-8."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"What I've done, of course, is total garbage.\"  ",
+         "extras":"",
+         "author":"R. Willard, Pure Math 430a"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is algebra, exactly?  Is it one of those three-cornered things?  ",
+         "extras":"",
+         "author":"J.M. Barrie"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is mind?  No matter.  What is matter?  Never mind.  ",
+         "extras":"",
+         "author":"Thomas Hewitt Key, 1799-1875"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is now proved was once only imagin'd.  ",
+         "extras":"",
+         "author":"William Blake"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is research but a blind date with knowledge?  ",
+         "extras":"",
+         "author":"Will Harvey"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is wanted is not the will to believe, but the will to find out, which is the exact opposite.  ",
+         "extras":"",
+         "author":"Bertrand Russell, \"Skeptical Essays\", 1928"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What the deuce is it to me?  You say that we go around the sun.  If we went around the moon it would not make a pennyworth of difference to me or my work.  ",
+         "extras":"",
+         "author":"Sherlock Holmes, \"A Study in Scarlet\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What the scientists have in their briefcases is terrifying.  ",
+         "extras":"",
+         "author":"Nikita Khruschev"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What the world *really* needs is a good Automatic Bicycle Sharpener."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When some people discover the truth, they just can't understand why everybody isn't eager to hear it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When speculation has done its worst, two plus two still equals four.  ",
+         "extras":"",
+         "author":"S. Johnson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"When the going gets tough, the tough get empirical.\"  ",
+         "extras":"",
+         "author":"Jon Carroll"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When the weight of the paperwork equals the weight of the plane, the plane will fly.  ",
+         "extras":"",
+         "author":"Donald Douglas"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where are the calculations that go with a calculated risk?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where it is a duty to worship the sun it is pretty sure to be a crime to examine the laws of heat.  ",
+         "extras":"",
+         "author":"Christopher Morley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"White dwarf seeks red giant for binary relationship."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why don't you fix your little problem... and light this candle?  ",
+         "extras":"",
+         "author":"Alan Shepherd, the first man into space, Gemini program"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"With all the fancy scientists in the world, why can't they just once build a nuclear balm?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Without life, Biology itself would be impossible."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Xerox does it again and again and again and ..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Xerox never comes up with anything original."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ya'll hear about the geometer who went to the beach to catch some rays and became a tangent ?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Yeah, but you're taking the universe out of context.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't cheat the phone company."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You cannot have a science without measurement.  ",
+         "extras":"",
+         "author":"R. W. Hamming"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You know you've landed gear-up when it takes full power to taxi."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You mean you didn't *know* she was off making lots of little phone companies?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You should never bet against anything in science at odds of more than about 10^12 to 1.  ",
+         "extras":"",
+         "author":"Ernest Rutherford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You will never amount to much.  ",
+         "extras":"",
+         "author":"Munich Schoolmaster, to Albert Einstein, age 10"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One can search the brain with a microscope and not find the mind, and can search the stars with a telescope and not find God.  ",
+         "extras":"",
+         "author":"J. Gustav White"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One can't proceed from the informal to the formal by formal means."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One has to look out for engineers -- they begin with sewing machines and end up with the atomic bomb.  ",
+         "extras":"",
+         "author":"Marcel Pagnol"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One man's \"magic\" is another man's engineering.  \"Supernatural\" is a null word.  ",
+         "extras":"",
+         "author":"Robert Heinlein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One man's constant is another man's variable.  ",
+         "extras":"",
+         "author":"A. J. Perlis"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One of the chief duties of the mathematician in acting as an advisor... is to discourage... from expecting too much from mathematics.  ",
+         "extras":"",
+         "author":"N. Wiener"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One small step for man, one giant stumble for mankind."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Only God can make random selections."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ontogeny recapitulates phylogeny."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Optimization hinders evolution."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Order and simplification are the first steps toward mastery of a subject -- the actual enemy is the unknown.  ",
+         "extras":"",
+         "author":"Thomas Mann"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the study of carbon compounds that crawl.  ",
+         "extras":"",
+         "author":"Mike Adams"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Our vision is to speed up time, eventually eliminating it.\"  ",
+         "extras":"",
+         "author":"Alex Schure"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Parallel lines never meet, unless you bend one or both of them."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Parts that positively cannot be assembled in improper order will be."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"People who go to conferences are the ones who shouldn't."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Philogyny recapitulates erogeny; erogeny recapitulates philogyny."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Picture the sun as the origin of two intersecting 6-dimensional hyperplanes from which we can deduce a certain transformational sequence which gives us the terminal velocity of a rubber duck ...\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pie are not square.  Pie are round.  Cornbread are square."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Polymer physicists are into chains."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pound for pound, the amoeba is the most vicious animal on earth."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Power corrupts.  And atomic power corrupts atomically."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Progress means replacing a theory that is wrong with one more subtly wrong."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Prototype designs always work.  ",
+         "extras":"",
+         "author":"Don Vonada"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Protozoa are small, and bacteria are small, but viruses are smaller than the both put together.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quantum Mechanics is a lovely introduction to Hilbert Spaces!  ",
+         "extras":"",
+         "author":"Overheard at last year's Archimedeans' Garden Party"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quantum Mechanics is God's version of \"Trust me.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Quark! Quark! Beware the quantum duck!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Radioactive cats have 18 half-lives."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reality must take precedence over public relations, for Mother Nature cannot be fooled.  ",
+         "extras":"",
+         "author":"R. P. Feynman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember Darwin; building a better mousetrap merely results in smarter mice."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Research is the best place to be: you work your buns off, and if it works you're a hero; if it doesn't, well -- nobody else has done it yet either, so you're still a valiant nerd."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Research is to see what everybody else has seen, and think what nobody else has thought."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Research is what I'm doing when I don't know what I'm doing.  ",
+         "extras":"",
+         "author":"Wernher von Braun"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Round Numbers are always false.  ",
+         "extras":"",
+         "author":"Samuel Johnson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Saliva causes cancer, but only if swallowed in small amounts over a long period of time.  ",
+         "extras":"",
+         "author":"George Carlin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science and religion are in full accord but science and faith are in complete discord."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science is built up of facts, as a house is with stones.  But a collection of facts is no more a science than a heap of stones is a house.  ",
+         "extras":"",
+         "author":"Jules Henri Poincar'e"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science is what happens when preconception meets verification."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science may someday discover what faith has always known."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Scientists are people who build the Brooklyn Bridge and then buy it.  ",
+         "extras":"",
+         "author":"William Buckley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sentient plasmoids are a gas."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Simplicity does not precede complexity, but follows it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Solutions are obvious if one only has the optical power to observe them over the horizon.  ",
+         "extras":"",
+         "author":"K. A. Arsdall"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Space is to place as eternity is to time.  ",
+         "extras":"",
+         "author":"Joseph Joubert"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Space tells matter how to move and matter tells space how to curve.  ",
+         "extras":"",
+         "author":"Wheeler"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Statistics are no substitute for judgement.  ",
+         "extras":"",
+         "author":"Henry Clay"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Statistics means never having to say you're certain."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stellar rays prove fibbing never pays. Embezzlement is another matter."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Support bacteria -- it's the only culture some people have!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Take an astronaut to launch."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Technological progress has merely provided us with more efficient means for going backwards.  ",
+         "extras":"",
+         "author":"Aldous Huxley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Technology is dominated by those who manage what they do not understand."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That's one small step for a man; one giant leap for mankind.  ",
+         "extras":"",
+         "author":"Neil Armstrong"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The aim of science is to seek the simplest explanations of complex facts. Seek simplicity and distrust it.  ",
+         "extras":"",
+         "author":"Whitehead."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The amount of time between slipping on the peel and landing on the pavement is precisely 1 bananosecond."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The amount of weight an evangelist carries with the almighty is measured in billigrahams."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best defense against logic is ignorance."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The bigger the theory the better."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The biggest difference between time and space is that you can't reuse time.  ",
+         "extras":"",
+         "author":"Merrick Furst"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The bomb will never go off.  I speak as an expert in explosives.  ",
+         "extras":"",
+         "author":"Admiral William Leahy, U.S. Atomic Bomb Project"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The church saves sinners, but science seeks to stop their manufacture.  ",
+         "extras":"",
+         "author":"Elbert Hubbard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The clash of ideas is the sound of freedom."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The clearest way into the Universe is through a forest wilderness.  ",
+         "extras":"",
+         "author":"John Muir"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The devil finds work for idle circuits to do."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The devil finds work for idle glands."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between reality and unreality is that reality has so little to recommend it.  ",
+         "extras":"",
+         "author":"Allan Sherman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship.  ",
+         "extras":"",
+         "author":"Robert Heinlein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The earth is like a tiny grain of sand, only much, much heavier."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The economy depends about as much on economists as the weather does on weather forecasters.  ",
+         "extras":"",
+         "author":"Jean-Paul Kauffmann"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The explanation requiring the fewest assumptions is the most likely to be correct.  ",
+         "extras":"",
+         "author":"William of Occam"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The following statement is not true.  The previous statement is true."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Force is what holds everything together.  It has its dark side, and it has its light side. It's sort of like cosmic duct tape."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The four building blocks of the universe are fire, water, gravel and vinyl.\"  ",
+         "extras":"",
+         "author":"Dave Barry"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The function of the expert is not to be more right than other people, but to be wrong for more sophisticated reasons.  ",
+         "extras":"",
+         "author":"Dr. David Butler, British psephologist"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The generation of random numbers is too important to be left to chance."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The goal of science is to build better mousetraps.  The goal of nature is to build better mice."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The herd instinct among economists makes sheep look like independent thinkers."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The identical is equal to itself, since it is different.\"  ",
+         "extras":"",
+         "author":"Franco Spisani"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The instruments of science do not in themselves discover truth.  And there are searchings that are not concluded by the coincidence of a pointer and a mark.  ",
+         "extras":"",
+         "author":"Fred Saberhagen, \"The Berserker Wars\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The key elements in human thinking are not numbers but labels of fuzzy sets.  ",
+         "extras":"",
+         "author":"L. Zadeh"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The light of a hundred stars does not equal the light of the moon."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The marvels of today's modern technology include the development of a soda can, when discarded will last forever ... and a $7,000 car which when properly cared for will rust out in two or three years."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The meek shall inherit the earth; the rest of us will go to the stars."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The meek shall inherit the earth; the rest of us, the Universe."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moon is a planet just like the Earth, only it is even deader."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moon is made of green cheese.  ",
+         "extras":"",
+         "author":"John Heywood"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moon may be smaller than Earth, but it's further away."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The more they over-think the plumbing the easier it is to stop up the drain."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most exciting phrase to hear in science, the one that heralds new discoveries, is not \"Eureka!\" (I found it!) but \"That's funny ...\"  ",
+         "extras":"",
+         "author":"Isaac Asimov"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The nation that controls magnetism controls the universe.  ",
+         "extras":"",
+         "author":"Chester Gould/Dick Tracy"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only function of economic forecasting is to make astrology look respectable.  ",
+         "extras":"",
+         "author":"John Kenneth Galbraith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only perfect science is hind-sight."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only person who always got his work done by Friday was Robinson Crusoe."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only possible interpretation of any research whatever in the `social sciences' is: some do, some don't.  ",
+         "extras":"",
+         "author":"Ernest Rutherford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.  ",
+         "extras":"",
+         "author":"Niels Bohr"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The perversity of nature is nowhere better demonstrated by the fact that, when exposed to the same atmosphere, bread becomes hard while crackers become soft."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The purpose of Physics 7A is to make the engineers realize that they're not perfect, and to make the rest of the people realize that they're not engineers."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The rate at which a disease spreads through a corn field is a precise measurement of the speed of blight."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The reason that every major university maintains a department of mathematics is that it's cheaper than institutionalizing all those people."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The rule on staying alive as a forecaster is to give 'em a number or give 'em a date, but never give 'em both at once.  ",
+         "extras":"",
+         "author":"Jane Bryant Quinn"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Shuttle is now going five times the sound of speed.  ",
+         "extras":"",
+         "author":"Dan Rather, first landing of Columbia"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The solution of problems is the most characteristic and peculiar sort of voluntary thinking.  ",
+         "extras":"",
+         "author":"William James"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The solution of this problem is trivial and is left as an exercise for the reader."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The solution to a problem changes the nature of the problem.  ",
+         "extras":"",
+         "author":"Peer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The speed of anything depends on the flow of everything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The study of non-linear physics is like the study of non-elephant biology."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The subspace _W inherits the other 8 properties of _V. And there aren't even any property taxes.\"  ",
+         "extras":"",
+         "author":"J. MacKay, Mathematics 134b"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The sum of the Universe is zero."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The test of intelligent tinkering is to save all the parts.  ",
+         "extras":"",
+         "author":"Aldo Leopold"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The tree of research must from time to time be refreshed with the blood of bean counters.  ",
+         "extras":"",
+         "author":"Alan Kay"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth of a proposition has nothing to do with its credibility.  And vice versa."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The two most common things in the Universe are hydrogen and stupidity.  ",
+         "extras":"",
+         "author":"Harlan Ellison"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The unfacts, did we have them, are too imprecisely few to warrant our certitude."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe does not have laws -- it has habits, and habits can be broken."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe is all a spin-off of the Big Bang."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe is an island, surrounded by whatever it is that surrounds universes."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe is like a safe to which there is a combination -- but the combination is locked up in the safe.  ",
+         "extras":"",
+         "author":"Peter DeVries"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Universe is populated by stable things.  ",
+         "extras":"",
+         "author":"Richard Dawkins"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The universe seems neither benign nor hostile, merely indifferent.  ",
+         "extras":"",
+         "author":"Sagan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The University of California Statistics Department; where mean is normal, and deviation standard."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it.  ",
+         "extras":"",
+         "author":"E. Hubbard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Wright Bothers weren't the first to fly.  They were just the first not to crash."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Theory is gray, but the golden tree of life is green.  ",
+         "extras":"",
+         "author":"Goethe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There *is* no such thing as a civil engineer."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are no data that cannot be plotted on a straight line if the axis are chosen correctly."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"There are three principal ways to lose money: wine, women, and engineers. While the first two are more pleasant, the third is by far the more certain.\"  ",
+         "extras":"",
+         "author":"Baron Rothschild, ca. 1800"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There can be no twisted thought without a twisted molecule.  ",
+         "extras":"",
+         "author":"R. W. Gerard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no likelihood man can ever tap the power of the atom.  ",
+         "extras":"",
+         "author":"Robert Millikan, Nobel Prize in Physics, 1923"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no opinion so absurd that some philosopher will not express it.  ",
+         "extras":"",
+         "author":"Marcus Tullius Cicero, \"Ad familiares\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no royal road to geometry.  ",
+         "extras":"",
+         "author":"Euclid"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's a whole WORLD in a mud puddle!  ",
+         "extras":"",
+         "author":"Doug Clifford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's no future in time travel."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's no sense in being precise when you don't even know what you're talking about.  ",
+         "extras":"",
+         "author":"John von Neumann"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Things equal to nothing else are equal to each other."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This is clearly another case of too many mad scientists, and not enough hunchbacks."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This is the theory that Jack built. This is the flaw that lay in the theory that Jack built. This is the palpable verbal haze that hid the flaw that lay in..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This place just isn't big enough for all of us.  We've got to find a way off this planet."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This universe shipped by weight, not by volume.  Some expansion of the contents may have occurred during shipment."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Those who can, do; those who can't, simulate."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Those who can, do; those who can't, write. Those who can't write work for the Bell Labs Record."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"... though his invention worked superbly -- his theory was a crock of sewage from beginning to end.  ",
+         "extras":"",
+         "author":"Vernor Vinge, \"The Peace War\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thus mathematics may be defined as the subject in which we never know what we are talking about, nor whether what we are saying is true.  ",
+         "extras":"",
+         "author":"Bertrand Russell"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Time is an illusion perpetrated by the manufacturers of space."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Time is nature's way of making sure that everything doesn't happen at once. Space is nature's way of making sure that everything doesn't happen to you."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To converse at the distance of the Indes by means of sympathetic contrivances may be as natural to future times as to us is a literary correspondence.  ",
+         "extras":"",
+         "author":"Joseph Glanvill, 1661"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To invent, you need a good imagination and a pile of junk.  ",
+         "extras":"",
+         "author":"Thomas Edison"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Today's scientific question is: What in the world is electricity? And where does it go after it leaves the toaster?  ",
+         "extras":"",
+         "author":"Dave Barry, \"What is Electricity?\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Torque is cheap."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two is not equal to three, even for large values of two."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two percent of zero is almost nothing."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two wrights don't make a rong, they make an airplane.  Or bicycles."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"UFOs are for real: the Air Force doesn't exist."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Understanding is always the understanding of a smaller problem in relation to a bigger problem.  ",
+         "extras":"",
+         "author":"P. D. Ouspensky"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Utility is when you have one telephone, luxury is when you have two, opulence is when you have three -- and paradise is when you have none.  ",
+         "extras":"",
+         "author":"Doug Larson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are each entitled to our own opinion, but no one is entitled to his own facts.  ",
+         "extras":"",
+         "author":"Patrick Moynihan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are sorry.  We cannot complete your call as dialed. Please check the number and dial again or ask your operator for assistance. This is a recording."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We can defeat gravity. The problem is the paperwork involved."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We can predict everything, except the future."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We cannot command nature except by obeying her.  ",
+         "extras":"",
+         "author":"Sir Francis Bacon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"We don't care.  We don't have to.  We're the Phone Company.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We don't know one millionth of one percent about anything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We don't know who it was that discovered water, but we're pretty sure that it wasn't a fish.  ",
+         "extras":"",
+         "author":"Marshall McLuhan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We gave you an atomic bomb, what do you want, mermaids?  ",
+         "extras":"",
+         "author":"I. I. Rabi to the Atomic Energy Commission"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We have a equal opportunity Calculus class -- it's fully integrated."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We must believe that it is the darkest before the dawn of a beautiful new world.  We will see it when we believe it.  ",
+         "extras":"",
+         "author":"Saul Alinsky"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We warn the reader in advance that the proof presented here depends on a clever but highly unmotivated trick.  ",
+         "extras":"",
+         "author":"Howard Anton, \"Elementary Linear Algebra\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We who revel in nature's diversity and feel instructed by every animal tend to brand Homo sapiens as the greatest catastrophe since the Cretaceous extinction.  ",
+         "extras":"",
+         "author":"S. J. Gould"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We will have solar energy as soon as the utility companies solve one technical problem -- how to run a sunbeam through a meter."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wernher von Braun settled for a V-2 when he coulda had a V-8."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"What I've done, of course, is total garbage.\"  ",
+         "extras":"",
+         "author":"R. Willard, Pure Math 430a"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is algebra, exactly?  Is it one of those three-cornered things?  ",
+         "extras":"",
+         "author":"J. M. Barrie"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is mind?  No matter.  What is matter?  Never mind.  ",
+         "extras":"",
+         "author":"Thomas Hewitt Key, 1799-1875"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is now proved was once only imagin'd.  ",
+         "extras":"",
+         "author":"William Blake"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is research but a blind date with knowledge?  ",
+         "extras":"",
+         "author":"Will Harvey"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is wanted is not the will to believe, but the will to find out, which is the exact opposite.  ",
+         "extras":"",
+         "author":"Bertrand Russell, \"Skeptical Essays\", 1928"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What the deuce is it to me?  You say that we go around the sun.  If we went around the moon it would not make a pennyworth of difference to me or my work.  ",
+         "extras":"",
+         "author":"Sherlock Holmes, \"A Study in Scarlet\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What the scientists have in their briefcases is terrifying.  ",
+         "extras":"",
+         "author":"Nikita Khruschev"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What the world *really* needs is a good Automatic Bicycle Sharpener."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When some people discover the truth, they just can't understand why everybody isn't eager to hear it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When speculation has done its worst, two plus two still equals four.  ",
+         "extras":"",
+         "author":"S. Johnson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"When the going gets tough, the tough get empirical.\"  ",
+         "extras":"",
+         "author":"Jon Carroll"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When the weight of the paperwork equals the weight of the plane, the plane will fly.  ",
+         "extras":"",
+         "author":"Donald Douglas"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where are the calculations that go with a calculated risk?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where it is a duty to worship the sun it is pretty sure to be a crime to examine the laws of heat.  ",
+         "extras":"",
+         "author":"Christopher Morley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"White dwarf seeks red giant for binary relationship."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why don't you fix your little problem... and light this candle?  ",
+         "extras":"",
+         "author":"Alan Shepherd, the first man into space, Gemini program"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"With all the fancy scientists in the world, why can't they just once build a nuclear balm?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Without life, Biology itself would be impossible."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Xerox does it again and again and again and ..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Xerox never comes up with anything original."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ya'll hear about the geometer who went to the beach to catch some rays and became a tangent ?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Yeah, but you're taking the universe out of context.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't cheat the phone company."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You cannot have a science without measurement.  ",
+         "extras":"",
+         "author":"R. W. Hamming"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You know you've landed gear-up when it takes full power to taxi."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You mean you didn't *know* she was off making lots of little phone companies?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You should never bet against anything in science at odds of more than about 10^12 to 1.  ",
+         "extras":"",
+         "author":"Ernest Rutherford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You will never amount to much.  ",
+         "extras":"",
+         "author":"Munich Schoolmaster, to Albert Einstein, age 10"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is the theory which decides what can be observed.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God is subtle, but he is not malicious.  ",
+         "extras":"",
+         "author":"Albert Einstein"
+      }
+   ]
+}

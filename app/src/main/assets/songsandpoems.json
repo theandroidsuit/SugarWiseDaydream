@@ -1,0 +1,717 @@
+{
+   "type": "Songs & Poems",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bit of talcum Is always walcum ",
+         "extras":"",
+         "author":"Ogden Nash"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A box without hinges, key, or lid, Yet golden treasure inside is hid. ",
+         "extras":"",
+         "author":"J.R.R. Tolkien"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man is like a rusty wheel on a rusty cart, He sings his song as he rattles along and then he falls apart. ",
+         "extras":"",
+         "author":"Richard Thompson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man of genius makes no mistakes. His errors are volitional and are the portals of discovery. ",
+         "extras":"",
+         "author":"James Joyce, \"Ulysses\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man who fishes for marlin in ponds will put his money in Etruscan bonds."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A robin redbreast in a cage Puts all Heaven in a rage. ",
+         "extras":"",
+         "author":"Blake"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A truth that's told with bad intent Beats all the lies you can invent. ",
+         "extras":"",
+         "author":"William Blake"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ah, but a man's grasp should exceed his reach,  Or what's a heaven for ? ",
+         "extras":"",
+         "author":"Robert Browning, \"Andrea del Sarto\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All who joy would win Must share it -- Happiness was born a twin. ",
+         "extras":"",
+         "author":"Lord Byron"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And if sometime, somewhere, someone asketh thee, \"Who kilt thee?\", tell them it 'twas the Doones of Bagworthy!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And in the heartbreak years that lie ahead, Be true to yourself and the Grateful Dead. ",
+         "extras":"",
+         "author":"Joan Baez"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And miles to go before I sleep. ",
+         "extras":"",
+         "author":"Robert Frost"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And the silence came surging softly backwards When the plunging hooves were gone... ",
+         "extras":"",
+         "author":"Walter de La Mare, \"The Listeners\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Angels we have heard on High Tell us to go out and Buy. ",
+         "extras":"",
+         "author":"Tom Lehrer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"April is the cruellest month... ",
+         "extras":"",
+         "author":"Thomas Stearns Eliot"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As for the women, though we scorn and flout 'em, We may live with, but cannot live without 'em. ",
+         "extras":"",
+         "author":"Frederic Reynolds"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"At times discretion should be thrown aside, and with the foolish we should play the fool. ",
+         "extras":"",
+         "author":"Menander"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Avoid Quiet and Placid persons unless you are in Need of Sleep. ",
+         "extras":"",
+         "author":"National Lampoon, \"Deteriorata\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Azh nazg durbatal^uk, azh nazg gimbatul, Azh nazg thrakatal^uk agh burzum ishi krimpatul! ",
+         "extras":"",
+         "author":"J. R. R. Tolkien"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be assured that a walk through the ocean of most Souls would scarcely get your Feet wet.  Fall not in Love, therefore: it will stick to your face. ",
+         "extras":"",
+         "author":"National Lampoon, \"Deteriorata\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be valiant, but not too venturous. Let thy attire be comely, but not costly. ",
+         "extras":"",
+         "author":"John Lyly"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beauty is truth, truth beauty, that is all Ye know on earth, and all ye need to know. ",
+         "extras":"",
+         "author":"John Keats"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Big M, Little M, many mumbling mice Are making midnight music in the moonlight, Mighty nice!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bit off more than my mind could chew, Shower or suicide, what do I do? ",
+         "extras":"",
+         "author":"Julie Brown, \"Will I Make it Through the Eighties?\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"By the yard, life is hard. By the inch, it's a cinch."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Catch a wave and you're sitting on top of the world. ",
+         "extras":"",
+         "author":"The Beach Boys"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Certainly there are things in life that money can't buy, But it's very funny -- did you ever try buying them without money? ",
+         "extras":"",
+         "author":"Ogden Nash"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Children aren't happy without something to ignore, And that's what parents were created for. ",
+         "extras":"",
+         "author":"Ogden Nash"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Come, landlord, fill the flowing bowl until it does run over, Tonight we will all merry be -- tomorrow we'll get sober. ",
+         "extras":"",
+         "author":"John Fletcher, \"The Bloody Brother\", II, 2"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Come, muse, let us sing of rats! ",
+         "extras":"",
+         "author":"From a poem by James Grainger, 1721-1767"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Declared guilty... of displaying feelings of an almost human nature. ",
+         "extras":"",
+         "author":"Pink Floyd, \"The Wall\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't wake me up too soon... Gonna take a ride across the moon... You and me."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Euch ist becannt, was wir beduerfen; Wir wollen stark Getraenke schluerfen. ",
+         "extras":"",
+         "author":"Goethe, \"Faust\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every love's the love before In a duller dress. ",
+         "extras":"",
+         "author":"Dorothy Parker, \"Summary\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every man is as God made him, ay, and often worse. ",
+         "extras":"",
+         "author":"Miguel de Cervantes"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Get in touch with your feelings of hostility against the dying light. ",
+         "extras":"",
+         "author":"Dylan Thomas [paraphrased periphrastically]"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Go placidly amid the noise and waste, and remember what value there may be in owning a piece thereof. ",
+         "extras":"",
+         "author":"National Lampoon, \"Deteriorata\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hanging on in quiet desperation is the English way. ",
+         "extras":"",
+         "author":"Pink Floyd"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who invents adages for others to peruse takes along rowboat when going on cruise."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who loses, wins the race, And parallel lines meet in space. ",
+         "extras":"",
+         "author":"John Boyd, \"Last Starship from Earth\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"...his disciples lead him in; he just does the rest. ",
+         "extras":"",
+         "author":"The Who, \"Tommy\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How can you have any pudding if you don't eat your meat? ",
+         "extras":"",
+         "author":"Pink Floyd"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I can't complain, but sometimes I still do. ",
+         "extras":"",
+         "author":"Joe Walsh"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I don't know what Descartes' got, But booze can do what Kant cannot. ",
+         "extras":"",
+         "author":"Mike Cross"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I don't wanna argue, and I don't wanna fight, But there will definitely be a party tonight..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have that old biological urge, I have that old irresistible surge, I'm hungry."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I must Create a System, or be enslav'd by another Man's; I will not Reason and Compare; my business is to Create. ",
+         "extras":"",
+         "author":"William Blake, \"Jerusalem\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I owe, I owe, It's off to work I go..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'll meet you... on the dark side of the moon... ",
+         "extras":"",
+         "author":"Pink Floyd"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm free -- and freedom tastes of reality. ",
+         "extras":"",
+         "author":"The Who"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"i'm living so far beyond my income that we may almost be said to be living apart. ",
+         "extras":"",
+         "author":"e. e. cummings"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a nation expects to be ignorant and free, ... it expects what never was and never will be. ",
+         "extras":"",
+         "author":"Thomas Jefferson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I promised you the moon and the stars, would you believe it? ",
+         "extras":"",
+         "author":"Alan Parsons Project"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In the land of the dark the Ship of the Sun is driven by the Grateful Dead. ",
+         "extras":"",
+         "author":"Egyptian Book of the Dead"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Xanadu did Kubla Khan a stately pleasure dome decree But only if the NFL to a franchise would agree."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is not good for a man to be without knowledge, and he who makes haste with his feet misses his way. ",
+         "extras":"",
+         "author":"Proverbs 19:2"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's gonna be alright, It's almost midnight, And I've got two more bottles of wine."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not against any religion to want to dispose of a pigeon. ",
+         "extras":"",
+         "author":"Tom Lehrer, \"Poisoning Pigeons in the Park\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is like a tin of sardines. We're, all of us, looking for the key. ",
+         "extras":"",
+         "author":"Beyond the Fringe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is what happens to you while you're busy making other plans. ",
+         "extras":"",
+         "author":"John Lennon, \"Beautiful Boy\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Love in your heart wasn't put there to stay. Love isn't love 'til you give it away. ",
+         "extras":"",
+         "author":"Oscar Hammerstein II"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"New York's got the ways and means; Just won't let you be. ",
+         "extras":"",
+         "author":"The Grateful Dead"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Next, upon a stool, we've a sight to make you drool. Seven virgins and a mule, keep it cool, keep it cool. ",
+         "extras":"",
+         "author":"ELP, \"Karn Evil 9\" (1st Impression, Part 2)"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No rock so hard but that a little wave May beat admission in a thousand years. ",
+         "extras":"",
+         "author":"Tennyson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No sooner had Edger Allen Poe Finished his old Raven, then he started his Old Crow."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Now hatred is by far the longest pleasure; Men love in haste, but they detest at leisure. ",
+         "extras":"",
+         "author":"George Gordon, Lord Byron, \"Don Juan\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Oh, by the way, which one's Pink? ",
+         "extras":"",
+         "author":"Pink Floyd"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Oh, give me a home, Where the buffalo roam, And I'll show you a house with a really messy kitchen."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Oh, yeah, life goes on, long after the thrill of livin' is gone. ",
+         "extras":"",
+         "author":"John Cougar, \"Jack and Diane\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One thing about the past. It's likely to last. ",
+         "extras":"",
+         "author":"Ogden Nash"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Parsley   is gharsley. ",
+         "extras":"",
+         "author":"Ogden Nash"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Power, like a desolating pestilence, Pollutes whate'er it touches... ",
+         "extras":"",
+         "author":"Percy Bysshe Shelley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember that whatever misfortune may be your lot, it could only be worse in Cleveland. ",
+         "extras":"",
+         "author":"National Lampoon, \"Deteriorata\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She asked me, \"What's your sign?\" I blinked and answered \"Neon,\" I thought I'd blow her mind..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She blinded me with science!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Spring is here, spring is here, Life is skittles and life is beer."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sun in the night, everyone is together, Ascending into the heavens, life is forever. ",
+         "extras":"",
+         "author":"Brand X, \"Moroccan Roll/Sun in the Night\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sweet sixteen is beautiful Bess, And her voice is changing -- from \"No\" to \"Yes\"."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Take heart amid the deepening gloom that your dog is finally getting enough cheese. ",
+         "extras":"",
+         "author":"National Lampoon, \"Deteriorata\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That feeling just came over me. ",
+         "extras":"",
+         "author":"Albert DeSalvo, the \"Boston Strangler\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The all-softening overpowering knell, The tocsin of the soul, -- the dinner bell. ",
+         "extras":"",
+         "author":"Lord Byron"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Bird of Time has but a little way to fly ... and the bird is on the wing. ",
+         "extras":"",
+         "author":"Omar Khayyam"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between us is not very far, cruising for burgers in daddy's new car."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The grave's a fine and private place, but none, I think, do there embrace. ",
+         "extras":"",
+         "author":"Andrew Marvell"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The hope that springs eternal Springs right up your behind. ",
+         "extras":"",
+         "author":"Ian Drury, \"This Is What We Find\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The thrill is here, but it won't last long You'd better have your fun before it moves along..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The trouble with a kitten is that When it grows up, it's always a cat ",
+         "extras":"",
+         "author":"Ogden Nash."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth you speak has no past and no future. It is, and that's all it needs to be."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The young lady had an unusual list, Linked in part to a structural weakness. She set no preconditions."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To err is human, To purr feline. ",
+         "extras":"",
+         "author":"Robert Byrne"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To err is human, to purr feline. To err is human, two curs canine. To err is human, to moo bovine."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To whom the mornings are like nights, What must the midnights be! ",
+         "extras":"",
+         "author":"Emily Dickinson (on hacking?)"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wad some power the giftie gie us To see oursels as others see us. ",
+         "extras":"",
+         "author":"R. Browning"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We don't need no education, we don't need no thought control. ",
+         "extras":"",
+         "author":"Pink Floyd"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We gotta get out of this place, If it's the last thing we ever do. ",
+         "extras":"",
+         "author":"The Animals"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What awful irony is this? We are as gods, but know it not."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What we Are is God's gift to us. What we Become is our gift to God."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What's love but a second-hand emotion? ",
+         "extras":"",
+         "author":"Tina Turner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When a lion meets another with a louder roar, the first lion thinks the last a bore. ",
+         "extras":"",
+         "author":"G.B. Shaw"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When in panic, fear and doubt, Drink in barrels, eat, and shout."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When in trouble or in doubt, run in circles, scream and shout."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where's the man could ease a heart Like a satin gown? ",
+         "extras":"",
+         "author":"Dorothy Parker, \"The Satin Dress\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whether you can hear it or not, The Universe is laughing behind your back. ",
+         "extras":"",
+         "author":"National Lampoon, \"Deteriorata\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Who does not love wine, women, and song, Remains a fool his whole life long. ",
+         "extras":"",
+         "author":"Johann Heinrich Voss"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Who to himself is law no law doth need, offends no law, and is a king indeed. ",
+         "extras":"",
+         "author":"George Chapman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"With/Without - and who'll deny it's what the fighting's all about? ",
+         "extras":"",
+         "author":"Pink Floyd"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Yea from the table of my memory I'll wipe away all trivial fond records. ",
+         "extras":"",
+         "author":"Hamlet"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You may be right, I may be crazy, But it just may be a lunatic you're looking for! ",
+         "extras":"",
+         "author":"Billy Joel"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your wise men don't know how it feels To be thick as a brick. ",
+         "extras":"",
+         "author":"Jethro Tull, \"Thick As A Brick\""
+      }
+   ]
+}

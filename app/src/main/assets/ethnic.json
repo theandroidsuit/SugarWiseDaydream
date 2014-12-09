@@ -1,0 +1,675 @@
+{
+   "type": "Ethnic",
+   "total": "",
+   "wisdom":[	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Aberdeen was so small that when the family with the car went on vacation, the gas station and drive-in theatre had to close. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"All snakes who wish to remain in Ireland will please raise their right hands.\" ",
+         "extras":"",
+         "author":"Saint Patrick "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Also, the Scots are said to have invented golf.  Then they had to invent Scotch whiskey to take away the pain and frustration. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  America, how can I write a holy litany in your silly mood? ",
+         "extras":"",
+         "author":"Allen Ginsberg "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  American by birth; Texan by the grace of God. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Americans are people who insist on living in the present, tense. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Americans' greatest fear is that America will turn out to have been a phenomenon, not a civilization. ",
+         "extras":"",
+         "author":"Shirley Hazzard, \"Transit of Venus\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  An American is a man with two arms and four wheels. ",
+         "extras":"",
+         "author":"A Chinese child "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  An Englishman never enjoys himself, except for a noble purpose. ",
+         "extras":"",
+         "author":"A.P. Herbert "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Anything anybody can say about America is true. ",
+         "extras":"",
+         "author":"Emmett Grogan "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Armenians and Azerbaijanis in Stepanakert, capital of the Nagorno-Karabakh autonomous region, rioted over much needed spelling reform in the Soviet Union. ",
+         "extras":"",
+         "author":"P.J. O'Rourke "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Baseball is a skilled game.  It's America's game - it, and high taxes. ",
+         "extras":"",
+         "author":"The Best of Will Rogers "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Bond reflected that good Americans were fine people and that most of them seemed to come from Texas. ",
+         "extras":"",
+         "author":"Ian Fleming, \"Casino Royale\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Detroit is Cleveland without the glitter. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Do Miami a favor.  When you leave, take someone with you. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Do you know Montana? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Do you know the difference between a yankee and a damyankee?  A yankee comes south to *visit*. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  For some reason a glaze passes over people's faces when you say \"Canada\".  Maybe we should invade South Dakota or something. ",
+         "extras":"",
+         "author":"Sandra Gotlieb, wife of the Canadian ambassador to the U.S. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"Gee, Toto, I don't think we are in Kansas anymore.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Good night, Austin, Texas, wherever you are! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Hating the Yankees is as American as pizza pie, unwed mothers and cheating on your income tax. ",
+         "extras":"",
+         "author":"Mike Royko "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Have you seen the latest Japanese camera?  Apparently it is so fast it can photograph an American with his mouth shut! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Hear about the Californian terrorist that tried to blow up a bus? Burned his lips on the exhaust pipe. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Hear about the young Chinese woman who just won the lottery? One fortunate cookie... "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"His great aim was to escape from civilization, and, as soon as he had money, he went to Southern California.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Houdini escaping from New Jersey!  Film at eleven. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  How many priests are needed for a Boston Mass? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I am just a nice, clean-cut Mongolian boy. ",
+         "extras":"",
+         "author":"Yul Brynner, 1956 "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I didn't know he was dead; I thought he was British. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I have defined the hundred per cent American as ninety-nine per cent an idiot. ",
+         "extras":"",
+         "author":"George Bernard Shaw "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"I'm in Pittsburgh.  Why am I here?\" ",
+         "extras":"",
+         "author":"Harold Urey, Nobel Laureate "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If all the Chinese simultaneously jumped into the Pacific off a 10 foot platform erected 10 feet off their coast, it would cause a tidal wave that would destroy everything in this country west of Nebraska. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Illinois isn't exactly the land that God forgot -- it's more like the land He's trying to ignore. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  In 1880 the French captured Detroit but gave it back ... they couldn't get parts. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  In America, it's not how much an item costs, it's how much you save. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  In any world menu, Canada must be considered the vichyssoise of nations -- it's cold, half-French, and difficult to stir. ",
+         "extras":"",
+         "author":"Stuart Keate "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  In California they don't throw their garbage away -- they make it into television shows. ",
+         "extras":"",
+         "author":"Woody Allen, \"Annie Hall\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  In Minnesota they ask why all football fields in Iowa have artificial turf. It's so the cheerleaders won't graze during the game. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Iowans ask why Minnesotans don't drink more Kool-Aid.  That's because they can't figure out how to get two quarts of water into one of those little paper envelopes. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Isn't it nice that people who prefer Los Angeles to San Francisco live there? ",
+         "extras":"",
+         "author":"Herb Caen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  It's hard to argue that God hated Oklahoma.  If He didn't, why is it so close to Texas? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  It's not Camelot, but it's not Cleveland, either. ",
+         "extras":"",
+         "author":"Kevin White, Mayor of Boston "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  It's not enough to be Hungarian; you must have talent too. ",
+         "extras":"",
+         "author":"Alexander Korda "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  It's really quite a simple choice: Life, Death, or Los Angeles. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Learning French is trivial: the word for horse is cheval, and everything else follows in the same way. ",
+         "extras":"",
+         "author":"Alan J. Perlis "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Like so many Americans, she was trying to construct a life that made sense from things she found in gift shops. ",
+         "extras":"",
+         "author":"Kurt Vonnegut, Jr. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Likewise, the national appetizer, brine-cured herring with raw onions, wins few friends, Germans excepted. ",
+         "extras":"",
+         "author":"Darwin Porter \"Scandinavia On $50 A Day\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Living in LA is like not having a date on Saturday night. ",
+         "extras":"",
+         "author":"Candice Bergen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Living in New York City gives people real incentives to want things that nobody else wants. ",
+         "extras":"",
+         "author":"Andy Warhol "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Most Texans think Hanukkah is some sort of duck call. ",
+         "extras":"",
+         "author":"Richard Lewis "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  My godda bless, never I see sucha people. ",
+         "extras":"",
+         "author":"Signor Piozzi, quoted by Cecilia Thrale "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  New York is real.  The rest is done with mirrors. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  New York now leads the world's great cities in the number of people around whom you shouldn't make a sudden move. ",
+         "extras":"",
+         "author":"David Letterman "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  No matter what other nations may say about the United States, immigration is still the sincerest form of flattery. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  On the whole, I'd rather be in Philadelphia. ",
+         "extras":"",
+         "author":"W.C. Fields' epitaph "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Perhaps, after all, America never has been discovered. I myself would say that it had merely been detected. ",
+         "extras":"",
+         "author":"Oscar Wilde "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Philadelphia is not dull -- it just seems so because it is next to exciting Camden, New Jersey. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Providence, New Jersey, is one of the few cities where Velveeta cheese appears on the gourmet shelf. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Roumanian-Yiddish cooking has killed more Jews than Hitler. ",
+         "extras":"",
+         "author":"Zero Mostel "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  San Francisco isn't what it used to be, and it never was. ",
+         "extras":"",
+         "author":"Herb Caen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Seattle is so wet that people protect their property with watch-ducks. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The Almighty in His infinite wisdom did not see fit to create Frenchmen in the image of Englishmen. ",
+         "extras":"",
+         "author":"Winston Churchill, 1942 "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The American nation in the sixth ward is a fine people; they love the eagle -- on the back of a dollar. ",
+         "extras":"",
+         "author":"Finlay Peter Dunne "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The Anglo-Saxon conscience does not prevent the Anglo-Saxon from sinning, it merely prevents him from enjoying his sin. ",
+         "extras":"",
+         "author":"Salvador De Madariaga "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The best thing that comes out of Iowa is I-80. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The big cities of America are becoming Third World countries. ",
+         "extras":"",
+         "author":"Nora Ephron "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The British are coming!  The British are coming! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The climate of Bombay is such that its inhabitants have to live elsewhere. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The curse of the Irish is not that they don't know the words to a song -- it's that they know them *all*. ",
+         "extras":"",
+         "author":"Susan Dooley "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The Czechs announced after Sputnik that they, too, would launch a satellite. Of course, it would orbit Sputnik, not Earth! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The difference between America and England is that the English think 100 miles is a long distance and the Americans think 100 years is a long time. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The egg cream is psychologically the opposite of circumcision -- it *pleasurably* reaffirms your Jewishness. ",
+         "extras":"",
+         "author":"Mel Brooks "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The English country gentleman galloping after a fox -- the unspeakable in full pursuit of the uneatable. ",
+         "extras":"",
+         "author":"Oscar Wilde, \"A Woman of No Importance\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The English have no respect for their language, and will not teach their children to speak it. ",
+         "extras":"",
+         "author":"G. B. Shaw "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The English instinctively admire any man who has no talent and is modest about it. ",
+         "extras":"",
+         "author":"James Agate, British film and drama critic "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  [The French Riviera is] a sunny place for shady people. ",
+         "extras":"",
+         "author":"Somerset Maugham "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The goys have proven the following theorem... ",
+         "extras":"",
+         "author":"Physicist John von Neumann, at the start of a classroom lecture. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The mosquito is the state bird of New Jersey. ",
+         "extras":"",
+         "author":"Andy Warhol "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The only cultural advantage LA has over NY is that you can make a right turn on a red light. ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The San Diego Freeway. Official Parking Lot of the 1984 Olympics! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The trouble is, there is an endless supply of White Men, but there has always been a limited number of Human Beings. ",
+         "extras":"",
+         "author":"Little Big Man "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Then there was the Formosan bartender named Taiwan-On. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  There *is* intelligent life on Earth, but I leave for Texas on Monday. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  There is nothing wrong with Southern California that a rise in the ocean level wouldn't cure. ",
+         "extras":"",
+         "author":"Ross MacDonald "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  There must be at least 500,000,000 rats in the United States; of course, I never heard the story before. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  There's just something I don't like about Virginia; the state. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  There's something different about us -- different from people of Europe, Africa, Asia ... a deep and abiding belief in the Easter Bunny. ",
+         "extras":"",
+         "author":"G. Gordon Liddy "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Tip the world over on its side and everything loose will land in Los Angeles. ",
+         "extras":"",
+         "author":"Frank Lloyd Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  To a Californian, the basic difference between the people and the pigeons in New York is that the pigeons don't shit on each other. ",
+         "extras":"",
+         "author":"From \"East vs. West: The War Between the Coasts "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  To know Edina is to reject it. ",
+         "extras":"",
+         "author":"Dudley Riggs, \"The Year the Grinch Stole the Election\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Toto, I don't think we're in Kansas anymore. ",
+         "extras":"",
+         "author":"Judy Garland, \"Wizard of Oz\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Tourists -- have some fun with New York's hard-boiled cabbies. When you get to your destination, say to your driver, \"Pay?  I was hitch-hiking.\" ",
+         "extras":"",
+         "author":"David Letterman "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Traffic signals in New York are just rough guidelines. ",
+         "extras":"",
+         "author":"David Letterman "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Visit beautiful Vergas, Minnesota. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Visit beautiful Wisconsin Dells. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  We don't care how they do it in New York. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Welcome to Lake Wobegon, where all the men are strong, the women are pretty, and the children are above-average. ",
+         "extras":"",
+         "author":"Garrison Keillor "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  What kind of sordid business are you on now?  I mean, man, whither goest thou?  Whither goest thou, America, in thy shiny car in the night? ",
+         "extras":"",
+         "author":"Jack Kerouac "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Whatever doesn't succeed in two months and a half in California will never succeed. ",
+         "extras":"",
+         "author":"Rev. Henry Durant, founder of the University of California "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  When a man is tired of London, he is tired of life. ",
+         "extras":"",
+         "author":"Samuel Johnson "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  When does summertime come to Minnesota, you ask?  Well, last year, I think it was a Tuesday. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  When I first arrived in this country I had only fifteen cents in my pocket and a willingness to compromise. ",
+         "extras":"",
+         "author":"Weber cartoon caption "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  When I saw a sign on the freeway that said, \"Los Angeles 445 miles,\" I said to myself, \"I've got to get out of this lane.\" ",
+         "extras":"",
+         "author":"Franklyn Ajaye "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  When you become used to never being alone, you may consider yourself Americanized. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Would the last person to leave Michigan please turn out the lights? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Yawd [noun, Bostonese]:  the campus of Have Id. ",
+         "extras":"",
+         "author":"Webster's Unafraid Dictionary "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Yes, I've now got this nice little apartment in New York, one of those L-shaped ones. Unfortunately, it's a lower case l. ",
+         "extras":"",
+         "author":"Rita Rudner "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  You always have the option of pitching baseballs at empty spray paint cans in a cul-de-sac in a Cleveland suburb. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  You don't move to Edina, you achieve Edina. ",
+         "extras":"",
+         "author":"Guindon "
+      }
+  ]
+}

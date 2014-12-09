@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="5dp">	
+
+	<LinearLayout 
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical"
+    	android:layout_margin="4dp">	
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="3dp">
+    	    
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/themeTxt"
+                android:textStyle="bold"
+                android:layout_alignParentLeft="true" />
+            
+    	    <Spinner
+	            android:id="@+id/themeSpinner"
+    	        android:layout_width="wrap_content"
+    	        android:layout_height="wrap_content"
+    	        android:drawSelectorOnTop="true"
+    	        android:textStyle="italic"
+    	        android:layout_alignParentRight="true" 
+    	        android:prompt="@string/pickTheme"/>
+        </RelativeLayout>
+        
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="3dp">
+    	    
+            <TextView
+	        	android:layout_width="wrap_content"
+	        	android:layout_height="wrap_content"
+	        	android:text="@string/colorTxt"
+	        	android:textStyle="bold"
+	        	android:layout_alignParentLeft="true"/>
+            
+            <Spinner
+                android:id="@+id/colorSpinner"
+    	        android:layout_width="wrap_content"
+    	        android:layout_height="wrap_content"
+    	        android:drawSelectorOnTop="true"
+    	        android:textStyle="italic"
+    	        android:layout_alignParentRight="true"
+    	        android:prompt="@string/pickColor" />
+           
+        </RelativeLayout>
+        
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="3dp">
+    	    
+            <TextView
+	        	android:layout_width="wrap_content"
+	        	android:layout_height="wrap_content"
+	        	android:drawSelectorOnTop="true"
+	        	android:text="@string/sizeTxt"
+	        	android:textStyle="bold"
+	        	android:layout_alignParentLeft="true"/>
+            
+            <Spinner
+                android:id="@+id/sizeSpinner"
+    	        android:layout_width="wrap_content"
+    	        android:layout_height="wrap_content"
+    	        android:textStyle="italic"
+    	        android:layout_alignParentRight="true" 
+    	        android:prompt="@string/pickSize"/>
+           
+        </RelativeLayout>
+        	    
+	</LinearLayout>
+
+    <Button
+        android:id="@+id/buttonConfigure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/configButton" />
+
+</LinearLayout>

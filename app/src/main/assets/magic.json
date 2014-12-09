@@ -1,0 +1,104 @@
+{
+   "type": "Magic",
+   "total": "",
+   "wisdom":[	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A Thaum is the basic unit of magical strength.It has been universally established as the amount of magic needed to create one small white pigeon or three normal sized billiard balls.",
+         "extras":"",
+         "author":"Terry Pratchett, \"The Light Fantastic\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An ancient proverb summed it up: when a wizard is tired of looking for broken glass in his dinner, it ran, he is tired of life.",
+         "extras":"",
+         "author":"Terry Pratchett, \"The Light Fantastic\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Chaos is King and Magic is loose in the world.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Do not meddle in the affairs of wizards, for you are crunchy and good with ketchup.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do what thou wilt shall be the whole of the Law.",
+         "extras":"",
+         "author":"Aleister Crowley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Knowledge is power -- knowledge shared is power lost.",
+         "extras":"",
+         "author":"Aleister Crowley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Magic is always the best solution -- especially reliable magic.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No matter how subtle the wizard, a knife in the shoulder blades will seriously cramp his style.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Somewhere, just out of sight, the unicorns are gathering.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The default Magic Word, \"Abracadabra\", actually is a corruption of the Hebrew phrase \"ha-Bracha dab'ra\" which means \"pronounce the blessing\".",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The first rule of magic is simple.  Don't waste your time waving your hands and hoping when a rock or a club will do.\"",
+         "extras":"",
+         "author":"McCloctnik the Lucid"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Using words to describe magic is like using a screwdriver to cut roast beef.",
+         "extras":"",
+         "author":"Tom Robbins"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is a magician but a practising theorist?",
+         "extras":"",
+         "author":"Obi-Wan Kenobi"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What use is magic if it can't save a unicorn?",
+         "extras":"",
+         "author":"Peter S. Beagle, \"The Last Unicorn\""
+      }
+   ]
+}

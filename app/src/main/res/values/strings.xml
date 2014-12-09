@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sugar Wise Daydream</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="daydream_name">SugarWise Daydream</string>
+    
+    <string name="configButton">Configure</string>	
+    
+    <string name="colorTxt">Color</string>
+    <string name="themeTxt">Theme</string>
+    <string name="sizeTxt">Size</string>
+    
+    <string name="pickTheme">Pick a theme</string>
+    <string name="pickColor">Pick a color</string>
+    <string name="pickSize">Pick a size</string>
+    
+    <string name="toast_not_configure">Configuration not valid</string>
+    
+    <string-array name="sizes">
+        <item>Pick a size</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    
+    <string-array name="colors">
+        <item>Pick a color</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Grey</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>White</item>
+        <item>Yellow</item>
+    </string-array>
+    
+    <string-array name="themes">
+        <item>Pick a theme</item>
+        <item>Art</item>
+        <item>Computers</item>
+        <item>Cookie</item>
+        <item>Debian</item>
+        <item>Definitions</item>
+        <item>Disclaimer</item>
+        <item>Drugs</item>
+        <item>Education</item>
+        <item>Ethnic</item>
+        <item>Food</item>
+        <item>Fortunes</item>
+        <item>Goedel</item>
+        <item>Humorists</item>
+        <item>Kids</item>
+        <item>Law</item>
+        <item>Linux</item>
+        <item>Linux Cookie</item>
+        <item>Literature</item>
+        <item>Love</item>
+        <item>Magic</item>
+        <item>Medicine</item>
+        <item>Men and Women</item>
+        <item>Miscellaneous</item>
+        <item>Paradoxum</item>
+        <item>People</item>
+        <item>Platitudes</item>
+        <item>Politics</item>
+        <item>Riddles</item>
+        <item>Science</item>
+        <item>Songs and Poems</item>
+        <item>Sports</item>
+        <item>StarTrek</item>
+        <item>Translate me</item>
+        <item>Wisdom</item>
+        <item>Work</item>
+        <item>Zippy</item>
+    </string-array>
+    
+
+</resources>

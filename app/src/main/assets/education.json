@@ -1,0 +1,966 @@
+{
+   "type": "Education",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A definition of teaching: casting fake pearls before real swine. ",
+         "extras":"",
+         "author":"Bill Cain, \"Stand Up Tragedy\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A fool's brain digests philosophy into folly, science into superstition, and art into pedantry.  Hence University education. ",
+         "extras":"",
+         "author":"G. B. Shaw "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A grammarian's life is always in tense. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A great many people think they are thinking when they are merely rearranging their prejudices. ",
+         "extras":"",
+         "author":"William James "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A pencil with no point needs no eraser. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A professor is one who talks in someone else's sleep. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A student who changes the course of history is probably taking an exam. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A synonym is a word you use when you can't spell the word you first thought of. ",
+         "extras":"",
+         "author":"Burt Bacharach "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A tautology is a thing which is tautological. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  A university is what a college becomes when the faculty loses interest in students. ",
+         "extras":"",
+         "author":"John Ciardi "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"A University without students is like an ointment without a fly.\" ",
+         "extras":"",
+         "author":"Ed Nather, professor of astronomy at UT Austin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  About all some men accomplish in life is to send a son to Harvard. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Academic politics is the most vicious and bitter form of politics, because the stakes are so low. ",
+         "extras":"",
+         "author":"Wallace Sayre "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Academicians care, that's who. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  An investment in knowledge always pays the best interest. ",
+         "extras":"",
+         "author":"Benjamin Franklin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Any two philosophers can tell each other all they know in two hours. ",
+         "extras":"",
+         "author":"Oliver Wendell Holmes, Jr. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  As Gen. de Gaulle occassionally acknowledges America to be the daughter of Europe, so I am pleased to come to Yale, the daughter of Harvard. ",
+         "extras":"",
+         "author":"J.F. Kennedy "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  As long as the answer is right, who cares if the question is wrong? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  British education is probably the best in the world, if you can survive it.  If you can't there is nothing left for you but the diplomatic corps. ",
+         "extras":"",
+         "author":"Peter Ustinov "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Campus sidewalks never exist as the straightest line between two points. ",
+         "extras":"",
+         "author":"M. M. Johnston "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Comparing information and knowledge is like asking whether the fatness of a pig is more or less green than the designated hitter rule.\" ",
+         "extras":"",
+         "author":"David Guaspari "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Department chairmen never die, they just lose their faculties. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Did you know the University of Iowa closed down after someone stole the book? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Do not clog intellect's sluices with bits of knowledge of questionable uses. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Do you think that illiterate people get the full effect of alphabet soup? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Education and religion are two things not regulated by supply and demand.  The less of either the people have, the less they want. ",
+         "extras":"",
+         "author":"Charlotte Observer, 1897 "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught. ",
+         "extras":"",
+         "author":"Oscar Wilde, \"The Critic as Artist\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Education is learning what you didn't even know you didn't know. ",
+         "extras":"",
+         "author":"Daniel J. Boorstin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Education is the process of casting false pearls before real swine. ",
+         "extras":"",
+         "author":"Irwin Edman "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Education is what survives when what has been learnt has been forgotten. ",
+         "extras":"",
+         "author":"B.F. Skinner "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Eloquence is logic on fire. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Encyclopedia for sale by father.  Son knows everything. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Even if you do learn to speak correct English, whom are you going to speak it to? ",
+         "extras":"",
+         "author":"Clarence Darrow "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Examinations are formidable even to the best prepared, for even the greatest fool may ask more the the wisest man can answer. ",
+         "extras":"",
+         "author":"C.C. Colton "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Experience is the worst teacher.  It always gives the test first and the instruction afterward. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  F u cn rd ths u cnt spl wrth a dm! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  f u cn rd ths, itn tyg h myxbl cd. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  f u cn rd ths, u r prbbly a lsy spllr. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Going to church does not make a person religious, nor does going to school make a person educated, any more than going to a garage makes a person a car. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Good day to avoid cops.  Crawl to school. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Good teaching is one-fourth preparation and three-fourths good theatre. ",
+         "extras":"",
+         "author":"Gail Godwin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Graduate life: It's not just a job.  It's an indenture. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Graduate students and most professors are no smarter than undergrads. They're just older. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  He that teaches himself has a fool for a master. ",
+         "extras":"",
+         "author":"Benjamin Franklin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"He was a modest, good-humored boy.  It was Oxford that made him insufferable.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  [He] took me into his library and showed me his books, of which he had a complete set. ",
+         "extras":"",
+         "author":"Ring Lardner "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Higher education helps your earning capacity.  Ask any college professor. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  History books which contain no lies are extremely dull. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  History is nothing but a collection of fables and useless trifles, cluttered up with a mass of unnecessary figures and proper names. ",
+         "extras":"",
+         "author":"Leo Tolstoy "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  How do you explain school to a higher intelligence? ",
+         "extras":"",
+         "author":"Elliot, \"E.T.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I am a bookaholic.  If you are a decent person, you will not sell me another book. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"I am not sure what this is, but an `F' would only dignify it.\" ",
+         "extras":"",
+         "author":"English Professor "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I am returning this otherwise good typing paper to you because someone has printed gibberish all over it and put your name at the top. ",
+         "extras":"",
+         "author":"Professor Lowd, English, Ohio University "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I came out of twelve years of college and I didn't even know how to sew. All I could do was account -- I couldn't even account for myself. ",
+         "extras":"",
+         "author":"Firesign Theatre "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I came to MIT to get an education for myself and a diploma for my mother. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I have made this letter longer than usual because I lack the time to make it shorter. ",
+         "extras":"",
+         "author":"Blaise Pascal "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"I have to convince you, or at least snow you ...\" ",
+         "extras":"",
+         "author":"Prof. Romas Aleliunas, CS 435 "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I heard a definition of an intellectual, that I thought was very interesting: a man who takes more words than are necessary to tell more than he knows. ",
+         "extras":"",
+         "author":"Dwight D. Eisenhower "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I respect faith, but doubt is what gives you an education. ",
+         "extras":"",
+         "author":"Wilson Mizner "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  I think your opinions are reasonable, except for the one about my mental instability. ",
+         "extras":"",
+         "author":"Psychology Professor, Farifield University "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"I'm returning this note to you, instead of your paper, because it (your paper) presently occupies the bottom of my bird cage.\" ",
+         "extras":"",
+         "author":"English Professor, Providence College "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If any man wishes to be humbled and mortified, let him become president of Harvard. ",
+         "extras":"",
+         "author":"Edward Holyoke "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If he had only learnt a little less, how infinitely better he might have taught much more! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If ignorance is bliss, why aren't there more happy people? "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If little else, the brain is an educational toy. ",
+         "extras":"",
+         "author":"Tom Robbins "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If someone had told me I would be Pope one day, I would have studied harder. ",
+         "extras":"",
+         "author":"Pope John Paul I "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If truth is beauty, how come no one has their hair done in the library? ",
+         "extras":"",
+         "author":"Lily Tomlin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If we spoke a different language, we would perceive a somewhat different world. ",
+         "extras":"",
+         "author":"Wittgenstein "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If you are too busy to read, then you are too busy. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If you can't read this, blame a teacher. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If you resist reading what you disagree with, how will you ever acquire deeper insights into what you believe? The things most worth reading are precisely those that challenge our convictions. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If you think education is expensive, try ignorance. ",
+         "extras":"",
+         "author":"Derek Bok, president of Harvard "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  If you took all the students that felt asleep in class and laid them end to end, they'd be a lot more comfortable. ",
+         "extras":"",
+         "author":"\"Graffiti in the Big Ten\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"If you understand what you're doing, you're not learning anything.\" ",
+         "extras":"",
+         "author":"A. L. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Ignorance is never out of style.  It was in fashion yesterday, it is the rage today, and it will set the pace tomorrow. ",
+         "extras":"",
+         "author":"Franklin K. Dane "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Ignorance is when you don't know anything and somebody finds it out. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Ignorance must certainly be bliss or there wouldn't be so many people so resolutely pursuing it.  "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Illiterate?  Write today, for free help! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Iowa State -- the high school after high school! ",
+         "extras":"",
+         "author":"Crow T. Robot "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Joe Cool always spends the first two weeks at college sailing his frisbee. ",
+         "extras":"",
+         "author":"Snoopy "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Learned men are the cisterns of knowledge, not the fountainheads. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Learning at some schools is like drinking from a firehose. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Learning without thought is labor lost; thought without learning is perilous. ",
+         "extras":"",
+         "author":"Confucius "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Maybe ain't ain't so correct, but I notice that lots of folks who ain't using ain't ain't eatin' well. ",
+         "extras":"",
+         "author":"Will Rogers "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Most seminars have a happy ending.  Everyone's glad when they're over. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  My father, a good man, told me, \"Never lose your ignorance; you cannot replace it.\" ",
+         "extras":"",
+         "author":"Erich Maria Remarque "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Never have so many understood so little about so much. ",
+         "extras":"",
+         "author":"James Burke "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Never let your schooling interfere with your education. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  No discipline is ever requisite to force attendance upon lectures which are really worth the attending. ",
+         "extras":"",
+         "author":"Adam Smith, \"The Wealth of Nations\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  No matter who you are, some scholar can show you the great idea you had was had by someone before you. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  No wonder you're tired!  You understood so much today. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"OK, now let's look at four dimensions on the blackboard.\" ",
+         "extras":"",
+         "author":"Dr. Joy "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  OK, so you're a Ph.D.  Just don't touch anything. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  One cannot make an omelette without breaking eggs -- but it is amazing how many eggs one can break without making a decent omelette. ",
+         "extras":"",
+         "author":"Professor Charles P. Issawi "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"Plaese porrf raed.\" ",
+         "extras":"",
+         "author":"Prof. Michael O'Longhlin, S.U.N.Y. Purchase "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Practice is the best of all instructors. ",
+         "extras":"",
+         "author":"Publilius "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Professor Gorden Newell threw another shutout in last week's Chem Eng. 130 midterm.  Once again a student did not receive a single point on his exam. Newell has now tossed 5 shutouts this quarter. Newell's earned exam average has now dropped to a phenomenal 30"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" . "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Reading is thinking with someone else's head instead of one's own. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Reading is to the mind what exercise is to the body. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Reporter:   \"How did you like school when you were growing up, Yogi?\" Yogi Berra: \"Closed.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Smartness runs in my family.  When I went to school I was so smart my teacher was in my class for five years. ",
+         "extras":"",
+         "author":"George Burns "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Some scholars are like donkeys, they merely carry a lot of books. ",
+         "extras":"",
+         "author":"Folk saying "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"Speed is subsittute fo accurancy.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Spelling is a lossed art. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Suddenly, Professor Liebowitz realizes he has come to the seminar without his duck ... "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Teachers have class. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The 'A' is for content, the 'minus' is for not typing it.  Don't ever do this to my eyes again. ",
+         "extras":"",
+         "author":"Professor Ronald Brady, Philosophy, Ramapo State College "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The alarm clock that is louder than God's own belongs to the roommate with the earliest class. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The average Ph.D thesis is nothing but the transference of bones from one graveyard to another. ",
+         "extras":"",
+         "author":"J. Frank Dobie, \"A Texan in England\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The avocation of assessing the failures of better men can be turned into a comfortable livelihood, providing you back it up with a Ph.D. ",
+         "extras":"",
+         "author":"Nelson Algren, \"Writers at Work\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The brain is a wonderful organ; it starts working the moment you get up in the morning, and does not stop until you get to school. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The college graduate is presented with a sheepskin to cover his intellectual nakedness. ",
+         "extras":"",
+         "author":"Robert M. Hutchins "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The end of the world will occur at three p.m., this Friday, with symposium to follow. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The future is a race between education and catastrophe. ",
+         "extras":"",
+         "author":"H.G. Wells "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The important thing is not to stop questioning. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The man who has never been flogged has never been taught. ",
+         "extras":"",
+         "author":"Menander "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The only thing that experience teaches us is that experience teaches us nothing. ",
+         "extras":"",
+         "author":"Andre Maurois (Emile Herzog) "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The problem with graduate students, in general, is that they have to sleep every few days. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The ratio of literacy to illiteracy is a constant, but nowadays the illiterates can read. ",
+         "extras":"",
+         "author":"Alberto Moravia "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The real purpose of books is to trap the mind into doing its own thinking. ",
+         "extras":"",
+         "author":"Christopher Morley "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"The student in question is performing minimally for his peer group and is an emerging underachiever.\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The sum of the intelligence of the world is constant.  The population is, of course, growing. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The sunlights differ, but there is only one darkness. ",
+         "extras":"",
+         "author":"Ursula K. LeGuin, \"The Dispossessed\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time and still retain the ability to function. ",
+         "extras":"",
+         "author":"F. Scott Fitzgerald "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The three best things about going to school are June, July, and August. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The Tree of Learning bears the noblest fruit, but noble fruit tastes bad. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The world is coming to an end! Repent and return those library books! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  The world is full of people who have never, since childhood, met an open doorway with an open mind. ",
+         "extras":"",
+         "author":"E.B. White "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  There are no answers, only cross-references. ",
+         "extras":"",
+         "author":"Weiner "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  This is the sort of English up with which I will not put. ",
+         "extras":"",
+         "author":"Winston Churchill "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Those who educate children well are more to be honored than parents, for these only gave life, those the art of living well. ",
+         "extras":"",
+         "author":"Aristotle "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Time is a great teacher, but unfortunately it kills all its pupils. ",
+         "extras":"",
+         "author":"Hector Berlioz "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  To craunch a marmoset. ",
+         "extras":"",
+         "author":"Pedro Carolino, \"English as She is Spoke\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  To teach is to learn twice. ",
+         "extras":"",
+         "author":"Joseph Joubert "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  To teach is to learn. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Try not to have a good time ... This is supposed to be educational. ",
+         "extras":"",
+         "author":"Charles Schulz "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Trying to get an education here is like trying to get a drink from a fire hose. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Universities are places of knowledge.  The freshman each bring a little in with them, and the seniors take none away, so knowledge accumulates. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  University politics are vicious precisely because the stakes are so small. ",
+         "extras":"",
+         "author":"Henry Kissinger "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"We demand rigidly defined areas of doubt and uncertainty!\" ",
+         "extras":"",
+         "author":"Vroomfondel "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  What does education often do?  It makes a straight cut ditch of a free meandering brook. ",
+         "extras":"",
+         "author":"Henry David Thoreau "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  What makes you think graduate school is supposed to be satisfying? ",
+         "extras":"",
+         "author":"Erica Jong, \"Fear of Flying\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  What passes for optimism is most often the effect of an intellectual error. ",
+         "extras":"",
+         "author":"Raymond Aron, \"The Opium of the Intellectuals\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  What we do not understand we do not possess. ",
+         "extras":"",
+         "author":"Goethe "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  What's page one, a preemptive strike? ",
+         "extras":"",
+         "author":"Professor Freund, Communication, Ramapo State College "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  When I was in school, I cheated on my metaphysics exam: I looked into the soul of the boy sitting next to me. ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Whenever anyone says, \"theoretically,\" they really mean, \"not really.\" ",
+         "extras":"",
+         "author":"Dave Parnas "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Where do I find the time for not reading so many books? ",
+         "extras":"",
+         "author":"Karl Kraus "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"Whom are you?\" said he, for he had been to night school. ",
+         "extras":"",
+         "author":"George Ade "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  You can't expect a boy to be vicious till he's been to a good school. ",
+         "extras":"",
+         "author":"H.H. Munro "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  You don't have to think too hard when you talk to teachers. ",
+         "extras":"",
+         "author":"J. D. Salinger "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  You may have heard that a dean is to faculty as a hydrant is to a dog. ",
+         "extras":"",
+         "author":"Alfred Kahn "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  \"You should, without hesitation, pound your typewriter into a plowshare, your paper into fertilizer, and enter agriculture\" ",
+         "extras":"",
+         "author":"Business Professor, University of Georgia "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  Your education begins where what is called your education is over. "
+      }
+  ]
+}

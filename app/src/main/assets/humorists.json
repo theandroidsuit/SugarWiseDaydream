@@ -1,0 +1,954 @@
+{
+   "type": "Humorists",
+   "total": "",
+   "wisdom":[	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A black cat crossing your path signifies that the animal is going somewhere.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A friend of mine is into Voodoo Acupuncture.  You don't have to go. You'll just be walking down the street and...  Ooohh, that's much better.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A lot of people are afraid of heights. Not me.  I'm afraid of widths.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A possum must be himself, and being himself he is honest.  ",
+         "extras":"",
+         "author":"Walt Kelly "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"A power so great, it can only be used for Good or Evil!\"  ",
+         "extras":"",
+         "author":"Firesign Theatre, \"The Giant Rat of Summatra\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All men are mortal.  Socrates was mortal.  Therefore, all men are Socrates.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And now for something completely different. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And now for something completely the same. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" \"Are you sure you're not an encyclopedia salesman?\"  No, Ma'am.  Just a burglar, come to ransack the flat.\"  ",
+         "extras":"",
+         "author":"Monty Python "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As the poet said, \"Only God can make a tree\" -- probably because it's so hard to figure out how to get the bark on.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Being Ymor's right-hand man was like being gently flogged to death with scented bootlaces.  ",
+         "extras":"",
+         "author":"Terry Pratchett, \"The Colour of Magic\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bernard Shaw is an excellent man; he has not an enemy in the world, and none of his friends like him either.  ",
+         "extras":"",
+         "author":"Oscar Wilde "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Boy, life takes a long time to live.\"  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"But I don't like Spam!!!!\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Comedy, like Medicine, was never meant to be practiced by the general public. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Death didn't answer.  He was looking at Spold in the same way as a dog looks at a bone, only in this case things were more or less the other way around.  ",
+         "extras":"",
+         "author":"Terry Pratchett, \"The Colour of Magic\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Decorate your home.  It gives the illusion that your life is more interesting than it really is.  ",
+         "extras":"",
+         "author":"C. Schulz "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do you think that when they asked George Washington for ID that he just whipped out a quarter?  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't take life so serious, son, it ain't nohow permanent.  ",
+         "extras":"",
+         "author":"Walt Kelly "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't worry about the world coming to an end today.  It's already tomorrow in Australia.  ",
+         "extras":"",
+         "author":"Charles Schulz "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Early to rise, early to bed, makes a man healthy, wealthy and dead.  ",
+         "extras":"",
+         "author":"Terry Pratchett, \"The Light Fantastic\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Eternal nothingness is fine if you happen to be dressed for it.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Eternity is a terrible thought.  I mean, where's it going to end?  ",
+         "extras":"",
+         "author":"Tom Stoppard "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Faster, faster, you fool, you fool!  ",
+         "extras":"",
+         "author":"Bill Cosby "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For my birthday I got a humidifier and a de-humidifier...  I put them in the same room and let them fight it out.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"From the moment I picked your book up until I put it down I was convulsed with laughter. Some day I intend reading it.  ",
+         "extras":"",
+         "author":"Groucho Marx, from \"The Book of Insults\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God is a comic playing to an audience that's afraid to laugh. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He asked me if I knew what time it was -- I said yes, but not right now.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Here's something to think about:  How come you never see a headline like `Psychic Wins Lottery'?\"  ",
+         "extras":"",
+         "author":"Jay Leno "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hey, what do you expect from a culture that *drives* on *parkways* and *parks* on *driveways*?  ",
+         "extras":"",
+         "author":"Gallagher "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Humor is a drug which it's the fashion to abuse.\"  ",
+         "extras":"",
+         "author":"William Gilbert "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Humorists always sit at the children's table.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am a conscientious man, when I throw rocks at seabirds I leave no tern unstoned.  ",
+         "extras":"",
+         "author":"Ogden Nash, \"Everybody's Mind to Me a Kingdom Is\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am two with nature.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" \"I assure you the thought never even crossed my mind, lord.\"  \"Indeed?  Then if I were you I'd sue my face for slander.\"  ",
+         "extras":"",
+         "author":"Terry Pratchett, \"The Colour of Magic\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I base my fashion taste on what doesn't itch.  ",
+         "extras":"",
+         "author":"Gilda Radner "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I bought some used paint. It was in the shape of a house.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I changed my headlights the other day. I put in strobe lights instead! Now when I drive at night, it looks like everyone else is standing still ...\"  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I could dance with you till the cows come home.  On second thought, I'd rather dance with the cows till you come home.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I don't deserve this award, but I have arthritis and I don't deserve that either.  ",
+         "extras":"",
+         "author":"Jack Benny "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I don't get no respect. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I don't kill flies, but I like to mess with their minds.  I hold them above globes.  They freak out and yell \"Whooa, I'm *way* too high.\"  ",
+         "extras":"",
+         "author":"Bruce Baum "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I don't want to live on in my work, I want to live on in my apartment.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I finally went to the eye doctor.  I got contacts.  I only need them to read, so I got flip-ups.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I got this powdered water -- now I don't know what to add.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I had no shoes and I pitied myself.  Then I met a man who had no feet, so I took his shoes.  ",
+         "extras":"",
+         "author":"Dave Barry "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I hate it when my foot falls asleep during the day cause that means it's going to be up all night.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have a hobby.  I have the world's largest collection of sea shells.  I keep it scattered on beaches all over the world.  Maybe you've seen some of it.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have a map of the United States.  It's actual size.  I spent last summer folding it.  People ask me where I live, and I say, \"E6\".  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have a rock garden.  Last week three of them died.  ",
+         "extras":"",
+         "author":"Richard Diran "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have an existential map.  It has \"You are here\" written all over it.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I just got out of the hospital after a speed reading accident. I hit a bookmark.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I know the answer!  The answer lies within the heart of all mankind! The answer is twelve?  I think I'm in the wrong building.  ",
+         "extras":"",
+         "author":"Charles Schulz "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I look at life as being cruise director on the Titanic.  I may not get there, but I'm going first class.  ",
+         "extras":"",
+         "author":"Art Buchwald "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I love Saturday morning cartoons, what classic humour!  This is what entertainment is all about ... Idiots, explosives and falling anvils.\"  ",
+         "extras":"",
+         "author":"Calvin and Hobbes, Bill Watterson "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I met my latest girl friend in a department store.  She was looking at clothes, and I was putting Slinkys on the escalators.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I never forget a face, but in your case I'll make an exception.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I poured spot remover on my dog.  Now he's gone.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I put contact lenses in my dog's eyes. They had little pictures of cats on them.  Then I took one out and he ran around in circles.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I put instant coffee in a microwave and almost went back in time.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I saw a subliminal advertising executive, but only for a second.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I should have been a country-western singer.  After all, I'm older than most western countries.  ",
+         "extras":"",
+         "author":"George Burns "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I sold my memoirs of my love life to Parker Brothers -- they're going to make a game out of it.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I stayed up all night playing poker with tarot cards.  I got a full house and four people died.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I think we're all Bozos on this bus.  ",
+         "extras":"",
+         "author":"Firesign Theatre "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I thought there was something fishy about the butler.  Probably a Pisces, working for scale.  ",
+         "extras":"",
+         "author":"Firesign Theatre, \"The Further Adventures of Nick Danger\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I used to work in a fire hydrant factory.  You couldn't park anywhere near the place.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I was at this restaurant.  The sign said \"Breakfast Anytime.\"  So I ordered French Toast in the Rennaissance.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I was in Vegas last week. I was at the roulette table, having a lengthy argument about what I considered an Odd number.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I was the best I ever had.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I went into a general store, and they wouldn't sell me anything specific\".  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I went to the museum where they had all the heads and arms from the statues that are in all the other museums.\"  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I worked in a health food store once.  A guy came in and asked me, \"If I melt dry ice, can I take a bath without getting wet?\"  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'd horsewhip you if I had a horse.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'd never join any club that would have the likes of me as a member.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'll be comfortable on the couch.  Famous last words.  ",
+         "extras":"",
+         "author":"Lenny Bruce "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm going to Boston to see my doctor.  He's a very sick man.  ",
+         "extras":"",
+         "author":"Fred Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm going to give my psychoanalyst one more year, then I'm going to Lourdes.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm going to live forever, or die trying!  ",
+         "extras":"",
+         "author":"Spider Robinson "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm not afraid of death -- I just don't want to be there when it happens.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I've had a perfectly wonderful evening.  But this wasn't it.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If God had wanted us to be concerned for the plight of the toads, he would have made them cute and furry.   ",
+         "extras":"",
+         "author":"Dave Barry "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If only Dionysus were alive!  Where would he eat?  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If only God would give me some clear sign!  Like making a large deposit in my name at a Swiss bank.  ",
+         "extras":"",
+         "author":"Woody Allen, \"Without Feathers\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you live to the age of a hundred you have it made because very few people die past the age of a hundred.  ",
+         "extras":"",
+         "author":"George Burns "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you want to make God laugh, tell him about your plans.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you've done six impossible things before breakfast, why not round it off with dinner at Milliway's, the restaurant at the end of the universe?  ",
+         "extras":"",
+         "author":"Douglas Adams, \"The Restaurant at the End of the Universe\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In like a dimwit, out like a light.  ",
+         "extras":"",
+         "author":"Pogo "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Is it weird in here, or is it just me?  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is impossible to experience one's death objectively and still carry a tune.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It isn't necessary to have relatives in Kansas City in order to be unhappy.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It looked like something resembling white marble, which was probably what it was: something resembling white marble.  ",
+         "extras":"",
+         "author":"Douglas Adams, \"The Hitchhikers Guide to the Galaxy\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's a small world, but I wouldn't want to have to paint it.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's hard to get ivory in Africa, but in Alabama the Tuscaloosa.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not that I'm afraid to die. I just don't want to be there when it happens.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Last night the power went out. Good thing my camera had a flash.... The neighbors thought it was lightning in my house, so they called the cops.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is divided into the horrible and the miserable.  ",
+         "extras":"",
+         "author":"Woody Allen, \"Annie Hall\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life is wasted on the living.  ",
+         "extras":"",
+         "author":"The Restaurant at the Edge of the Universe. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My brother sent me a postcard the other day with this big satellite photo of the entire earth on it. On the back it said: \"Wish you were here\".  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My friend has a baby.  I'm writing down all the noises he makes so later I can ask him what he meant.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nietzsche says that we will live the same life, over and over again. God -- I'll have to sit through the Ice Capades again.  ",
+         "extras":"",
+         "author":"Woody Allen, \"Hannah and Her Sisters\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nirvana?  That's the place where the powers that be and their friends hang out.  ",
+         "extras":"",
+         "author":"Zonker Harris "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"NOBODY EXPECTS THE SPANISH INQUISITION! "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Now is the time for all good men to come to.  ",
+         "extras":"",
+         "author":"Walt Kelly "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One doesn't have a sense of humor.  It has you.  ",
+         "extras":"",
+         "author":"Larry Gelbart "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Outside of a dog, a book is a man's best friend.  Inside a dog it's too dark to read.  ",
+         "extras":"",
+         "author":"Groucho Marx "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Right now I'm having amnesia and deja vu at the same time.\"  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Romeo wasn't bilked in a day.  ",
+         "extras":"",
+         "author":"Walt Kelly, \"Ten Ever-Lovin' Blue-Eyed Years With Pogo\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Showing up is 80"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"of life.  ",
+         "extras":"",
+         "author":"Woody Allen "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thank goodness modern convenience is a thing of the remote future.  ",
+         "extras":"",
+         "author":"Pogo, by Walt Kelly "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best cure for insomnia is to get a lot of sleep.  ",
+         "extras":"",
+         "author":"W. C. Fields "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best way to make a fire with two sticks is to make sure one of them is a match.  ",
+         "extras":"",
+         "author":"Will Rogers "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The grand leap of the whale up the Fall of Niagara is esteemed, by all who have seen it, as one of the finest spectacles in nature.  ",
+         "extras":"",
+         "author":"Benjamin Franklin. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The other day I... uh, no, that wasn't me.  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There comes a time in the affairs of a man when he has to take the bull by the tail and face the situation.  ",
+         "extras":"",
+         "author":"W.C. Fields "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's no easy quick way out, we're gonna have to live through our whole lives, win, lose, or draw.  ",
+         "extras":"",
+         "author":"Walt Kelly "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic.  ",
+         "extras":"",
+         "author":"Lily Tomlin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Things will get better despite our efforts to improve them.  ",
+         "extras":"",
+         "author":"Will Rogers "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Time is an illusion, lunchtime doubly so.  ",
+         "extras":"",
+         "author":"The Hitchhiker's Guide to the Galaxy "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"TOO BAD YOU CAN'T BUY a voodoo globe so that you could make the earth spin real fast and freak everybody out.  ",
+         "extras":"",
+         "author":"Jack Handley, The New Mexican, 1988. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Twenty Percent of Zero is Better than Nothing.  ",
+         "extras":"",
+         "author":"Walt Kelly "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We have met the enemy, and he is us.  ",
+         "extras":"",
+         "author":"Walt Kelly "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We is confronted with insurmountable opportunities.  ",
+         "extras":"",
+         "author":"Walt Kelly, \"Pogo\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What if everything is an illusion and nothing exists?  In that case, I definitely overpaid for my carpet.  ",
+         "extras":"",
+         "author":"Woody Allen, \"Without Feathers\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What if nothing exists and we're all in somebody's dream?  Or what's worse, what if only that fat guy in the third row exists?  ",
+         "extras":"",
+         "author":"Woody Allen, \"Without Feathers\" "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is comedy?  Comedy is the art of making people laugh without making them puke.  ",
+         "extras":"",
+         "author":"Steve Martin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What's another word for \"thesaurus\"?  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When I was crossing the border into Canada, they asked if I had any firearms with me.  I said, \"Well, what do you need?\"  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When I was little, I went into a pet shop and they asked how big I'd get.  ",
+         "extras":"",
+         "author":"Rodney Dangerfield "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When I woke up this morning, my girlfriend asked if I had slept well. I said, \"No, I made a few mistakes.\"  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where humor is concerned there are no standards -- no one can say what is good or bad, although you can be sure that everyone will.  ",
+         "extras":"",
+         "author":"John Kenneth Galbraith "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why is the alphabet in that order?  Is it because of that song?  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Will Rogers never met you. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Would you *really* want to get on a non-stop flight?  ",
+         "extras":"",
+         "author":"George Carlin "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't have everything.  Where would you put it?  ",
+         "extras":"",
+         "author":"Steven Wright "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You may already be a loser.  ",
+         "extras":"",
+         "author":"Form letter received by Rodney Dangerfield. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You'd better beat it.  You can leave in a taxi.  If you can't get a taxi, you can leave in a huff.  If that's too soon, you can leave in a minute and a huff.  ",
+         "extras":"",
+         "author":"Groucho Marx"
+      }
+   ]
+}

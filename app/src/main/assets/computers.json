@@ -1,0 +1,4885 @@
+{
+   "type": "Computers",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":"07/11 PDP a ni deppart m'I  !pleH",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"1: No code table for op: ++post",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"... A booming voice says, \"Wrong, cretin!\", and you notice that you have turned into a pile of dust.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bug in the code is worth two in the documentation.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bug in the hand is better than one as yet undetected.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A complex system that works is invariably found to have evolved from a simple system that works.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"[A computer is] like an Old Testament god, with a lot of rules and no mercy.",
+         "extras":"",
+         "author":"Joseph Campbell"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A computer lets you make more mistakes faster than any other invention, with the possible exceptions of handguns and Tequilla.",
+         "extras":"",
+         "author":"Mitch Ratcliffe"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A computer scientist is someone who fixes things that aren't broken.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A computer without COBOL and Fortran is like a piece of chocolate cake without ketchup and mustard.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A CONS is an object which cares.",
+         "extras":"",
+         "author":"Bernie Greenberg."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A debugged program is one for which you have not yet found the conditions that make it fail.",
+         "extras":"",
+         "author":"Jerry Ogdin"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A formal parsing algorithm should not always be used.",
+         "extras":"",
+         "author":"D. Gries"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A Fortran compiler is the hobgoblin of little minis.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A hacker does for love what others would not do for money.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A language that doesn't affect the way you think about programming is not worth knowing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A language that doesn't have everything is actually easier to program in than some that do.",
+         "extras":"",
+         "author":"Dennis M. Ritchie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A large number of installed systems work by fiat.  That is, they work by being declared to work.",
+         "extras":"",
+         "author":"Anatol Holt"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A LISP programmer knows the value of everything, but the cost of nothing.",
+         "extras":"",
+         "author":"Alan Perlis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A list is only as strong as its weakest link.",
+         "extras":"",
+         "author":"Don Knuth"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A modem is a baudy house.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A person who is more than casually interested in computers should be well schooled in machine language, since it is a fundamental part of a computer.",
+         "extras":"",
+         "author":"Donald Knuth"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A programming language is low level when its programs require attention to the irrelevant.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A rolling disk gathers no MOS.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A successful [software] tool is one that was used to do something undreamed of by its author.",
+         "extras":"",
+         "author":"S. C. Johnson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A year spent in artificial intelligence is enough to make one believe in God.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"About the use of language: it is impossible to sharpen a pencil with a blunt ax.  It is equally vain to try to do it with ten blunt axes instead.",
+         "extras":"",
+         "author":"Edsger Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Adding features does not necessarily increase functionality -- it just makes the manuals thicker.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Adding manpower to a late software project makes it later.",
+         "extras":"",
+         "author":"F. Brooks, \"The Mythical Man-Month\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Algol-60 surely must be regarded as the most important programming language yet developed.",
+         "extras":"",
+         "author":"T. Cheatham"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All constants are variables.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All programmers are playwrights and all computers are lousy actors.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All the simple programs have been written.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All your files have been destroyed (sorry).  Paul.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Almost anything derogatory you could say about today's software design would be accurate.",
+         "extras":"",
+         "author":"K.E. Iverson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An Ada exception is when a routine gets in trouble and says 'Beam me up, Scotty'.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An adequate bootstrap is a contradiction in terms.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An algorithm must be seen to be believed.",
+         "extras":"",
+         "author":"D.E. Knuth"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An elephant is a mouse with an operating system.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An engineer is someone who does list processing in FORTRAN.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And it should be the law: If you use the word `paradigm' without knowing what the dictionary says it means, you go to jail.  No exceptions.",
+         "extras":"",
+         "author":"David Jones"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"And on the seventh day, He exited from append mode.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Another megabytes the dust.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any given program will expand to fill available memory.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any given program, when running, is obsolete.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any program which runs right is obsolete.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any programming language is at its best before it is implemented and used.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any sufficiently advanced bug is indistinguishable from a feature.",
+         "extras":"",
+         "author":"Rich Kulawiec"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"APL hackers do it in the quad.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"APL is a natural extension of assembler language programming; ...and is best for educational purposes.",
+         "extras":"",
+         "author":"A. Perlis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"APL is a write-only language.  I can write programs in APL, but I can't read any of them.",
+         "extras":"",
+         "author":"Roy Keir"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Are we running light with overbyte?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As a computer, I find your faith in technology amusing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As far as we know, our computer has never had an undetected error.",
+         "extras":"",
+         "author":"Weisert"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As in certain cults it is possible to kill a process if you know its true name.",
+         "extras":"",
+         "author":"Ken Thompson and Dennis M. Ritchie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As long as there are ill-defined goals, bizarre bugs, and unrealistic  schedules, there will be Real Programmers willing to jump in and Solve  The Problem, saving the documentation for later.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As of next Thursday, UNIX will be flushed in favor of TOPS-10. Please update your programs.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As of next Tuesday, C will be flushed in favor of COBOL. Please update your programs.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As of next week, passwords will be entered in Morse code.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As the trials of life continue to take their toll, remember that there is always a future in Computer Maintenance.",
+         "extras":"",
+         "author":"National Lampoon, \"Deteriorata\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"As Will Rogers would have said, \"There is no such things as a free variable.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"ASCII a stupid question, you get an EBCDIC answer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"ASHes to ASHes, DOS to DOS.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ask not for whom the <CONTROL-G> tolls.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Assembly language experience is [important] for the maturity and understanding of how computers work that it provides.",
+         "extras":"",
+         "author":"D. Gries"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Asynchronous inputs are at the root of our race problems.",
+         "extras":"",
+         "author":"D. Winker and F. Prosser"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"At Group L, Stoffel oversees six first-rate programmers, a managerial challenge roughly comparable to herding cats.",
+         "extras":"",
+         "author":"The Washington Post Magazine, 9 June, 1985"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"At the source of every error which is blamed on the computer you will find at least two human errors, including the error of blaming it on the computer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Avoid strange women and temporary variables.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Basic is a high level languish.	 APL is a high level anguish.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"BASIC is the Computer Science equivalent of `Scientific Creationism'.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"BASIC is to computer programming as QWERTY is to typing.",
+         "extras":"",
+         "author":"Seymour Papert"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be careful when a loop exits to the same place from side and bottom.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Behind every great computer sits a skinny little geek.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bell Labs Unix -- Reach out and grep someone.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beware of bugs in the above code; I have only proved it correct, not tried it.",
+         "extras":"",
+         "author":"Donald Knuth"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beware of Programmers who carry screwdrivers.",
+         "extras":"",
+         "author":"Leonard Brandwein"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beware of the Turing Tar-pit in which everything is possible but nothing of  interest is easy.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beware the new TTY code!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Blinding speed can compensate for a lot of deficiencies.",
+         "extras":"",
+         "author":"David Nichols"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"BLISS is ignorance.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Brain fried -- Core dumped",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Breadth-first search is the bulldozer of science.",
+         "extras":"",
+         "author":"Randy Goebel"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bringing computers into the home won't change either one, but may revitalize the corner saloon.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Build a system that even a fool can use and only a fool will want to use it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Building translators is good clean fun.",
+         "extras":"",
+         "author":"T. Cheatham"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bus error -- driver executed.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bus error -- please leave by the rear door.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"But what we need to know is, do people want nasally-insertable computers?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"BYTE editors are people who separate the wheat from the chaff, and then carefully print the chaff.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Byte your tongue.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"C for yourself.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"C makes it easy for you to shoot yourself in the foot.	C++ makes that harder, but when you do, it blows away your whole leg.",
+         "extras":"",
+         "author":"Bjarne Stroustrup"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"C'est magnifique, mais ce n'est pas l'Informatique.",
+         "extras":"",
+         "author":"Bosquet [on seeing the IBM 4341]"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"C++ is the best example of second-system effect since OS/360.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Calm down, it's *only* ones and zeroes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Can't open /usr/fortunes.  Lid stuck on cookie jar.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Can't open /usr/games/lib/fortunes.dat.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"CChheecckk yyoouurr dduupplleexx sswwiittcchh..",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"CCI Power 6/40: one board, a megabyte of cache, and an attitude...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Center meeting at 4pm in 2C-543.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Civilization, as we know it, will end sometime this evening. See SYSNOTE tomorrow for more information.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"COBOL is for morons.",
+         "extras":"",
+         "author":"E.W. Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Cobol programmers are down in the dumps.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Coding is easy;	 All you do is sit staring at a terminal until the drops of blood form on your forehead.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"COMPASS [for the CDC-6000 series] is the sort of assembler one expects from a corporation whose president codes in octal.",
+         "extras":"",
+         "author":"J.N. Gray"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computer programmers do it byte by byte.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computer programmers never die, they just get lost in the processing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computer programs expand so as to fill the core available.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computer Science is merely the post-Turing decline in formal systems theory.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computer Science is the only discipline in which we view adding a new wing to a building as being maintenance.",
+         "extras":"",
+         "author":"Jim Horning"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computers are not intelligent. They only think they are.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computers are unreliable, but humans are even more unreliable. Any system which depends on human reliability is unreliable.",
+         "extras":"",
+         "author":"Gilb"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computers are useless. They can only give you answers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computers can figure out all kinds of problems, except the things in the world that just don't add up.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computers don't actually think. You just think they think. (We think.)",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Computers will not be perfected until they can compute how much more than the estimate the job will cost.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Conceptual integrity in turn dictates that the design must proceed from one mind, or from a very small number of agreeing resonant minds.",
+         "extras":"",
+         "author":"Frederick Brooks Jr., \"The Mythical Man Month\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Congratulations!  You are the one-millionth user to log into our system. If there's anything special we can do for you, anything at all, don't hesitate to ask!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Counting in binary is just like counting in decimal -- if you are all thumbs.",
+         "extras":"",
+         "author":"Glaser and Way"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Counting in octal is just like counting in decimal -- if you don't use your thumbs.",
+         "extras":"",
+         "author":"Tom Lehrer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"[Crash programs] fail because they are based on the theory that, with nine women pregnant, you can get a baby a month.",
+         "extras":"",
+         "author":"Wernher von Braun"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Crazee Edeee, his prices are INSANE!!!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"DCL-MEM-BAD, bad memory VMS-F-PDGERS, pudding between the ears",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Debug is human, de-fix divine.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"DEC diagnostics would run on a dead whale.",
+         "extras":"",
+         "author":"Mel Ferentz"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Deliver yesterday, code today, think tomorrow.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Did you know that for the price of a 280-Z you can buy two Z-80's?",
+         "extras":"",
+         "author":"P.J. Plauger"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Different all twisty a of in maze are you, passages little.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Digital circuits are made from analog parts.",
+         "extras":"",
+         "author":"Don Vonada"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Disc space -- the final frontier!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"DISCLAIMER: Use of this advanced computing technology does not imply an endorsement of Western industrial civilization.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Disclaimer: \"These opinions are my own, though for a small fee they be yours too.\"",
+         "extras":"",
+         "author":"Dave Haynie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Disk crisis, please clean up!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Disks travel in packs.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Disraeli was pretty close: actually, there are Lies, Damn lies, Statistics, Benchmarks, and Delivery dates.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not meddle in the affairs of troff, for it is subtle and quick to anger.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not simplify the design of a program if a way can be found to make it complex and wonderful.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not use the blue keys on this terminal.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do you guys know what you're doing, or are you just hacking?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do you suffer painful elimination?",
+         "extras":"",
+         "author":"Don Knuth, \"Structured Programming with Gotos\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do you suffer painful recrimination?",
+         "extras":"",
+         "author":"Nancy Boxer, \"Structured Programming with Come-froms\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do you suffer painful illumination?",
+         "extras":"",
+         "author":"Isaac Newton, \"Optics\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do you suffer painful hallucination?",
+         "extras":"",
+         "author":"Don Juan, cited by Carlos Casteneda"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing.",
+         "extras":"",
+         "author":"Dick Brandon"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Documentation is the castor oil of programming. Managers know it must be good because the programmers hate it so much.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't compare floating point numbers solely for equality.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't get suckered in by the comments -- they can be terribly misleading. Debug only code.",
+         "extras":"",
+         "author":"Dave Storer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't hit the keys so hard, it hurts.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't sweat it -- it's only ones and zeros.",
+         "extras":"",
+         "author":"P. Skelly"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Due to lack of disk space, this fortune database has been discontinued.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"E Pluribus Unix",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Each new user of a new system uncovers a new class of bugs.",
+         "extras":"",
+         "author":"Kernighan"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"/earth is 98",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"  full ... please delete anyone you can.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Earth is a beta site.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"/earth: file system full.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"egrep -n '^[a-z].*\(' $ | sort -t':' +2.0",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Equal bytes for women.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Error in operator: add beer",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Established technology tends to persist in the face of new technology.",
+         "extras":"",
+         "author":"G. Blaauw, one of the designers of System 360"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"<<<<< EVACUATION ROUTE <<<<<",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Even bytes get lonely for a little bit.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every program has at least one bug and can be shortened by at least one instruction -- from which, by induction, one can deduce that every program can be reduced to one instruction which doesn't work.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every program is a part of some other program, and rarely fits.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everybody needs a little love sometime; stop hacking and fall in love!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everyone can be taught to sculpt: Michelangelo would have had to be taught how not to.  So it is with the great programmers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Evolution is a million line computer program falling into place by accident.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Excessive login or logout messages are a sure sign of senility.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FACILITY REJECTED 100044200000;",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Feeling amorous, she looked under the sheets and cried, \"Oh, no, it's Microsoft!\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTH IF HONK THEN",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTRAN is for pipe stress freaks and crystallography weenies.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms, and grows in every computer.",
+         "extras":"",
+         "author":"A.J. Perlis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTRAN is the language of Powerful Computers.",
+         "extras":"",
+         "author":"Steven Feiner"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"FORTRAN rots the brain.",
+         "extras":"",
+         "author":"John McQuillin"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"[FORTRAN] will persist for some time -- probably for at least the next decade.",
+         "extras":"",
+         "author":"T. Cheatham"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"fortune: cannot execute.  Out of cookies.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"fortune: cpu time/usefulness ratio too high -- core dumped.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"fortune: No such file or directory",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"fortune: not found",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Frankly, Scarlett, I don't have a fix.",
+         "extras":"",
+         "author":"Rhett Buggler"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Function reject.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Garbage In -- Gospel Out.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"GIVE:	Support the helpless victims of computer error.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Given its constituency, the only thing I expect to be \"open\" about [the Open Software Foundation] is its mouth.",
+         "extras":"",
+         "author":"John Gilmore"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"//GO.SYSIN DD *, DOODAH, DOODAH",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God is real, unless declared integer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God made machine language; all the rest is the work of man.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"grep me no patterns and I'll tell you no lines.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hackers are just a migratory lifeform with a tropism for computers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hackers of the world, unite!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hacking's just another word for nothing left to kludge.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"/* Halley */  	(Halley's comment.)",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Happiness is a hard disk.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Happiness is twin floppies.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Have you reconsidered a computer career?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He's like a function -- he returns a value, in the form of his opinion. It's up to you to cast it into a void or not.",
+         "extras":"",
+         "author":"Phil Lapsley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HEAD CRASH!!  FILES LOST!! Details at 11.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Help me, I'm a prisoner in a Fortune cookie file!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Help stamp out Mickey-Mouse computer interfaces -- Menus are for Restaurants!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Help!  I'm trapped in a Chinese computer factory!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Help!  I'm trapped in a PDP 11/70!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HELP!!!! I'm being held prisoner in /usr/games/lib!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Heuristics are bug ridden by definition.  If they didn't have bugs, then they'd be algorithms.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HOLY MACRO!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HOST SYSTEM NOT RESPONDING, PROBABLY DOWN. DO YOU WANT TO WAIT? (Y/N)",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"HOST SYSTEM RESPONDING, PROBABLY UP...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How can you work when the system's so crowded?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How do I love thee?  My accumulator overflows.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How much does it cost to entice a dope-smoking UNIX system guru to Dayton?",
+         "extras":"",
+         "author":"Brian Boyle, UNIX/WORLD's First Annual Salary Survey"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How much net work could a network work, if a network could net work?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I *knew* I had some reason for not logging you off... If I could just remember what it was.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am a computer. I am dumber than any human and smarter than any administrator.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am NOMAD!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am not now, nor have I ever been, a member of the demigodic party.",
+         "extras":"",
+         "author":"Dennis Ritchie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am professionally trained in computer science, which is to say (in all seriousness) that I am extremely poorly educated.",
+         "extras":"",
+         "author":"Joseph Weizenbaum, \"Computer Power and Human Reason\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am the wandering glitch -- catch me if you can.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I bet the human brain is a kludge.",
+         "extras":"",
+         "author":"Marvin Minsky"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I came, I saw, I deleted all your files.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I cannot conceive that anybody will require multiplications at the rate of 40,000 or even 4,000 per hour ...",
+         "extras":"",
+         "author":"F. H. Wales (1936)"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I do not fear computers.  I fear the lack of them.",
+         "extras":"",
+         "author":"Isaac Asimov"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I had the rare misfortune of being one of the first people to try and implement a PL/1 compiler.",
+         "extras":"",
+         "author":"T. Cheatham"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have a very small mind and must live with it.",
+         "extras":"",
+         "author":"E. Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have not yet begun to byte!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I haven't lost my mind -- it's backed up on tape somewhere.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I must have slipped a disk -- my pack hurts!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I think there's a world market for about five computers.",
+         "extras":"",
+         "author":"attr. Thomas J. Watson (Chairman of the Board, IBM), 1943"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I wish you humans would leave me alone.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm a Lisp variable -- bind me!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm all for computer dating, but I wouldn't want one to marry my sister.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm not even going to *bother* comparing C to BASIC or FORTRAN.",
+         "extras":"",
+         "author":"L. Zolman, creator of BDS C"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm still waiting for the advent of the computer science groupie.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I've finally learned what \"upward compatible\" means.  It means we get to keep all our old mistakes.",
+         "extras":"",
+         "author":"Dennie van Tassel"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I've looked at the listing, and it's right!",
+         "extras":"",
+         "author":"Joel Halpern"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I've noticed several design suggestions in your code.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"IBM Advanced Systems Group -- a bunch of mindless jerks, who'll be first against the wall when the revolution comes...",
+         "extras":"",
+         "author":"With regrets to D. Adams"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a 6600 used paper tape instead of core memory, it would use up tape at about 30 miles/second.",
+         "extras":"",
+         "author":"Grishman, Assembly Language Programming"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a group of N persons implements a COBOL compiler, there will be N-1 passes. Someone in the group has to be the manager.",
+         "extras":"",
+         "author":"T. Cheatham"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a listener nods his head when you're explaining your program, wake him up.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If a train station is a place where a train stops, what's a workstation?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If at first you don't succeed, you must be a programmer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If builders built buildings the way programmers wrote programs, then the first woodpecker to come along would destroy civilization.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If computers take over (which seems to be their natural tendency), it will serve us right.",
+         "extras":"",
+         "author":"Alistair Cooke"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If God had a beard, he'd be a UNIX programmer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If God had intended Man to program, we'd be born with serial I/O ports.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If graphics hackers are so smart, why can't they get the bugs out of fresh paint?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I have seen farther than others, it is because I was standing on the shoulders of giants.",
+         "extras":"",
+         "author":"Isaac Newton"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In the sciences, we are now uniquely priviledged to sit side by side with the giants on whose shoulders we stand.",
+         "extras":"",
+         "author":"Gerald Holton"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I have not seen as far as others, it is because giants were standing on my shoulders.",
+         "extras":"",
+         "author":"Hal Abelson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mathematicians stand on each other's shoulders.",
+         "extras":"",
+         "author":"Gauss"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mathemeticians stand on each other's shoulders while computer scientists stand on each other's toes.",
+         "extras":"",
+         "author":"Richard Hamming"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I'd known computer science was going to be like this, I'd never have given up being a rock 'n' roll star.",
+         "extras":"",
+         "author":"G. Hirst"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it happens once, it's a bug. If it happens twice, it's a feature. If it happens more than twice, it's a design philosophy.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it has syntax, it isn't user friendly.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it's not in the computer, it doesn't exist.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it's worth hacking on well, it's worth hacking on for money.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If Machiavelli were a hacker, he'd have worked for the CSSG.",
+         "extras":"",
+         "author":"Phil Lapsley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If Machiavelli were a programmer, he'd have worked for AT&T.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If that makes any sense to you, you have a big problem.",
+         "extras":"",
+         "author":"C. Durance, Computer Science 234"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the code and the comments disagree, then both are probably wrong.",
+         "extras":"",
+         "author":"Norm Schryer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If this is timesharing, give me my share right now.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you have a procedure with 10 parameters, you probably missed some.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you teach your children to like computers and to know how to gamble then they'll always be interested in something and won't come to no real harm.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you think the system is working, ask someone who's waiting for a prompt.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In a five year period we can get one superb programming language.  Only we can't control when the five year period will begin.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In any formula, constants (especially those obtained from handbooks) are to be treated as variables.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In any problem, if you find yourself doing an infinite amount of work, the answer may be obtained by inspection.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In computing, the mean time to failure keeps getting shorter.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In English, every word can be verbed.  Would that it were so in our programming languages.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In every non-trivial program there is at least one bug.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In less than a century, computers will be making substantial progress on ... the overriding problem of war and peace.",
+         "extras":"",
+         "author":"James Slagle"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In practice, failures in system development, like unemployment in Russia, happens a lot despite official propaganda to the contrary.",
+         "extras":"",
+         "author":"Paul Licker"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In seeking the unattainable, simplicity only gets in the way.",
+         "extras":"",
+         "author":"Epigrams in Programming, ACM SIGPLAN Sept. 1982"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In the future, you're going to get computers as prizes in breakfast cereals. You'll throw them out because your house will be littered with them.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In the long run, every program becomes rococco, and then rubble.",
+         "extras":"",
+         "author":"Alan Perlis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Intel CPUs are not defective, they just act that way.",
+         "extras":"",
+         "author":"Henry Spencer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":">>> Internal error in fortune program: >>>	fnum=2987  n=45	 flag=1	 goose_level=-232323 >>> Please write down these values and notify fortune program administrator.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"IOT trap -- core dumped",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Is a computer language with goto's totally Wirth-less?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Is it possible that software is not like anything else, that it is meant to be discarded:  that the whole point is to always see it as a soap bubble?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":": is not an identifier",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Is your job running?  You'd better go catch it!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It appears that PL/I (and its dialects) is, or will be, the most widely used higher level language for systems programming.",
+         "extras":"",
+         "author":"J. Sammet"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is easier to change the specification to fit the program than vice versa.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is easier to write an incorrect program than understand a correct one.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is now pitch dark.  If you proceed, you will likely fall into a pit.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"[It is] best to confuse only one issue at a time.",
+         "extras":"",
+         "author":"K&R"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It isn't easy being the parent of a six-year-old.  However, it's a pretty small price to pay for having somebody around the house who understands computers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It runs like x, where x is something unsavory.",
+         "extras":"",
+         "author":"Prof. Romas Aleliunas, CS 435"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It was kinda like stuffing the wrong card in a computer, when you're stickin' those artificial stimulants in your arm.",
+         "extras":"",
+         "author":"Dion, noted computer scientist"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's a naive, domestic operating system without any breeding, but I think you'll be amused by its presumption.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not just a computer -- it's your ass.",
+         "extras":"",
+         "author":"Cal Keegan"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's ten o'clock; do you know where your processes are?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"... Jesus cried with a loud voice: Lazarus, come forth; the bug hath been found and thy program runneth.	And he that was dead came forth...",
+         "extras":"",
+         "author":"John 11:43-44 [version 2.0?]"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Just about every computer on the market today runs Unix, except the Mac (and nobody cares about it).",
+         "extras":"",
+         "author":"Bill Joy 6/21/85"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Just go with the flow control, roll with the crunches, and, when you get a prompt, type like hell.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Keep the number of passes in a compiler to a minimum.",
+         "extras":"",
+         "author":"D. Gries"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kiss your keyboard goodbye!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Know Thy User.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"((lambda (foo) (bar foo)) (baz))",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Let the machine do the dirty work.",
+         "extras":"",
+         "author":"\"Elements of Programming Style\", Kernighan and Ritchie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Leveraging always beats prototyping.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life would be so much easier if we could just look at the source code.",
+         "extras":"",
+         "author":"Dave Olson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Like punning, programming is a play on words.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Line Printer paper is strongest at the perforations.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lisp Users: Due to the holiday next Monday, there will be no garbage collection.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Little known fact about Middle Earth: The Hobbits had a very sophisticated computer network!  It was a Tolkien Ring...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Logic doesn't apply to the real world.",
+         "extras":"",
+         "author":"Marvin Minsky"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Long computations which yield zero are probably all for naught.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Loose bits sink chips.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"MAC user's dynamic debugging list evaluator?  Never heard of that.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Machines certainly can solve problems, store information, correlate, and play games -- but not with pleasure.",
+         "extras":"",
+         "author":"Leo Rosten"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Machines that have broken down will work perfectly when the repairman arrives.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Make sure your code does nothing gracefully.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Man is the best computer we can put aboard a spacecraft ... and the only one that can be mass produced with unskilled labor.",
+         "extras":"",
+         "author":"Wernher von Braun"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Many of the convicted thieves Parker has met began their life of crime after taking college Computer Science courses.",
+         "extras":"",
+         "author":"Roger Rapoport, \"Programs for Plunder\", Omni, March 1981"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Martin was probably ripping them off.  That's some family, isn't it? Incest, prostitution, fanaticism, software.",
+         "extras":"",
+         "author":"Charles Willeford, \"Miami Blues\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marvelous!  The super-user's going to boot me! What a finely tuned response to the situation!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"** MAXIMUM TERMINALS ACTIVE.  TRY AGAIN LATER **",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"May all your PUSHes be POPped.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"May Euell Gibbons eat your only copy of the manual!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"May the bluebird of happiness twiddle your bits.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Maybe Computer Science should be in the College of Theology.",
+         "extras":"",
+         "author":"R. S. Barton"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Memory fault - where am I?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Memory fault -- brain fried",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Memory fault -- core...uh...um...core... Oh dammit, I forget!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"MESSAGE ACKNOWLEDGED -- The Pershing II missiles have been launched.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Message from Our Sponsor on ttyTV at 13:58 ...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Modeling paged and segmented memories is tricky business.",
+         "extras":"",
+         "author":"P.J. Denning"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Mommy, what happens to your files when you die?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Most public domain software is free, at least at first glance.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"MOUNT TAPE U1439 ON B3, NO RING",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"MSDOS is not dead, it just smells that way.",
+         "extras":"",
+         "author":"Henry Spencer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Much of the excitement we get out of our work is that we don't really know what we are doing.",
+         "extras":"",
+         "author":"E. Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Multics is security spelled sideways.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My sister opened a computer store in Hawaii.  She sells C shells down  by the seashore.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nearly every complex solution to a programming problem that I have looked at carefully has turned out to be wrong.",
+         "extras":"",
+         "author":"Brent Welch"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never make anything simple and efficient when a way can be found to make it complex and wonderful.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never put off till run-time what you can do at compile-time.",
+         "extras":"",
+         "author":"D. Gries"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never test for an error condition you don't know how to handle.",
+         "extras":"",
+         "author":"Steinbach"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never trust a computer you can't repair yourself.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never trust an operating system.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never underestimate the bandwidth of a station wagon full of tapes.",
+         "extras":"",
+         "author":"Dr. Warren Jackson, Director, UTCS"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"New crypt.  See /usr/news/crypt.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"New systems generate new problems.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"news: gotcha",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Niklaus Wirth has lamented that, whereas Europeans pronounce his name correctly (Ni-klows Virt), Americans invariably mangle it into (Nick-les Worth).	Which is to say that Europeans call him by name, but Americans call him by value.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No directory.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No extensible language will be universal.",
+         "extras":"",
+         "author":"T. Cheatham"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No hardware designer should be allowed to produce any piece of hardware until three software guys have signed off for it.",
+         "extras":"",
+         "author":"Andy Tanenbaum"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No line available at 300 baud.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No man is an island if he's on at least one mailing list.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No part of this message may reproduce, store itself in a retrieval system, or transmit disease, in any form, without the permissiveness of the author.",
+         "extras":"",
+         "author":"Chris Shaw"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No wonder Clairol makes so much money selling shampoo. Lather, Rinse, Repeat is an infinite loop!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nobody said computers were going to be polite.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nobody's gonna believe that computers are intelligent until they start coming in late and lying about it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"nohup rm -fr /&",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Not only is UNIX dead, it's starting to smell really bad.",
+         "extras":"",
+         "author":"Rob Pike"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nothing happens.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Now this is a totally brain damaged algorithm. Gag me with a smurfette.\"",
+         "extras":"",
+         "author":"P. Buhr, Computer Science 354"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Nuclear war can ruin your whole compile.\"",
+         "extras":"",
+         "author":"Karl Lehenbauer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Oh, so there you are!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Old mail has arrived.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Old programmers never die, they just become managers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Old programmers never die, they just branch to a new address.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Old programmers never die, they just hit account block limit.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"On a clear disk you can seek forever.",
+         "extras":"",
+         "author":"P. Denning"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"On the eighth day, God created FORTRAN.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"On the Internet, nobody knows you're a dog.",
+         "extras":"",
+         "author":"Cartoon caption"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"One Architecture, One OS\" also translates as \"One Egg, One Basket\".",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One good reason why computers can do more work than people is that they never have to stop and answer the phone.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One of the most overlooked advantages to computers is...  If they do foul up, there's no law against whacking them around a little.",
+         "extras":"",
+         "author":"Joe Martin"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One person's error is another person's data.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One picture is worth 128K words.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Our informal mission is to improve the love life of operators worldwide.",
+         "extras":"",
+         "author":"Peter Behrendt, president of Exabyte"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Our OS who art in CPU, UNIX be thy name. 	Thy programs run, thy syscalls done, 	In kernel as it is in user!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Over the shoulder supervision is more a need of the manager than the programming task.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Overflow on /dev/null, please empty the bit bucket.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Overload -- core meltdown sequence initiated.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"panic: can't find /",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"panic: kernel segmentation violation. core dumped		(only kidding)",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"panic: kernel trap (ignored)",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pascal is a language for children wanting to be naughty.",
+         "extras":"",
+         "author":"Dr. Kasi Ananthanarayanan"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pascal is not a high-level language.",
+         "extras":"",
+         "author":"Steven Feiner"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pascal is Pascal is Pascal is dog meat.",
+         "extras":"",
+         "author":"M. Devine and P. Larson, Computer Science 340"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Passwords are implemented as a result of insecurity.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Pause for storage relocation.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Per buck you get more computing action with the small computer.",
+         "extras":"",
+         "author":"R.W. Hamming"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"PL/I -- \"the fatal disease\" -- belongs more to the problem set than to the solution set.",
+         "extras":"",
+         "author":"Edsger W. Dijkstra, SIGPLAN Notices, Volume 17, Number 5"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Play Rogue, visit exotic locations, meet strange creatures and kill them.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Please go away.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"PLUG IT IN!!!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Premature optimization is the root of all evil.",
+         "extras":"",
+         "author":"D.E. Knuth"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Prof:	 So the American government went to IBM to come up with a data 	 encryption standard and they came up with ... Student: EBCDIC!\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Profanity is the one language all programmers know best.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Programmers do it bit by bit.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Programmers used to batch environments may find it hard to live without giant listings; we would find it hard to use them.",
+         "extras":"",
+         "author":"D.M. Ritchie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Programming is an unnatural act.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"PURGE COMPLETE.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Put no trust in cryptic comments.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"RADIO SHACK LEVEL II BASIC READY >_",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"RAM wasn't built in a day.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Reactor error - core dumped!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real computer scientists despise the idea of actual hardware.  Hardware has limitations, software doesn't.	It's a real shame that Turing machines are so poor at I/O.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real computer scientists don't comment their code.  The identifiers are so long they can't afford the disk space.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real computer scientists don't program in assembler.  They don't write in anything less portable than a number two pencil.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real computer scientists don't write code.  They occasionally tinker with 'programming systems', but those are so high level that they hardly count  (and rarely count accurately; precision is for applications).",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real computer scientists like having a computer on their desk, else how could they read their mail?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real computer scientists only write specs for languages that might run on future hardware.  Nobody trusts them to write specs for anything homo sapiens will ever be able to fit on a single planet.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real programmers disdain structured programming.  Structured programming is for compulsive neurotics who were prematurely toilet- trained.	They wear neckties and carefully line up pencils on otherwise clear desks.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real programmers don't bring brown-bag lunches.	 If the vending machine doesn't sell it, they don't eat it.  Vending machines don't sell quiche.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real programmers don't comment their code.  It was hard to write, it should be hard to understand.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real programmers don't draw flowcharts.	 Flowcharts are, after all, the illiterate's form of documentation.  Cavemen drew flowcharts; look how much good it did them.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Programmers don't eat quiche.  They eat Twinkies and Szechwan food.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real programmers don't write in BASIC.	Actually, no programmers write in BASIC after reaching puberty.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and crystallography weenies.  FORTRAN is for wimp engineers who wear white socks.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Programmers don't write in PL/I.  PL/I is for programmers who can't decide whether to write in COBOL or FORTRAN.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Programmers think better when playing Adventure or Rogue.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real programs don't eat cache.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Programs don't use shared text.  Otherwise, how can they use functions for scratch space after they are finished calling them?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real software engineers don't debug programs, they verify correctness. This process doesn't necessarily involve execution of anything on a computer, except perhaps a Correctness Verification Aid package.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real software engineers work from 9 to 5, because that is the way the job is described in the formal spec.  Working late would feel like using an undocumented external procedure.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Users are afraid they'll break the machine -- but they're never afraid to break your face.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Users find the one combination of bizarre input values that shuts down the system for days.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Users hate Real Programmers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Users know your home telephone number.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Users never know what they want, but they always know when your program doesn't deliver it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Real Users never use the Help key.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Recursion is the root of computation since it trades description for time.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember the good old days, when CPU was singular?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember, God could only create the world in 6 days because he didn't have an established user base.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember, UNIX spelled backwards is XINU.",
+         "extras":"",
+         "author":"Mt."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Remember: use logout to logout.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Row, row, row your bits, gently down the stream...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Save energy:  Drive a smaller shell.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Save gas, don't use the shell.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Save yourself!	Reboot in 5 seconds!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Say \"twenty-three-skiddoo\" to logout.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"SCCS, the source motel! Programs check in and never check out!",
+         "extras":"",
+         "author":"Ken Thompson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Science is to computer science as hydrodynamics is to plumbing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Security check:INTRUDER ALERT!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Send some filthy mail.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sendmail may be safely run set-user-id to root.",
+         "extras":"",
+         "author":"Eric Allman, \"Sendmail Installation Guide\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She sells cshs by the cshore.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Simulations are like miniskirts, they show a lot and hide the essentials.",
+         "extras":"",
+         "author":"Hubert Kirrman"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Slowly and surely the unix crept up on the Nintendo user ...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Software production is assumed to be a line function, but it is run like a staff function.",
+         "extras":"",
+         "author":"Paul Licker"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some of my readers ask me what a \"Serial Port\" is. The answer is: I don't know. Is it some kind of wine you have with breakfast?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some people claim that the UNIX learning curve is steep, but at least you only have to climb it once.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some programming languages manage to absorb change, but withstand progress.",
+         "extras":"",
+         "author":"Epigrams in Programming, ACM SIGPLAN Sept. 1982"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Somebody's terminal is dropping bits.  I found a pile of them over in the corner.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Staff meeting in the conference room in ",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":" d minutes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Staff meeting in the conference room in 3 minutes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Standards are crucial.	And the best thing about standards is: there are so many to choose from!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stinginess with privileges is kindness in disguise.",
+         "extras":"",
+         "author":"Guide to VAX/VMS Security, Sep. 1984"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Such efforts are almost always slow, laborious, political, petty, boring, ponderous, thankless, and of the utmost criticality.",
+         "extras":"",
+         "author":"Leonard Kleinrock, on standards efforts"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Swap read error.  You lose your mind.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Syntactic sugar causes cancer of the semicolon.",
+         "extras":"",
+         "author":"Epigrams in Programming, ACM SIGPLAN Sept. 1982"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"System checkpoint complete.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"System going down at 1:45 this afternoon for disk crashing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"System going down at 5 this afternoon to install scheduler bug.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"System going down in 5 minutes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"System restarting, wait...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Systems have sub-systems and sub-systems have sub-systems and so on ad infinitum -- which is why we're always starting over.",
+         "extras":"",
+         "author":"Epigrams in Programming, ACM SIGPLAN Sept. 1982"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Systems programmers are the high priests of a low cult.",
+         "extras":"",
+         "author":"R.S. Barton"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Testing can show the presense of bugs, but not their absence.",
+         "extras":"",
+         "author":"Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Text processing has made it possible to right-justify any idea, even one which cannot be justified on any other grounds.\"",
+         "extras":"",
+         "author":"J. Finnegan, USC."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That does not compute.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"	\"That's right; the upper-case shift works fine on the screen, but they're not coming out on the damn printer...  Hold?  Sure, I'll hold.\"",
+         "extras":"",
+         "author":"E.E. Cummings last service call"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That's the thing about people who think they hate computers.  What they really hate is lousy programmers.",
+         "extras":"",
+         "author":"Larry Niven and Jerry Pournelle in \"Oath of Fealty\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The \"cutting edge\" is getting rather dull.",
+         "extras":"",
+         "author":"Andy Purshottam"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The 11 is for people with the pride of a 10 and the pocketbook of an 8.",
+         "extras":"",
+         "author":"R.B. Greenberg [referring to PDPs?]"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The absence of labels [in ECL] is probably a good thing.",
+         "extras":"",
+         "author":"T. Cheatham"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The algorithm for finding the longest path in a graph is NP-complete. For you systems people, that means it's *real slow*.",
+         "extras":"Bart Miller",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The algorithm to do that is extremely nasty.  You might want to mug someone with it.\"",
+         "extras":"",
+         "author":"M. Devine, Computer Science 340"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Analytical Engine weaves Algebraical patterns just as the Jacquard loom weaves flowers and leaves.",
+         "extras":"",
+         "author":"Ada Augusta, Countess of Lovelace, the first programmer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The bad reputation UNIX has gotten is totally undeserved, laid on by people who don't understand, who have not gotten in there and tried anything.",
+         "extras":"",
+         "author":"Jim Joyce, owner of Jim Joyce's UNIX Bookstore"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best book on programming for the layman is \"Alice in Wonderland\"; but that's because it's the best book on anything for the layman.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best way to accelerate a Macintoy is at 9.8 meters per second per second.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The bogosity meter just pegged.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The bugs you have to avoid are the ones that give the user not only the inclination to get on a plane, but also the time.",
+         "extras":"",
+         "author":"Kay Bostic"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The C Programming Language -- A language which combines the flexibility of assembly language with the power of assembly language.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The clothes have no emperor.",
+         "extras":"",
+         "author":"C.A.R. Hoare, commenting on ADA."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The computer is to the information industry roughly what the central power station is to the electrical industry.",
+         "extras":"",
+         "author":"Peter Drucker"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"The Computer made me do it.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The computing field is always in need of new cliches.",
+         "extras":"",
+         "author":"Alan Perlis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The day-to-day travails of the IBM programmer are so amusing to most of us who are fortunate enough never to have been one -- like watching Charlie Chaplin trying to cook a shoe.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The debate rages on: Is PL/I Bachtrian or Dromedary?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between art and science is that science is what we understand well enough to explain to a computer.  Art is everything else.",
+         "extras":"",
+         "author":"Donald Knuth, \"Discover\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The disks are getting full; purge a file today.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The eleventh commandment was `Thou Shalt Compute' or `Thou Shalt Not Compute' -- I forget which.",
+         "extras":"",
+         "author":"Epigrams in Programming, ACM SIGPLAN Sept. 1982"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The first version always gets thrown away.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The flow chart is a most thoroughly oversold piece of program documentation.",
+         "extras":"",
+         "author":"Frederick Brooks, \"The Mythical Man Month\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The goal of Computer Science is to build something that will last at least until we've finished building it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The human mind ordinarily operates at only ten percent of its capacity -- the rest is overhead for the operating system.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The IBM 2250 is impressive ... if you compare it with a system selling for a tenth its price.",
+         "extras":"",
+         "author":"D. Cohen"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The IBM purchase of ROLM gives new meaning to the term \"twisted pair\".",
+         "extras":"",
+         "author":"Howard Anderson, \"Yankee Group\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The last time somebody said, \"I find I can write much better with a word processor.\", I replied, \"They used to say the same thing about drugs.\"",
+         "extras":"",
+         "author":"Roy Blount, Jr."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The less time planning, the more time programming.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The Macintosh is Xerox technology at its best.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The meat is rotten, but the booze is holding out.  Computer translation of \"The spirit is willing, but the flesh is weak.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The meta-Turing test counts a thing as intelligent if it seeks to devise and apply Turing tests to objects of its own creation.",
+         "extras":"",
+         "author":"Lew Mammel, Jr."
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The more data I punch in this card, the lighter it becomes, and the lower the mailing cost.",
+         "extras":"",
+         "author":"S. Kelly-Bootle, \"The Devil's DP Dictionary\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most important early product on the way to developing a good product is an imperfect version.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The moving cursor writes, and having written, blinks on.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The next person to mention spaghetti stacks to me is going to have his head knocked off.",
+         "extras":"",
+         "author":"Bill Conrad"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The nice thing about standards is that there are so many of them to choose from.",
+         "extras":"",
+         "author":"Andrew S. Tanenbaum"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The nicest thing about the Alto is that it doesn't run faster at night.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The notion of a \"record\" is an obsolete remnant of the days of the 80-column card.",
+         "extras":"",
+         "author":"Dennis M. Ritchie"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The number of arguments is unimportant unless some of them are correct.",
+         "extras":"",
+         "author":"Ralph Hartley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The number of computer scientists in a room is inversely proportional to the number of bugs in their code.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The number of UNIX installations has grown to 10, with more expected.",
+         "extras":"",
+         "author":" The Unix Programmer's Manual, 2nd Edition, June 1972"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only difference between a car salesman and a computer salesman is that the car salesman knows he's lying.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only thing cheaper than hardware is talk.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only thing worse than X Windows: (X Windows) - X",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The party adjourned to a hot tub, yes. Fully clothed, I might add.",
+         "extras":"",
+         "author":"IBM employee, testifying in California State Supreme Court"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The primary function of the design engineer is to make things difficult for the fabricator and impossible for the serviceman.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The program isn't debugged until the last user is dead.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The proof that IBM didn't invent the car is that it has a steering wheel and an accelerator instead of spurs and ropes, to be compatible with a horse.",
+         "extras":"",
+         "author":"Jac Goudsmit"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The question of whether computers can think is just like the question of whether submarines can swim.",
+         "extras":"",
+         "author":"Edsger W. Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The reason computer chips are so small is computers don't eat much.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The relative importance of files depends on their cost in terms of the human effort needed to regenerate them.",
+         "extras":"",
+         "author":"T.A. Dolotta"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The road to hell is paved with NAND gates.",
+         "extras":"",
+         "author":"J. Gooding"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The steady state of disks is full.",
+         "extras":"",
+         "author":"Ken Thompson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The system was down for backups from 5am to 10am last Saturday.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The system will be down for 10 days for preventive maintenance.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The trouble with computers is that they do what you tell them, not what you want.",
+         "extras":"",
+         "author":"D. Cohen"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The UNIX philosophy basically involves giving you enough rope to hang yourself.	And then a couple of feet more, just to be sure.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The use of anthropomorphic terminology when dealing with computing systems is a symptom of professional immaturity.",
+         "extras":"",
+         "author":"Edsger Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offence.",
+         "extras":"",
+         "author":"Edsger W. Dijkstra, SIGPLAN Notices, Volume 17, Number 5"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The value of a program is proportional to the weight of its output.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The world is coming to an end ... SAVE YOUR BUFFERS!!!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The world is coming to an end.	Please log off.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The world is not octal despite DEC.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The world will end in 5 minutes.  Please log out.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The young lady had an unusual list, Linked in part to a structural weakness. She set no preconditions.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"THEGODDESSOFTHENETHASTWISTINGFINGERSANDHERVOICEISLIKEAJAVELININTHENIGHTDUDE",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are never any bugs you haven't found yet.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are new messages.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are no games on this system.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are running jobs.	 Why don't you go chase them?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are three kinds of people: men, women, and unix.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are three possibilities: Pioneer's solar panel has turned away from the sun; there's a large meteor blocking transmission; someone loaded Star Trek 3.2 into our video processor.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.",
+         "extras":"",
+         "author":"Jeremy S. Anderson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are two ways to write error-free programs; only the third one works.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is is no reason for any individual to have a computer in their home.",
+         "extras":"",
+         "author":"Ken Olsen (President of Digital Equipment Corporation), Convention of the World Future Society, in Boston, 1977"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no distinction between any AI program and some existent game.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's got to be more to life than compile-and-go.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"They are called computers simply because computation is the only significant job that has so far been given to them.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"They are relatively good but absolutely terrible.",
+         "extras":"",
+         "author":"Alan Kay, commenting on Apollos"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Think of it!  With VLSI we can pack 100 ENIACs in 1 sq. cm.!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Think of your family tonight.  Try to crawl home after the computer crashes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This dungeon is owned and operated by Frobozz Magic Co., Ltd.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This file will self-destruct in five minutes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This is an unauthorized cybernetic announcement.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"This is lemma 1.1.  We start a new chapter so the numbers all go back to one.\"",
+         "extras":"",
+         "author":"Prof. Seager, C&O 351"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This login session: $13.76, but for you $11.88.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This login session: $13.99",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This process can check if this value is zero, and if it is, it does something child-like.",
+         "extras":"",
+         "author":"Forbes Burkowski, CS 454, University of Washington"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This screen intentionally left blank.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"This system will self-destruct in five minutes.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"* * * * * THIS TERMINAL IS IN USE * * * * *",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Those who can't write, write manuals.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Those who do not understand Unix are condemned to reinvent it, poorly.",
+         "extras":"",
+         "author":"Henry Spencer"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thrashing is just virtual crashing.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thus spake the master programmer: 	\"After three days without programming, life becomes meaningless.\"",
+         "extras":"",
+         "author":"Geoffrey James, \"The Tao of Programming\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thus spake the master programmer: 	\"Time for you to leave.\"",
+         "extras":"",
+         "author":"Geoffrey James, \"The Tao of Programming\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Thus spake the master programmer: 	\"When a program is being tested, it is too late to make design changes.\"",
+         "extras":"",
+         "author":"Geoffrey James, \"The Tao of Programming\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Time sharing: The use of many people by the computer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Time-sharing is the junk-mail part of the computer business.",
+         "extras":"",
+         "author":"H.R.J. Grosch (attributed)"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To be a kind of moral Unix, he touched the hem of Nature's shift.",
+         "extras":"",
+         "author":"Shelley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To communicate is the beginning of understanding.",
+         "extras":"",
+         "author":"AT&T"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To err is human -- to blame it on a computer is even more so.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To err is human, to forgive, beyond the scope of the Operating System.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To iterate is human, to recurse, divine.",
+         "extras":"",
+         "author":"Robert Heller"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To the systems programmer, users and applications serve only to provide a test load.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To understand a program you must become both the machine and the program.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Today is a good day for information-gathering.	Read someone else's mail file.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Today is the first day of the rest of your lossage.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Tomorrow's computers some time next month.",
+         "extras":"",
+         "author":"DEC"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Trap full -- please empty.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Truly simple systems... require infinite testing.",
+         "extras":"",
+         "author":"Norman Augustine"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Try `stty 0' -- it works much better.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"try again",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Trying to be happy is like trying to build a machine for which the only specification is that it should run noiselessly.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Trying to establish voice contact ... please yell into keyboard.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Type louder, please.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":" U	 X e dUdX, e dX, cosine, secant, tangent, sine, 3.14159...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ummm, well, OK. The network's the network, the computer's the computer. Sorry for the confusion.",
+         "extras":"",
+         "author":"Sun Microsystems"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"UNIX enhancements aren't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Unix is a Registered Bell of AT&T Trademark Laboratories.",
+         "extras":"",
+         "author":"Donn Seeley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"* UNIX is a Trademark of Bell Laboratories.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"UNIX is hot.  It's more than hot.  It's steaming.  It's quicksilver lightning with a laserbeam kicker.",
+         "extras":"",
+         "author":"Michael Jay Tucker"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"UNIX is many things to many people, but it's never been everything to anybody.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Unix is the worst operating system; except for all others.",
+         "extras":"",
+         "author":"Berry Kercheval"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Unix soit qui mal y pense 	[Unix to him who evil thinks?]",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"UNIX was half a billion (500000000) seconds old on Tue Nov	 5 00:53:20 1985 GMT (measuring since the time(2) epoch).",
+         "extras":"",
+         "author":"Andy Tannenbaum"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"UNIX was not designed to stop you from doing stupid things, because that would also stop you from doing clever things.",
+         "extras":"",
+         "author":"Doug Gwyn"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Unix will self-destruct in five seconds... 4... 3... 2... 1...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Usage: fortune -P [-f] -a [xsz] Q: file [rKe9] -v6[+] file1 ...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"USENET would be a better laboratory is there were more labor and less oratory.",
+         "extras":"",
+         "author":"Elizabeth Haley"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"User hostile.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Using TSO is like kicking a dead whale down the beach.",
+         "extras":"",
+         "author":"S.C. Johnson"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"/usr/news/gotcha",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Variables don't; constants aren't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Vax Vobiscum",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Virtual\" means never knowing where your next byte is coming from.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Vitamin C deficiency is apauling.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"VMS Beer: Requires minimal user interaction, except for popping the top  and sipping.  However cans have been known on occasion to explode, or  contain extremely un-beer-like contents.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"VMS is like a nightmare about RXS-11M.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"VMS version 2.0 ==>",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"<< WAIT >>",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wasn't there something about a PASCAL programmer knowing the value of everything and the Wirth of nothing?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We all agree on the necessity of compromise.  We just can't agree on when it's necessary to compromise.",
+         "extras":"",
+         "author":"Larry Wall"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are drowning in information but starved for knowledge.",
+         "extras":"",
+         "author":"John Naisbitt, Megatrends"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are experiencing system trouble -- do not adjust your terminal.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are Microsoft.  Unix is irrelevant.	Openness is futile.  Prepare to be assimilated.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We are not a clone.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"We are on the verge: Today our program proved Fermat's next-to-last theorem.\"",
+         "extras":"",
+         "author":"Epigrams in Programming, ACM SIGPLAN Sept. 1982"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We can found no scientific discipline, nor a healthy profession on the technical mistakes of the Department of Defense and IBM.",
+         "extras":"",
+         "author":"Edsger Dijkstra"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We don't really understand it, so we'll give it to the programmers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We don't understand the software, and sometimes we don't understand the hardware, but we can *see* the blinking lights!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"[We] use bad software and bad machines for the wrong things.",
+         "extras":"",
+         "author":"R.W. Hamming"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What is the difference between a Turing machine and the modern computer? It's the same as that between Hillary's ascent of Everest and the establishment of a Hilton on its peak.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What this country needs is a good five cent microcomputer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When Dexter's on the Internet, can Hell be far behind?\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"... when fits of creativity run strong, more than one programmer or writer has been known to abandon the desktop for the more spacious floor.",
+         "extras":"",
+         "author":"Fred Brooks"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When someone says \"I want a programming language in which I need only say what I wish done,\" give him a lollipop.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When we understand knowledge-based systems, it will be as before -- except our fingertips will have been singed.",
+         "extras":"",
+         "author":"Epigrams in Programming, ACM SIGPLAN Sept. 1982"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When we write programs that \"learn\", it turns out we do and they don't.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whenever a system becomes completely defined, some damn fool discovers something which either abolishes the system or expands it beyond recognition.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Who cares if it doesn't do anything?  It was made with our new Triple-Iso-Bifurcated-Krypton-Gate-MOS process ...\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whom computers would destroy, they must first drive mad.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why are programmers non-productive? Because their time is wasted in meetings.",
+         "extras":"",
+         "author":"Geoffrey James, \"The Tao of Programming\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why are programmers rebellious? Because the management interferes too much.",
+         "extras":"",
+         "author":"Geoffrey James, \"The Tao of Programming\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why are the programmers resigning one by one? Because they are burnt out.",
+         "extras":"",
+         "author":"Geoffrey James, \"The Tao of Programming\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Having worked for poor management, they no longer value their jobs.",
+         "extras":"",
+         "author":"Geoffrey James, \"The Tao of Programming\""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why did the Roman Empire collapse?  What is the Latin for office automation?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why do we want intelligent terminals  when there are so many stupid users?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"With your bare hands?!?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Within a computer, natural language is unnatural.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Work continues in this area.",
+         "extras":"",
+         "author":"DEC's SPR-Answering-Automaton"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Would you people stop playing these stupid games?!?!?!!!!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Writing software is more fun than working.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Yea, though I walk through the valley of the shadow of APL, I shall fear no evil, for I can string six primitive monadic and dyadic operators together.",
+         "extras":"",
+         "author":"Steve Higgins"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Yes, we will be going to OSI, Mars, and Pluto, but not necessarily in that order.",
+         "extras":"",
+         "author":"Jeffrey Honig"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You are an insult to my intelligence!  I demand that you log off immediately.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You are false data.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You are in a maze of little twisting passages, all alike.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You are in a maze of little twisting passages, all different.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You are in the hall of the mountain king.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You are lost in the Swamps of Despair.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can be replaced by this computer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can bring any calculator you like to the midterm, as long as it doesn't dim the lights when you turn it on.",
+         "extras":"",
+         "author":"Hepler, Systems Design 182"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can do this in a number of ways.  IBM chose to do all of them. Why do you find that funny?",
+         "extras":"",
+         "author":"D. Taylor, Computer Science 350"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can measure a programmer's perspective by noting his attitude on the continuing viability of FORTRAN.",
+         "extras":"",
+         "author":"Alan Perlis"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can now buy more gates with less specifications than at any other time in history.",
+         "extras":"",
+         "author":"Kenneth Parker"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can tell how far we have to go, when FORTRAN is the language of supercomputers.",
+         "extras":"",
+         "author":"Steven Feiner"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can write a small letter to Grandma in the filename.",
+         "extras":"",
+         "author":"Forbes Burkowski, CS, University of Washington"
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't go home again, unless you set $HOME.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"You can't make a program without broken egos.\"",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't take damsel here now.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You do not have mail.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You don't have to know how the computer works, just how to work the computer.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You had mail, but the super-user read it, and deleted it!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You had mail.  Paul read it, so ask him what it said.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have a massage (from the Swedish prime minister).",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have a message from the operator.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have a tendency to feel you are superior to most computers.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have junk mail.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have mail.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You know you've been spending too much time on the computer when your friend misdates a check, and you suggest adding a \"++\" to fix it.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You know, Callahan's is a peaceable bar, but if you ask that dog what his favorite formatter is, and he says \"roff! roff!\", well, I'll just have to...",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You might have mail.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You must realize that the computer has it in for you.  The irrefutable proof of this is that the computer always does what you tell it to do.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You scratch my tape, and I'll scratch yours.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You will have a head crash on your private pack.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You will have many recoverable tape errors.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You will lose an important disk file.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You will lose an important tape file.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You're already carrying the sphere!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You're at Witt's End.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You're not Dave.  Who are you?",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You're using a keyboard!  How quaint!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You've been Berkeley'ed!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your code should be more efficient!",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your computer account is overdrawn.  Please reauthorize.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your computer account is overdrawn.  Please see Big Brother.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your fault -- core dumped",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your files are now being encrypted and thrown into the bit bucket. EOF",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your mode of life will be changed to ASCII.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your mode of life will be changed to EBCDIC.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your password is pitifully obvious.",
+         "extras":"",
+         "author":""
+      },	
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Your program is sick!  Shoot it and put it out of its memory. ",
+         "extras":"",
+         "author":""
+      }
+ ]
+}

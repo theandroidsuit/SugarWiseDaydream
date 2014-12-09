@@ -1,0 +1,2932 @@
+{
+   "type": "Men & Women",
+   "total": "",
+   "wisdom":[
+      {
+         "id":"",
+         "title":"",
+         "sentence":"4% of the women in America are beautiful and the rest hang out around here."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bachelor is a man who never made the same mistake once."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bachelor is a selfish, undeserving guy who has cheated some woman out of a divorce. ",
+         "extras":"",
+         "author":" Don Quinn"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bachelor is an unaltared male."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bachelor never quite gets over the idea that he is a thing of beauty and a boy for ever. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A bad marriage is like a horse with a broken leg, you can shoot the horse, but it don't fix the leg."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A beautiful man is paradise for the eyes, hell for the soul, and purgatory for the purse. "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A beautiful woman is a blessing from Heaven, but a good cigar is a smoke. ",
+         "extras":"",
+         "author":" Kipling"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A beautiful woman is a picture which drives all beholders nobly mad. ",
+         "extras":"",
+         "author":" Emerson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A boy can learn a lot from a dog: obedience, loyalty, and the importance of turning around three times before lying down. ",
+         "extras":"",
+         "author":" Robert Benchley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A boy gets to be a man when a man is needed. ",
+         "extras":"",
+         "author":" John Steinbeck"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A diplomat is man who always remembers a woman's birthday but never her age. ",
+         "extras":"",
+         "author":" Robert Frost"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A diplomatic husband said to his wife, \"How do you expect me to remember your birthday when you never look any older?\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" A domineering man married a mere wisp of a girl.  He came back from his honeymoon a chastened man. He'd become aware of the will of the wisp."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A figure with curves always offers a lot of interesting angles."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A fool and his honey are soon parted."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A fox is a wolf who sends flowers. ",
+         "extras":"",
+         "author":" Ruth Weston"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A gentleman is a man who wouldn't hit a lady with his hat on. ",
+         "extras":"",
+         "author":" Evan Esar   [ And why not? For why does she have his hat on?  Ed.]"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A gentleman never strikes a lady with his hat on. ",
+         "extras":"",
+         "author":" Fred Allen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A girl with a future avoids the man with a past. ",
+         "extras":"",
+         "author":" Evan Esar, \"The Humor of Humor\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A girl's best friend is her mutter. ",
+         "extras":"",
+         "author":" Dorothy Parker"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A girl's conscience doesn't really keep her from doing anything wrong -- it merely keeps her from enjoying it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A good man always knows his limitations. ",
+         "extras":"",
+         "author":" Harry Callahan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A good marriage would be between a blind wife and deaf husband. ",
+         "extras":"",
+         "author":" Michel de Montaigne"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A guy has to get fresh once in a while so a girl doesn't lose her confidence."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A hammer sometimes misses its mark - a bouquet never."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A husband is what is left of the lover after the nerve has been extracted. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A lady is one who never shows her underwear unintentionally. ",
+         "extras":"",
+         "author":" Lillian Day"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man always needs to remember one thing about a beautiful woman.  Somewhere, somebody's tired of her."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man always remembers his first love with special tenderness, but after that begins to bunch them. ",
+         "extras":"",
+         "author":" Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man can have two, maybe three love affairs while he's married.  After that it's cheating. ",
+         "extras":"",
+         "author":" Yves Montand"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man does not look behind the door unless he has stood there himself. ",
+         "extras":"",
+         "author":" Du Bois"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man in love is incomplete until he is married.  Then he is finished. ",
+         "extras":"",
+         "author":" Zsa Zsa Gabor, \"Newsweek\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man is already halfway in love with any woman who listens to him. ",
+         "extras":"",
+         "author":" Brendan Francis"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man is like a rusty wheel on a rusty cart, He sings his song as he rattles along and then he falls apart. ",
+         "extras":"",
+         "author":" Richard Thompson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man may be so much of everything that he is nothing of anything. ",
+         "extras":"",
+         "author":" Samuel Johnson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man may sometimes be forgiven the kiss to which he is not entitled, but never the kiss he has not the initiative to claim."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man usually falls in love with a woman who asks the kinds of questions he is able to answer. ",
+         "extras":"",
+         "author":" Ronald Colman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man without a woman is like a statue without pigeons."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man wrapped up in himself makes a very small package."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A man's gotta know his limitations. ",
+         "extras":"",
+         "author":" Clint Eastwood, \"Dirty Harry\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A modest woman, dressed out in all her finery, is the most tremendous object in the whole creation. ",
+         "extras":"",
+         "author":" Goldsmith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A mother takes twenty years to make a man of her boy, and another woman makes a fool of him in twenty minutes. ",
+         "extras":"",
+         "author":" Frost"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A pedestal is as much a prison as any small, confined space. ",
+         "extras":"",
+         "author":" Gloria Steinem"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A pretty woman can do anything; an ugly woman must do everything."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A psychiatrist is a fellow who asks you a lot of expensive questions your wife asks you for nothing. ",
+         "extras":"",
+         "author":" Joey Adams"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" A pushy romeo asked a gorgeous elevator operator, \"Don't all these stops and starts get you pretty worn out?\"  \"It isn't the stops and starts that get on my nerves, it's the jerks.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A real gentleman never takes bases unless he really has to. ",
+         "extras":"",
+         "author":" Overheard in an algebra lecture."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A wife lasts only for the length of the marriage, but an ex-wife is there *for the rest of your life*. ",
+         "extras":"",
+         "author":" Jim Samuels"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman can look both moral and exciting -- if she also looks as if it were quite a struggle. ",
+         "extras":"",
+         "author":" Edna Ferber"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman can never be too rich or too thin."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman did what a woman had to, the best way she knew how. To do more was impossible, to do less, unthinkable. ",
+         "extras":"",
+         "author":" Dirisha, \"The Man Who Never Missed\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman forgives the audacity of which her beauty has prompted us to be guilty. ",
+         "extras":"",
+         "author":" LeSage"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman has got to love a bad man once or twice in her life to be thankful for a good one. ",
+         "extras":"",
+         "author":" Marjorie Kinnan Rawlings"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman is like your shadow; follow her, she flies; fly from her, she follows. ",
+         "extras":"",
+         "author":" Chamfort"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman may very well form a friendship with a man, but for this to endure, it must be assisted by a little physical antipathy. ",
+         "extras":"",
+         "author":" Nietzsche"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman shouldn't have to buy her own perfume. ",
+         "extras":"",
+         "author":" Maurine Lewis"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman without a man is like a fish without a bicycle. ",
+         "extras":"",
+         "author":" Gloria Steinem"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman without a man is like a fish without a bicycle. Therefore, a man without a woman is like a bicycle without a fish."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman's best protection is a little money of her own. ",
+         "extras":"",
+         "author":" Clare Booth Luce, quoted in \"The Wit of Women\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman's place is in the house... and in the Senate."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"A woman, especially if she have the misfortune of knowing anything, should conceal it as well as she can. ",
+         "extras":"",
+         "author":" Jane Austen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" A young husband with an inferiority complex insisted he was just a little pebble on the beach.  The marriage counselor told him, \"If you wish to save your marriage, you'd better be a little boulder.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"AAAAAAAAAaaaaaaaaaaaaaaaccccccccckkkkkk!!!!!!!!! You brute!  Knock before entering a ladies room!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Ain't nothin' an old man can do for me but bring me a message from a young man. ",
+         "extras":"",
+         "author":" Moms Mabley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Alimony is a system by which, when two people make a mistake, one of them continues to pay for it. ",
+         "extras":"",
+         "author":" Peggy Joyce"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Alimony is like buying oats for a dead horse. ",
+         "extras":"",
+         "author":" Arthur Baer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Alimony is the curse of the writing classes. ",
+         "extras":"",
+         "author":" Norman Mailer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All heiresses are beautiful. ",
+         "extras":"",
+         "author":" John Dryden"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All husbands are alike, but they have different faces so you can tell them apart."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All most men really want in life is a wife, a house, two kids and a car, a cat, no maybe a dog. Ummm, scratch one of the kids and add a dog. Definitely a dog."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All the men on my staff can type. ",
+         "extras":"",
+         "author":" Bella Abzug"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"All work and no pay makes a housewife."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"An optimist is a man who looks forward to marriage. A pessimist is a married optimist."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any girl can be glamorous; all you have to do is stand still and look stupid. ",
+         "extras":"",
+         "author":" Hedy Lamarr"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Any woman is a volume if one knows how to read her."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Anyone who says he can see through women is missing a lot. ",
+         "extras":"",
+         "author":" Groucho Marx"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"At last I've found the girl of my dreams.  Last night she said to me, \"Once more, Strange, and this time *I'll* be Donnie and *you* be Marie. ",
+         "extras":"",
+         "author":" Strange de Jim"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bachelors' wives and old maids' children are always perfect. ",
+         "extras":"",
+         "author":" Nicolas Chamfort"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Basically my wife was immature.  I'd be at home in the bath and she'd come in and sink my boats. ",
+         "extras":"",
+         "author":" Woody Allen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be circumspect in your liaisons with women.  It is better to be seen at the opera with a man than at mass with a woman. ",
+         "extras":"",
+         "author":" De Maintenon"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Be prepared to accept sacrifices.  Vestal virgins aren't all that bad."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beauty seldom recommends one woman to another."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Beauty, brains, availability, personality; pick any two."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Before marriage the three little words are \"I love you,\" after marriage they are \"Let's eat out.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Behind every successful man you'll find a woman with nothing to wear."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Being owned by someone used to be called slavery -- now it's called commitment."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Bigamy is having one spouse too many.  Monogamy is the same."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Birds and bees have as much to do with the facts of life as black nightgowns do with keeping warm. ",
+         "extras":"",
+         "author":" Hester Mundis, \"Powermom\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Boys are beyond the range of anybody's sure understanding, at least when they are between the ages of 18 months and 90 years. ",
+         "extras":"",
+         "author":" James Thurber"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Boys will be boys, and so will a lot of middle-aged men. ",
+         "extras":"",
+         "author":" Kin Hubbard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Brigands will demand your money or your life, but a woman will demand both. ",
+         "extras":"",
+         "author":" Samuel Butler"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"By all means marry: If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher. ",
+         "extras":"",
+         "author":" Socrates"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Changing husbands/wives is only changing troubles. ",
+         "extras":"",
+         "author":" Kathleen Norris"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Choose in marriage only a woman whom you would choose as a friend if she were a man. ",
+         "extras":"",
+         "author":" Joubert"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Courtship to marriage, as a very witty prologue to a very dull play. ",
+         "extras":"",
+         "author":" William Congreve"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Darling: the popular form of address used in speaking to a member of the opposite sex whose name you cannot at the moment remember. ",
+         "extras":"",
+         "author":" Oliver Herford"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do not permit a woman to ask forgiveness, for that is only the first step.  The second is justification of herself by accusation of you. ",
+         "extras":"",
+         "author":" DeGourmont"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Do you think your mother and I should have lived comfortably so long together if ever we had been married?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't assume that every sad-eyed woman has loved and lost -- she may have got him."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't know what time I'll be back, Mom.  Probably soon after she throws me out."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Don't marry for money; you can borrow it cheaper. ",
+         "extras":"",
+         "author":" Scottish Proverb"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Dull women have immaculate homes."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Economists are still trying to figure out why the girls with the least principle draw the most interest."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Eighty percent of married men cheat in America.  The rest cheat in Europe. ",
+         "extras":"",
+         "author":" Jackie Mason"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"... eighty years later he could still recall with the young pang of his original joy his falling in love with Ada. ",
+         "extras":"",
+         "author":" Nabokov"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Even nowadays a man can't step up and kill a woman without feeling just a bit unchivalrous ...\" ",
+         "extras":"",
+         "author":" Robert Benchley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Every man who is high up likes to think that he has done it all himself, and the wife smiles and lets it go at that. ",
+         "extras":"",
+         "author":" Barrie"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Everybody is given the same amount of hormones, at birth, and if you want to use yours for growing hair, that's fine with me."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Farmers in the Iowa State survey rated machinery breakdowns more stressful than divorce. ",
+         "extras":"",
+         "author":" Wall Street Journal"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Feminists just want the human race to be a tie."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"First love is only a little foolishness and a lot of curiosity, no really self-respecting woman would take advantage of it. ",
+         "extras":"",
+         "author":" George Bernard Shaw, \"John Bull's Other Island\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Flirting is the gentle art of making a man feel pleased with himself. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"For I swore I would stay a year away from her; out and alas! but with break of day I went to make supplication. ",
+         "extras":"",
+         "author":" Paulus Silentarius, c. 540 A.D."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Fortunate is he for whom the belle toils."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"if all men have made at least once.  There are community colleges that offer courses to help men get over this need; alas, these classes rarely prove effective."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" Fred noticed his roommate had a black eye upon returning from a dance. \"What happened?\"  \"I was struck by the beauty of the place.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Genuine happiness is when a wife sees a double chin on her husband's old girl friend."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Girls are better looking in snowstorms. ",
+         "extras":"",
+         "author":" Archie Goodwin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Girls really do know just what they want -- you to figure it out for yourself!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Girls who throw themselves at men, are actually taking very careful aim."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Give a woman an inch and she'll park a car in it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God created a few perfect heads.  The rest he covered with hair."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"God created woman.  And boredom did indeed cease from that moment -- but many other things ceased as well.  Woman was God's second mistake. ",
+         "extras":"",
+         "author":" Nietzsche"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Good girls go to heaven, bad girls go everywhere."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He gave her a look that you could have poured on a waffle."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"He who enters his wife's dressing room is a philosopher or a fool. ",
+         "extras":"",
+         "author":" Balzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Hey, Jim, it's me, Susie Lillis from the laundromat.  You said you were gonna call and it's been two weeks.  What's wrong, you lose my number?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"High heels are a device invented by a woman who was tired of being kissed on the forehead."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"His designs were strictly honourable, as the phrase is: that is, to rob a lady of her fortune by way of marriage. ",
+         "extras":"",
+         "author":" Henry Fielding, \"Tom Jones\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"Home, Sweet Home\" must surely have been written by a bachelor. ",
+         "extras":"",
+         "author":" Samuel Butler"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Horace's best ode would not please a young woman as much as the mediocre verses of the young man she is in love with. ",
+         "extras":"",
+         "author":" Moore"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"How much for your women?  I want to buy your daughter... how much for the little girl? ",
+         "extras":"",
+         "author":" Jake Blues, \"The Blues Brothers\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" \"How would I know if I believe in love at first sight?\" the sexy social climber said to her roommate.  \"I mean, I've never seen a Porsche full of money before.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I am very fond of the company of ladies.  I like their beauty, I like their delicacy, I like their vivacity, and I like their silence. ",
+         "extras":"",
+         "author":" Samuel Johnson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I believe a little incompatibility is the spice of life, particularly if he has income and she is pattable. ",
+         "extras":"",
+         "author":" Ogden Nash"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I can't mate in captivity. ",
+         "extras":"",
+         "author":" Gloria Steinem, on why she has never married."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I come from a small town whose population never changed.  Each time a woman got pregnant, someone left town. ",
+         "extras":"",
+         "author":" Michael Prichard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I do enjoy a good long walk -- especially when my wife takes one."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"I don't have to take this abuse from you -- I've got hundreds of people waiting to abuse me.\" ",
+         "extras":"",
+         "author":" Bill Murray, \"Ghostbusters\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I have a hard time being attracted to anyone who can beat me up. ",
+         "extras":"",
+         "author":" John McGrath, Atlanta sportswriter, on women weightlifters."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I know the disposition of women: when you will, they won't; when you won't, they set their hearts upon you of their own inclination. ",
+         "extras":"",
+         "author":" Publius Terentius Afer (Terence)"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I learned to play guitar just to get the girls, and anyone who says they didn't is just lyin'! ",
+         "extras":"",
+         "author":" Willie Nelson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I like being single.  I'm always there when I need me. ",
+         "extras":"",
+         "author":" Art Leo"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I like myself, but I won't say I'm as handsome as the bull that kidnapped Europa. ",
+         "extras":"",
+         "author":" Marcus Tullius Cicero"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I like young girls.  Their stories are shorter. ",
+         "extras":"",
+         "author":" Tom McGuane"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I love being married.  It's so great to find that one special person you want to annoy for the rest of your life. ",
+         "extras":"",
+         "author":" Rita Rudner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I love Mickey Mouse more than any woman I've ever known. ",
+         "extras":"",
+         "author":" Walt Disney"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I married beneath me.  All women do. ",
+         "extras":"",
+         "author":" Lady Nancy Astor"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I met a wonderful new man.  He's fictional, but you can't have everything. ",
+         "extras":"",
+         "author":" Cecelia, \"The Purple Rose of Cairo\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I never expected to see the day when girls would get sunburned in the places they do today. ",
+         "extras":"",
+         "author":" Will Rogers"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I never met a woman I couldn't drink pretty."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I read Playboy for the same reason I read National Geographic. To see the sights I'm never going to visit."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I refuse to consign the whole male sex to the nursery. I insist on believing that some men are my equals. ",
+         "extras":"",
+         "author":" Brigid Brophy"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I respect the institution of marriage. I have always thought that every woman should marry -- and no man. ",
+         "extras":"",
+         "author":" Benjamin Disraeli, \"Lothair\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I sat down beside her, said hello, offered to buy her a drink... and then natural selection reared its ugly head."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I think she must have been very strictly brought up, she's so desperately anxious to do the wrong thing correctly. ",
+         "extras":"",
+         "author":" Saki, \"Reginald on Worries\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I think the world is ready for the story of an ugly duckling, who grew up to remain an ugly duckling, and lived happily ever after. ",
+         "extras":"",
+         "author":" Chick"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I want to buy a husband who, every week when I sit down to watch \"St. Elsewhere\", won't scream, \"Forget it, Blanche... It's time for Hee-Haw!\" ",
+         "extras":"",
+         "author":" Berke Breathed, \"Bloom County\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I want to marry a girl just like the girl that married dear old dad. ",
+         "extras":"",
+         "author":" Freud"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I was in a beauty contest one. I not only came in last, I was hit in the mouth by Miss Congeniality. ",
+         "extras":"",
+         "author":" Phyllis Diller"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I wasn't kissing her, I was whispering in her mouth. ",
+         "extras":"",
+         "author":" Chico Marx"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I will not say that women have no character; rather, they have a new one every day. ",
+         "extras":"",
+         "author":" Heine"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I would gladly raise my voice in praise of women, only they won't let me raise my voice. ",
+         "extras":"",
+         "author":" Winkle"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I wouldn't marry her with a ten foot pole."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'd probably settle for a vampire if he were romantic enough. Couldn't be any worse than some of the relationships I've had. ",
+         "extras":"",
+         "author":" Brenda Starr"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'd rather have two girls at 21 each than one girl at 42. ",
+         "extras":"",
+         "author":" W.C. Fields"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm defending her honor, which is more than she ever did."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm not denyin' the women are foolish: God Almighty made 'em to match the men. ",
+         "extras":"",
+         "author":" George Eliot"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I'm very old-fashioned.  I believe that people should marry for life, like pigeons and Catholics. ",
+         "extras":"",
+         "author":" Woody Allen"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"I've been in more laps than a napkin. ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I had to live my life again, I'd make the same mistakes, only sooner. ",
+         "extras":"",
+         "author":" Tallulah Bankhead"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If I told you you had a beautiful body, would you hold it against me?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If it were not for the presents, an elopement would be preferable. ",
+         "extras":"",
+         "author":" George Ade, \"Forty Modern Fables\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If men acted after marriage as they do during courtship, there would be fewer divorces -- and more bankruptcies. ",
+         "extras":"",
+         "author":" Frances Rodman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If the girl you love moves in with another guy once, it's more than enough. Twice, it's much too much.  Three times, it's the story of your life."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If there is any realistic deterrent to marriage, it's the fact that you can't afford divorce. ",
+         "extras":"",
+         "author":" Jack Nicholson"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If we men married the women we deserved, we should have a very bad time of it. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If women didn't exist, all the money in the world would have no meaning. ",
+         "extras":"",
+         "author":" Aristotle Onassis"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you are afraid of loneliness, don't marry. ",
+         "extras":"",
+         "author":" Anton Chekhov"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you are looking for a kindly, well-to-do older gentleman who is no longer interested in sex, take out an ad in The Wall Street Journal. ",
+         "extras":"",
+         "author":" Abigail Van Buren"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you give a man enough rope, he'll claim he's tied up at the office."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you marry a man who cheats on his wife, you'll be married to a man who cheats on his wife. ",
+         "extras":"",
+         "author":" Ann Landers"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you MUST get married, it is always advisable to marry beauty. Otherwise, you'll never find anybody to take her off your hands."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you want me to be a good little bunny just dangle some carats in front of my nose. ",
+         "extras":"",
+         "author":" Lauren Bacall"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you want to be ruined, marry a rich woman. ",
+         "extras":"",
+         "author":" Michelet"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you want to read about love and marriage you've got to buy two separate books. ",
+         "extras":"",
+         "author":" Alan King"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you want your spouse to listen and pay strict attention to every word you say, talk in your sleep."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"If you wish women to love you, be original; I know a man who wore fur boots summer and winter, and women fell in love with him. ",
+         "extras":"",
+         "author":" Anton Chekhov"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In buying horses and taking a wife shut your eyes tight and commend yourself to God."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In Christianity, a man may have only one wife. This is called Monotony."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In marriage, as in war, it is permitted to take every advantage of the enemy."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"In olden times sacrifices were made at the altar -- a practice which is still continued. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Insanity is considered a ground for divorce, though by the very same token it is the shortest detour to marriage. ",
+         "extras":"",
+         "author":" Wilson Mizner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Is a wedding successful if it comes off without a hitch?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Isn't it ironic that many men spend a great part of their lives avoiding marriage while single-mindedly pursuing those things that would make them better prospects?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It [marriage] happens as with cages: the birds without despair to get in, and those within despair of getting out. ",
+         "extras":"",
+         "author":" Michel Eyquem de Montaigne"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It doesn't much signify whom one marries, for one is sure to find out next morning it was someone else. ",
+         "extras":"",
+         "author":" Will Rogers"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is idle to attempt to talk a young woman out of her passion: love does not lie in the ear. ",
+         "extras":"",
+         "author":" Walpole"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is now quite lawful for a Catholic woman to avoid pregnancy by a resort to mathematics, though she is still forbidden to resort to physics and chemistry. ",
+         "extras":"",
+         "author":" H.L. Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It is possible that blondes also prefer gentlemen. ",
+         "extras":"",
+         "author":" Maimie Van Doren"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It takes a smart husband to have the last word and not use it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It wasn't exactly a divorce -- I was traded. ",
+         "extras":"",
+         "author":" Tim Conway"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's a funny thing that when a woman hasn't got anything on earth to worry about, she goes off and gets married."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"It's men like him that give the Y chromosome a bad name.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not the inital skirt length, it's the upcreep."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's not the men in my life, but the life in my men that counts. ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"It's the good girls who keep the diaries, the bad girls never have the time. ",
+         "extras":"",
+         "author":" Tallulah Bankhead"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" It's the theory of Jess Birnbaum, of Time magazine, that women with bad legs should stick to long skirts because they cover a multitude of shins."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Keep a diary and one day it'll keep you. ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Keep your eyes wide open before marriage, half shut afterwards. ",
+         "extras":"",
+         "author":" Benjamin Franklin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Kissing your hand may make you feel very good, but a diamond and sapphire bracelet lasts for ever. ",
+         "extras":"",
+         "author":" Anita Loos, \"Gentlemen Prefer Blondes\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Large increases in cost with questionable increases in performance can be tolerated only in race horses and women. ",
+         "extras":"",
+         "author":" Lord Kalvin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Let thy maid servant be faithful, strong, and homely. ",
+         "extras":"",
+         "author":" Benjamin Franklin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life begins at the centerfold and expands outward. ",
+         "extras":"",
+         "author":" Miss November, 1966"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Life's too short to dance with ugly women."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Like all young men, you greatly exaggerate the difference between one young woman and another. ",
+         "extras":"",
+         "author":" George Bernard Shaw, \"Major Barbara\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Like the ski resort of girls looking for husbands and husbands looking for girls, the situation is not as symmetrical as it might seem. ",
+         "extras":"",
+         "author":" Alan McKay"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Little girls, like butterflies, need no excuse. ",
+         "extras":"",
+         "author":" Lazarus Long"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lonely men seek companionship. Lonely women sit at home and wait. They never meet."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Lots of girls can be had for a song.  Unfortunately, it often turns out to be the wedding march."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Love is an ideal thing, marriage a real thing; a confusion of the real with the ideal never goes unpunished. ",
+         "extras":"",
+         "author":" Goethe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Love is an obsessive delusion that is cured by marriage. ",
+         "extras":"",
+         "author":" Dr. Karl Bowman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Love is the delusion that one woman differs from another. ",
+         "extras":"",
+         "author":" H.L. Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Love makes fools, marriage cuckolds, and patriotism malevolent imbeciles. ",
+         "extras":"",
+         "author":" Paul Leautaud, \"Passe-temps\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Macho does not prove mucho. ",
+         "extras":"",
+         "author":" Zsa Zsa Gabor"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Man and wife make one fool."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Many a man has fallen in love with a girl in a light so dim he would not have chosen a suit by it. ",
+         "extras":"",
+         "author":" Maurice Chevalier"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Many a man in love with a dimple makes the mistake of marrying the whole girl. ",
+         "extras":"",
+         "author":" Stephen Leacock"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Many a man who thinks he's going on a maiden voyage with a woman finds out later that it was just a shake-down cruise."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Many a wife thinks her husband is the world's greatest lover. But she can never catch him at it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Many husbands go broke on the money their wives save on sales."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage always demands the greatest understanding of the art of insincerity possible between two human beings. ",
+         "extras":"",
+         "author":" Vicki Baum"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage causes dating problems."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is a ghastly public confession of a strictly private intention."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is a great institution -- but I'm not ready for an institution yet. ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is a lot like the army, everyone complains, but you'd be surprised at the large number that re-enlist. ",
+         "extras":"",
+         "author":" James Garner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is a romance in which the hero dies in the first chapter."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is a three ring circus: engagement ring, wedding ring, and suffering. ",
+         "extras":"",
+         "author":" Roger Price"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is an institution in which two undertake to become one, and one undertakes to become nothing."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is learning about women the hard way."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is like twirling a baton, turning handsprings, or eating with chopsticks.  It looks easy until you try it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is low down, but you spend the rest of your life paying for it. ",
+         "extras":"",
+         "author":" Baskins"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is not merely sharing the fettucine, but sharing the burden of finding the fettucine restaurant in the first place. ",
+         "extras":"",
+         "author":" Calvin Trillin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is the only adventure open to the cowardly. ",
+         "extras":"",
+         "author":" Voltaire"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is the process of finding out what kind of man your wife would have preferred."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage is the waste-paper basket of the emotions."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriage, in life, is like a duel in the midst of a battle. ",
+         "extras":"",
+         "author":" Edmond About"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marriages are made in heaven and consummated on earth. ",
+         "extras":"",
+         "author":" John Lyly"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Marry in haste and everyone starts counting the months."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Matrimony is the root of all evil."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Matrimony isn't a word, it's a sentence."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men are always ready to respect anything that bores them. ",
+         "extras":"",
+         "author":" Marilyn Monroe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men are those creatures with two legs and eight hands. ",
+         "extras":"",
+         "author":" Jayne Mansfield"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men aren't attracted to me by my mind. They're attracted by what I don't mind... ",
+         "extras":"",
+         "author":" Gypsy Rose Lee"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men have a much better time of it than women; for one thing they marry later; for another thing they die earlier. ",
+         "extras":"",
+         "author":" H.L. Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men have as exaggerated an idea of their rights as women have of their wrongs. ",
+         "extras":"",
+         "author":" E.W. Howe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men live for three things, fast cars, fast women and fast food."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men never make passes at girls wearing glasses. ",
+         "extras":"",
+         "author":" Dorothy Parker"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men of quality are not afraid of women for equality."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men say of women what pleases them; women do with men what pleases them. ",
+         "extras":"",
+         "author":" DeSegur"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men seldom show dimples to girls who have pimples."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men still remember the first kiss after women have forgotten the last."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Men who cherish for women the highest respect are seldom popular with them. ",
+         "extras":"",
+         "author":" Joseph Addison"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Miguel Cervantes wrote Donkey Hote.  Milton wrote Paradise Lost, then his wife died and he wrote Paradise Regained."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Moe: What did you give your wife for Valentine's Day? Joe: The usual gift -- she ate my heart out."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Money and women are the most sought after and the least known of any two things we have. ",
+         "extras":"",
+         "author":" The Best of Will Rogers"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Money is a powerful aphrodisiac.  But flowers work almost as well. ",
+         "extras":"",
+         "author":" Lazarus Long"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Monogamy is the Western custom of one wife and hardly any mistresses. ",
+         "extras":"",
+         "author":" H.H. Munro"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"My notion of a husband at forty is that a woman should be able to change him, like a bank note, for two twenties."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never accept an invitation from a stranger unless he gives you candy. ",
+         "extras":"",
+         "author":" Linda Festa"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never argue with a woman when she's tired -- or rested."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never eat at a place called Mom's.  Never play cards with a man named Doc. And never lie down with a woman who's got more troubles than you. ",
+         "extras":"",
+         "author":" Nelson Algren, \"What Every Young Man Should Know\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never go to bed mad.  Stay up and fight. ",
+         "extras":"",
+         "author":" Phyllis Diller, \"Phyllis Diller's Housekeeping Hints\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Never sleep with a woman whose troubles are worse than your own. ",
+         "extras":"",
+         "author":" Nelson Algren"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"New Year's Eve is the time of year when a man most feels his age, and his wife most often reminds him to act it. ",
+         "extras":"",
+         "author":" Webster's Unafraid Dictionary"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No friendship is so cordial or so delicious as that of girl for girl; no hatred so intense or immovable as that of woman for woman. ",
+         "extras":"",
+         "author":" Landor"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No man can have a reasonable opinion of women until he has long lost interest in hair restorers.  -- Austin O'Malley"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No modern woman with a grain of sense ever sends little notes to an unmarried man -- not until she is married, anyway. ",
+         "extras":"",
+         "author":" Arthur Binstead"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No one knows like a woman how to say things that are at once gentle and deep. ",
+         "extras":"",
+         "author":" Hugo"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No self-made man ever did such a good job that some woman didn't want to make some alterations. ",
+         "extras":"",
+         "author":" Kim Hubbard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No woman can call herself free until she can choose consciously whether she will or will not be a mother. ",
+         "extras":"",
+         "author":" Margaret H. Sanger"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No woman can endure a gambling husband, unless he is a steady winner. ",
+         "extras":"",
+         "author":" Lord Thomas Dewar"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"No woman ever falls in love with a man unless she has a better opinion of him than he deserves. ",
+         "extras":"",
+         "author":" Edgar Watson Howe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Nobody really knows what happiness is, until they're married. And then it's too late."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Not every problem someone has with his girlfriend is necessarily due to the capitalist mode of production. ",
+         "extras":"",
+         "author":" Herbert Marcuse"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Of all the animals, the boy is the most unmanageable. ",
+         "extras":"",
+         "author":" Plato"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Of course a platonic relationship is possible -- but only between husband and wife."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Once a woman has given you her heart you can never get rid of the rest of her. ",
+         "extras":"",
+         "author":" Vanbrugh"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One girl can be pretty -- but a dozen are only a chorus. ",
+         "extras":"",
+         "author":" F. Scott Fitzgerald, \"The Last Tycoon\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One is not born a woman, one becomes one. ",
+         "extras":"",
+         "author":" Simone de Beauvoir"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One man's folly is another man's wife. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"One should always be in love.  That is the reason one should never marry. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Only two groups of people fall for flattery -- men and women."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Rich bachelors should be heavily taxed.  It is not fair that some men should be happier than others. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She always believed in the old adage -- leave them while you're looking good. ",
+         "extras":"",
+         "author":" Anita Loos, \"Gentlemen Prefer Blondes\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She been married so many times she got rice marks all over her face. ",
+         "extras":"",
+         "author":" Tom Waits"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She is descended from a long line that her mother listened to. ",
+         "extras":"",
+         "author":" Gypsy Rose Lee"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She liked him; he was a man of many qualities, even if most of them were bad."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She missed an invaluable opportunity to give him a look that you could have poured on a waffle ..."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She's learned to say things with her eyes that others waste time putting into words."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She's so tough she won't take 'yes' for an answer."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"She's the kind of girl who climbed the ladder of success wrong by wrong. ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"So many beautiful women and so little time. ",
+         "extras":"",
+         "author":" John Barrymore"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"So many men; so little time."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"So many women; so little nerve."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"So many women; so little time!"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some husbands are living proof that a woman can take a joke."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some marriages are made in heaven -- but so are thunder and lightning."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some men are all right in their place -- if they only the knew the right places! ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some men are so interested in their wives' continued happiness that they hire detectives to find out the reason for it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some men are so macho they'll get you pregnant just to kill a rabbit. ",
+         "extras":"",
+         "author":" Maureen Murphy"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some men feel that the only thing they owe the woman who marries them is a grudge. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Some of us are becoming the men we wanted to marry. ",
+         "extras":"",
+         "author":" Gloria Steinem"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sometimes a cigar is just a cigar. ",
+         "extras":"",
+         "author":" Sigmund Freud"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Sometimes, when I think of what that girl means to me, it's all I can do to keep from telling her. ",
+         "extras":"",
+         "author":" Andy Capp"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Stanford women are responsible for the success of many Stanford men: they give them \"just one more reason\" to stay in and study every night."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Take my word for it, the silliest woman can manage a clever man, but it needs a very clever woman to manage a fool. ",
+         "extras":"",
+         "author":" Kipling"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Tehee quod she, and clapte the wyndow to. ",
+         "extras":"",
+         "author":" Geoffrey Chaucer"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"That woman speaks eight languages and can't say \"no\" in any of them. ",
+         "extras":"",
+         "author":" Dorothy Parker"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The advantage of being celibate is that when one sees a pretty girl one does not need to grieve over having an ugly one back home. ",
+         "extras":"",
+         "author":" Paul Leautaud, \"Propos d'un jour\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The anger of a woman is the greatest evil with which you can threaten your enemies. ",
+         "extras":"",
+         "author":" Bonnard"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The average girl would rather have beauty than brains because she knows that the average man can see much better than he can think. ",
+         "extras":"",
+         "author":" Ladies' Home Journal"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best man for the job is often a woman."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The best thing about being bald is, that, when unexpected company arrives, all you have to do is straighten your tie."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The chains of marriage are so heavy that it takes two to carry them, and sometimes three. ",
+         "extras":"",
+         "author":" Alexandre Dumas"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The days just prior to marriage are like a snappy introduction to a  tedious book."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The difference between legal separation and divorce is that legal separation gives the man time to hide his money."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The duration of passion is proportionate with the original resistance of the woman. ",
+         "extras":"",
+         "author":" Honor'e DeBalzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The eternal feminine draws us upward. ",
+         "extras":"",
+         "author":" Goethe"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The first marriage is the triumph of imagination over intelligence, and the second the triumph of hope over experience."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The gentlemen looked one another over with microscopic carelessness."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The girl who remembers her first kiss now has a daughter who can't even remember her first husband."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The girl who stoops to conquer usually wears a low-cut dress."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The girl who swears no one has ever made love to her has a right to swear. ",
+         "extras":"",
+         "author":" Sophia Loren"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The gods gave man fire and he invented fire engines.  They gave him love and he invented marriage."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The happiest time of a person's life is after his first divorce. ",
+         "extras":"",
+         "author":" J.K. Galbraith "
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The heaviest object in the world is the body of the woman you have ceased to love. ",
+         "extras":"",
+         "author":" Marquis de Lac de Clapiers Vauvenargues"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The honeymoon is not actually over until we cease to stifle our sighs and begin to stifle our yawns. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The honeymoon is over when he phones to say he'll be late for supper and she's already left a note that it's in the refrigerator. ",
+         "extras":"",
+         "author":" Bill Lawrence"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The husband who doesn't tell his wife everything probably reasons that what she doesn't know won't hurt him. ",
+         "extras":"",
+         "author":" Leo J. Burke"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The little girl expects no declaration of tenderness from her doll. She loves it -- and that's all.  It is thus that we should love. ",
+         "extras":"",
+         "author":" DeGourmont"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The majority of husbands remind me of an orangutang trying to play the violin. ",
+         "extras":"",
+         "author":" Honor'e DeBalzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The man who understands one woman is qualified to understand pretty well everything. ",
+         "extras":"",
+         "author":" Yeats"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The mature bohemian is one whose woman works full time."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most common form of marriage proposal: \"YOU'RE WHAT!?\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most dangerous food is wedding cake. ",
+         "extras":"",
+         "author":" American proverb"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most difficult years of marriage are those following the wedding."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most happy marriage I can imagine to myself would be the union of a deaf man to a blind woman. ",
+         "extras":"",
+         "author":" Samuel Taylor Coleridge"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most important thing in a relationship between a man and a woman is that one of them be good at taking orders. ",
+         "extras":"",
+         "author":" Linda Festa"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The most popular labor-saving device today is still a husband with money. ",
+         "extras":"",
+         "author":" Joey Adams, \"Cindy and I\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The mother of the year should be a sterilized woman with two adopted children. ",
+         "extras":"",
+         "author":" Paul Ehrlich"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The one charm of marriage is that it makes a life of deception a neccessity. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only real argument for marriage is that it remains the best method for getting acquainted. ",
+         "extras":"",
+         "author":" Heywood Broun"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The only really masterful noise a man makes in a house is the noise of his key, when he is still on the landing, fumbling for the lock. ",
+         "extras":"",
+         "author":" Colette"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The person who marries for money usually earns every penny of it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The prettiest women are almost always the most boring, and that is why some people feel there is no God. ",
+         "extras":"",
+         "author":" Woody Allen, \"Without Feathers\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The six great gifts of an Irish girl are beauty, soft voice, sweet speech, wisdom, needlework, and chastity. ",
+         "extras":"",
+         "author":" Theodore Roosevelt, 1907"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The surest sign that a man is in love is when he divorces his wife."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The trouble with some women is that they get all excited about nothing -- and then marry him. ",
+         "extras":"",
+         "author":" Cher"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The truth about a woman often lasts longer than the woman is true."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The two things that can get you into trouble quicker than anything else are fast women and slow horses."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The way to fight a woman is with your hat.  Grab it and run."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"The woman you buy -- and she is the least expensive -- takes a great deal of money. The woman who gives herself takes all your time. ",
+         "extras":"",
+         "author":" Balzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are a few things that never go out of style, and a feminine woman is one of them. ",
+         "extras":"",
+         "author":" Ralston"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are three things I have always loved and never understood -- art, music, and women."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are three things men can do with women: love them, suffer for them, or turn them into literature. ",
+         "extras":"",
+         "author":" Stephen Stills"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There are two times when a man doesn't understand a woman -- before marriage and after marriage."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There goes the good time that was had by all. ",
+         "extras":"",
+         "author":" Bette Davis, remarking on a passing starlet"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is a vast difference between the savage and civilized man, but it is never apparent to their wives until after breakfast. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is no such thing as an ugly woman -- there are only the ones who do not know how to make themselves attractive. ",
+         "extras":"",
+         "author":" Christian Dior"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is not much to choose between a woman who deceives us for another, and a woman who deceives another for ourselves. ",
+         "extras":"",
+         "author":" Augier"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There is only one way to console a widow.  But remember the risk. ",
+         "extras":"",
+         "author":" Robert Heinlein"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's nothing like a girl with a plunging neckline to keep a man on his toes."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's nothing like a good dose of another woman to make a man appreciate his wife. ",
+         "extras":"",
+         "author":" Clare Booth Luce"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's nothing like good food, good wine, and a bad girl."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's one consolation about matrimony.  When you look around you can always see somebody who did worse. ",
+         "extras":"",
+         "author":" Warren H. Goldsmith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's one fool at least in every married couple."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's only one way to have a happy marriage and as soon as I learn what it is I'll get married again. ",
+         "extras":"",
+         "author":" Clint Eastwood"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"There's too much beauty upon this earth for lonely men to bear. ",
+         "extras":"",
+         "author":" Richard Le Gallienne"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"'Tis more blessed to give than receive; for example, wedding presents. ",
+         "extras":"",
+         "author":" H.L. Mencken"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To be beautiful is enough! if a woman can do that well who should demand more from her? You don't want a rose to sing. ",
+         "extras":"",
+         "author":" Thackeray"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To be considered successful, a woman must be much better at her job than a man would have to be.  Fortunately, this isn't difficult."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To be successful, a woman has to be much better at her job than a man. ",
+         "extras":"",
+         "author":" Golda Meir"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To err is human -- but it feels divine. ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To find out a girl's faults, praise her to her girl friends. ",
+         "extras":"",
+         "author":" Benjamin Franklin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To many, total abstinence is easier than perfect moderation. ",
+         "extras":"",
+         "author":" St. Augustine"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"To our sweethearts and wives.  May they never meet. ",
+         "extras":"",
+         "author":" 19th century toast"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Today when a man gets married he gets a home, a housekeeper, a cook, a cheering squad and another paycheck.  When a woman marries, she gets a boarder."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Trust your husband, adore your husband, and get as much as you can in your own name. ",
+         "extras":"",
+         "author":" Joan Rivers"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Twenty years of romance make a woman look like a ruin; but twenty years of marriage make her something like a public building. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Two sure ways to tell a REALLY sexy man; the first is, he has a bad memory. I forget the second."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Until Eve arrived, this was a man's world. ",
+         "extras":"",
+         "author":" Richard Armour"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Valerie: Aww, Tom, you're going maudlin on me ... Tom:  I reserve the right to wax maudlin as I wane eloquent ... ",
+         "extras":"",
+         "author":" Tom Chapin"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We were happily married for eight months.  Unfortunately, we were married for four and a half years. ",
+         "extras":"",
+         "author":" Nick Faldo"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"We're all looking for a woman who can sit in a mini-skirt and talk philosophy, executing both with confidence and style."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wedding is destiny, and hanging likewise. ",
+         "extras":"",
+         "author":" John Heywood"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Wedding rings are the world's smallest handcuffs."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Well, it's hard for a mere man to believe that woman doesn't have equal rights. ",
+         "extras":"",
+         "author":" Dwight D. Eisenhower"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What a misfortune to be a woman!  And yet, the worst misfortune is not to understand what a misfortune it is. ",
+         "extras":"",
+         "author":" Kierkegaard, 1813-1855."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What do you give a man who has everything?  Penicillin. ",
+         "extras":"",
+         "author":" Jerry Lester"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" \"What do you give a man who has everything?\" the pretty teenager asked her mother.  \"Encouragement, dear,\" she replied."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What nonsense people talk about happy marriages!  A man can be happy with any woman so long as he doesn't love her. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"What passes for woman's intuition is often nothing more than man's transparency. ",
+         "extras":"",
+         "author":" George Nathan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whatever women do they must do twice as well as men to be thought half as good.  Luckily this is not difficult. ",
+         "extras":"",
+         "author":" Charlotte Whitton"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When a girl can read the handwriting on the wall, she may be in the wrong rest room."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When a girl marries she exchanges the attentions of many men for the inattentions of one. ",
+         "extras":"",
+         "author":" Helen Rowland"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When a man steals your wife, there is no better revenge than to let him keep her. ",
+         "extras":"",
+         "author":" Sacha Guitry"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When a woman gives me a present I have always two surprises: first is the present, and afterward, having to pay for it. ",
+         "extras":"",
+         "author":" Donnay"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When a woman marries again it is because she detested her first husband. When a man marries again, it is because he adored his first wife. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When choosing between two evils, I always like to take the one I've never tried before. ",
+         "extras":"",
+         "author":" Mae West, \"Klondike Annie\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When God created two sexes, he may have been overdoing it. ",
+         "extras":"",
+         "author":" Charles Merrill Smith"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When God saw how faulty was man He tried again and made woman. As to why he then stopped there are two opinions.  One of them is woman's. ",
+         "extras":"",
+         "author":" DeGourmont"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When I was a young man, I vowed never to marry until I found the ideal woman. Well, I found her -- but alas, she was waiting for the ideal man. ",
+         "extras":"",
+         "author":" Robert Schuman"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When I'm good, I'm great; but when I'm bad, I'm better. ",
+         "extras":"",
+         "author":" Mae West"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When it comes to broken marriages most husbands will split the blame -- half his wife's fault, and half her mother's."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When Marriage is Outlawed, Only Outlaws will have Inlaws."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When one knows women one pities men, but when one studies men, one excuses women. ",
+         "extras":"",
+         "author":" Horne Tooke"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When the candles are out all women are fair. ",
+         "extras":"",
+         "author":" Plutarch"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When there is an old maid in the house, a watch dog is unnecessary. ",
+         "extras":"",
+         "author":" Balzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When women kiss it always reminds one of prize fighters shaking hands. ",
+         "extras":"",
+         "author":" H.L. Mencken, \"Sententiae\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When women love us, they forgive us everything, even our crimes; when they do not love us, they give us credit for nothing, not even our virtues. ",
+         "extras":"",
+         "author":" Honor'e de Balzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"When you're bored with yourself, marry, and be bored with someone else. ",
+         "extras":"",
+         "author":" David Pryce-Jones"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Whenever I date a guy, I think, is this the man I want my children to spend their weekends with? ",
+         "extras":"",
+         "author":" Rita Rudner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Where's the man could ease a heart like a satin gown? ",
+         "extras":"",
+         "author":" Dorothy Parker, \"The Satin Dress\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why a man would want a wife is a big mystery to some people.  Why a man would want *___two* wives is a bigamystery."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why isn't there some cheap and easy way to prove how much she means to me?"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Why won't you let me kiss you goodnight?  Is it something I said? ",
+         "extras":"",
+         "author":" Tom Ryan"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Woman inspires us to great things, and prevents us from achieving them. ",
+         "extras":"",
+         "author":" Dumas"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Woman was God's second mistake. ",
+         "extras":"",
+         "author":" Nietzsche"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Woman's advice has little value, but he who won't take it is a fool. ",
+         "extras":"",
+         "author":" Cervantes"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women are always anxious to urge bachelors to matrimony; is it from charity, or revenge? ",
+         "extras":"",
+         "author":" Gustave Vapereau"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women are just like men, only different."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women are like elephants to me: I like to look at them, but I wouldn't want to own one. ",
+         "extras":"",
+         "author":" W.C. Fields"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women are not much, but they are the best other sex we have. ",
+         "extras":"",
+         "author":" Herold"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women are wiser than men because they know less and understand more. ",
+         "extras":"",
+         "author":" Stephens"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women aren't as mere as they used to be. ",
+         "extras":"",
+         "author":" Pogo"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women can keep a secret just as well as men, but it takes more of them to do it."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women complain about sex more than men.  Their gripes fall into two categories: (1) Not enough and (2) Too much. ",
+         "extras":"",
+         "author":" Ann Landers"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women give themselves to God when the Devil wants nothing more to do with them. ",
+         "extras":"",
+         "author":" Arnould"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women give to men the very gold of their lives.  Possibly; but they invariably want it back in such very small change. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women in love consist of a little sighing, a little crying, a little dying -- and a good deal of lying. ",
+         "extras":"",
+         "author":" Ansey"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women reason with the heart and are much less often wrong than men who reason with the head. ",
+         "extras":"",
+         "author":" DeLescure"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women sometimes forgive a man who forces the opportunity, but never a man who misses one. ",
+         "extras":"",
+         "author":" Charles De Talleyrand-Perigord"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women treat us just as humanity treats its gods.  They worship us and are always bothering us to do something for them. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women waste men's lives and think they have indemnified them by a few gracious words. ",
+         "extras":"",
+         "author":" Honor'e de Balzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women who want to be equal to men lack imagination."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women's virtue is man's greatest invention. ",
+         "extras":"",
+         "author":" Cornelia Otis Skinner"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women, deceived by men, want to marry them; it is a kind of revenge as good as any other. ",
+         "extras":"",
+         "author":" Philippe De Remi"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women, when they are not in love, have all the cold blood of an experienced  attorney. ",
+         "extras":"",
+         "author":" Honor'e de Balzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Women, when they have made a sheep of a man, always tell him that he is a lion with a will of iron. ",
+         "extras":"",
+         "author":" Honor'e de Balzac"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":" \"You are *so* lovely.\"  \"Yes.\"  \"Yes!  And you take a compliment, too! I like that in a goddess.\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You ask what a nice girl will do?  She won't give an inch, but she won't say no. ",
+         "extras":"",
+         "author":" Marcus Valerius Martialis"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can never trust a woman; she may be true to you."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You can't kiss a girl unexpectedly -- only sooner than she thought you would."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You have only to mumble a few words in church to get married and few words in your sleep to get divorced."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You just know when a relationship is about to end.  My girlfriend called me at work and asked me how you change a lightbulb in the bathroom.  \"It's very simple,\" I said. \"You start by filling up the bathtub with water...\""
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You know you're getting old when you're Dad, and you're measuring your daughter for camp clothes, and there are certain measurements only her mother is allowed to take."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You know, of course, that the Tasmanians, who never committed adultery, are now extinct. ",
+         "extras":"",
+         "author":" M. Somerset Maugham"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You lived with a man who wore white belts?  Laura, I'm disappointed in you. ",
+         "extras":"",
+         "author":" Remington Steele"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"You think Oedipus had a problem -- Adam was Eve's mother."
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"\"You're just the sort of person I imagined marrying, when I was little... except, y'know, not green... and without all the patches of fungus.\" ",
+         "extras":"",
+         "author":" Swamp Thing"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Young men want to be faithful and are not; old men want to be faithless and cannot. ",
+         "extras":"",
+         "author":" Oscar Wilde"
+      }, 
+      {
+         "id":"",
+         "title":"",
+         "sentence":"Youth had been a habit of hers so long that she could not part with it."
+      }
+   ]
+}
