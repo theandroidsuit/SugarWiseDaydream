@@ -6,6 +6,7 @@ import android.service.dreams.DreamService;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.WindowManager;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
@@ -27,6 +28,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
 	private static String theme = "fortune";
 	private static int color = Color.parseColor("#FFFFFF");
 	private static int size = 10;
+    private static String nightMode = "false";
 	
 	private TextView tvSentence;
 	private TextView tvAuthor;
@@ -35,6 +37,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
 	@Override
 	public void onClick(View v) {
 
+        restoreBrightnessInDevice();
 		//stop button
 		this.finish();
 	}
@@ -50,12 +53,14 @@ public class SWDaydream extends DreamService implements OnClickListener{
 		
 		getConfiguration(this);
 
+        if("true".equals(nightMode)){
+            turnDownBrightness();
+        }
+
         // Our content view will take care of animating its children.
 		setContentView(R.layout.activity_main);
         final RelativeLayout layout = (RelativeLayout) findViewById(R.id.layoutDream);
-        
 
-        
 //        RelativeLayout.LayoutParams params1 = new RelativeLayout.LayoutParams(LayoutParams.MATCH_PARENT,LayoutParams.MATCH_PARENT);
 //   		params1.addRule(RelativeLayout.CENTER_IN_PARENT);
 //   		
@@ -77,7 +82,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
 		
 		String author = wisdom.getAuthor();
 		if (!"".equals(author))
-			author = "--" + author;
+			author = "-- " + author;
 		
 		tvAuthor.setText(author);
 		tvAuthor.setTextColor(color);
@@ -93,17 +98,25 @@ public class SWDaydream extends DreamService implements OnClickListener{
         layout.setOnClickListener(this);
         
 	}
-	
-	public static void getConfiguration(Context context) {
+
+
+
+
+    public static void getConfiguration(Context context) {
 		Log.d(TAG, "getConfiguration");
 		
 		theme = SWDreamSettingsActivity.loadTitlePref(context, "theme");
 		color = SWDreamSettingsActivity.loadTitlePrefColor(context, "color");
 		size = SWDreamSettingsActivity.loadTitlePrefSize(context, "size");
-		
-		if (null == theme || "".equals(theme)){
+        nightMode = SWDreamSettingsActivity.loadTitlePref(context, "nightMode");
+
+        if (null == theme || "".equals(theme)){
 			theme = "fortunes";
 		}
+
+        if (null == nightMode || "".equals(nightMode)){
+            nightMode = "false";
+        }
 		
 		if (-1 == color){
 			color = Color.parseColor("#FFFFFF");
@@ -116,9 +129,31 @@ public class SWDaydream extends DreamService implements OnClickListener{
         Log.d(TAG + "theme", theme);
         Log.d(TAG + "color", String.valueOf(color));
         Log.d(TAG + "size", String.valueOf(size));
-	}
-	
-	@Override
+        Log.d(TAG + "nightMode", nightMode);
+
+    }
+
+    private void turnDownBrightness() {
+        android.provider.Settings.System.putInt(getContentResolver(),
+                android.provider.Settings.System.SCREEN_BRIGHTNESS,
+                0);
+
+        Log.d(TAG + "brightness", "Turned down: 0");
+    }
+
+    private void restoreBrightnessInDevice(){
+        int brightness = SWDreamSettingsActivity.loadIntPref(this,"brightnessInDevice");
+
+        android.provider.Settings.System.putInt(getContentResolver(),
+                android.provider.Settings.System.SCREEN_BRIGHTNESS,
+                brightness);
+
+        Log.d(TAG + "brightness", "Turned up: " + brightness);
+
+    }
+
+
+    @Override
 	public void onDreamingStarted() {
 		super.onDreamingStarted();
 		
@@ -129,6 +164,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
 	public void onDreamingStopped() {
 		
 		//textSet.cancel();
+        restoreBrightnessInDevice();
 		
 		super.onDreamingStopped();
 	}

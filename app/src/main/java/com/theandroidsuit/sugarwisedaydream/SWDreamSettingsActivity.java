@@ -5,13 +5,17 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.provider.Settings;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
 import android.widget.ArrayAdapter;
+import android.widget.CheckBox;
 import android.widget.Spinner;
 import android.widget.Toast;
+
+import com.theandroidsuit.sugarwisedaydream.util.SugarWiseUtils;
 
 /**
  *
@@ -32,11 +36,14 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 	private int colorToUse = 0;
 	private String themeToUse;
 	private int sizeToUSe = -1;
+
+    private static int brightnessInDevice = 0;
 	
 
 	private static int color = 0;
 	private static String theme;
 	private static int size = -1;
+        private static String nightMode;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -50,7 +57,9 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 
 		// Set the view layout resource to use.
 		setContentView(R.layout.swdaydream_config);
-		
+
+        // Save Brightness in Device
+        saveBrightnessInDevice();
 	
 		// Register Spinners
 		registerSpinnerListener();
@@ -65,30 +74,119 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 	
 
     private void setPreviousConfiguration() {
-    	 if (!"".equals(theme)){	
-    		Spinner spinner = (Spinner) findViewById(R.id.themeSpinner);
-    		ArrayAdapter<CharSequence> myAdap = (ArrayAdapter) spinner.getAdapter(); //cast to an ArrayAdapter
 
- 			int spinnerPosition = myAdap.getPosition(theme);
- 			
- 			//set the default according to value
- 			spinner.setSelection(spinnerPosition);
-    	 }
-					
+        getConfiguration(this);
+
+        setPCTheme();
+        setPCSize();
+        setPCColor();
+
+        setPCNightMode();
 	}
 
-	public static void getConfiguration(Context context) {
+    private void setPCNightMode() {
+        if ("true".equals(nightMode)){
+            CheckBox nm = (CheckBox) findViewById(R.id.nightModeCkb);
+            nm.setChecked(true);
+        }
+    }
+
+    private void setPCColor() {
+
+        String colorToSelect = "";
+
+        if(color == SugarWiseUtils.COLOR_RED)
+            colorToSelect = "Red";
+        else if(color == SugarWiseUtils.COLOR_PINK)
+            colorToSelect = "Pink";
+        else if(color == SugarWiseUtils.COLOR_WHITE)
+            colorToSelect = "White";
+        else if(color == SugarWiseUtils.COLOR_YELLOW)
+            colorToSelect = "Yellow";
+        else if(color == SugarWiseUtils.COLOR_GREY)
+            colorToSelect = "Grey";
+        else if(color == SugarWiseUtils.COLOR_BLUE)
+            colorToSelect = "Blue";
+        else if(color == SugarWiseUtils.COLOR_GREEN)
+            colorToSelect = "Green";
+        else if(color == SugarWiseUtils.COLOR_PURPLE)
+            colorToSelect = "Purple";
+
+
+        Spinner spinner = (Spinner) findViewById(R.id.colorSpinner);
+        ArrayAdapter<CharSequence> myAdap = (ArrayAdapter) spinner.getAdapter(); //cast to an ArrayAdapter
+
+        int spinnerPosition = myAdap.getPosition(colorToSelect);
+
+        //set the default according to value
+        spinner.setSelection(spinnerPosition);
+    }
+
+    private void setPCSize() {
+
+        String sizeToSelect = "";
+
+        switch(size){
+            case 16:
+                sizeToSelect = "Small";
+                break;
+            case 24:
+                sizeToSelect = "Medium";
+                break;
+            case 32:
+                sizeToSelect = "Large";
+                break;
+        }
+
+
+        Spinner spinner = (Spinner) findViewById(R.id.sizeSpinner);
+        ArrayAdapter<CharSequence> myAdap = (ArrayAdapter) spinner.getAdapter(); //cast to an ArrayAdapter
+
+        int spinnerPosition = myAdap.getPosition(sizeToSelect);
+
+        //set the default according to value
+        spinner.setSelection(spinnerPosition);
+    }
+
+    private void setPCTheme() {
+        String themeToSelect = theme;
+
+        if (null != themeToSelect && !"".equals(themeToSelect)){
+            if ("Translateme".equals(themeToSelect)){
+                themeToSelect = "Translate me";
+            }else if ("SongsandPoems".equals(themeToSelect)){
+                themeToSelect = "Songs and Poems";
+            }else if ("MenandWomen".equals(themeToSelect)){
+                themeToSelect = "Men and Women";
+            }else if ("LinuxCookie".equals(themeToSelect)){
+                themeToSelect = "Linux Cookie";
+            }
+
+            Spinner spinner = (Spinner) findViewById(R.id.themeSpinner);
+            ArrayAdapter<CharSequence> myAdap = (ArrayAdapter) spinner.getAdapter(); //cast to an ArrayAdapter
+
+            int spinnerPosition = myAdap.getPosition(themeToSelect);
+
+            //set the default according to value
+            spinner.setSelection(spinnerPosition);
+        }
+    }
+
+    public static void getConfiguration(Context context) {
 		Log.d(TAG, "getConfiguration");
 		
 		theme = SWDreamSettingsActivity.loadTitlePref(context, "theme");
 		color = SWDreamSettingsActivity.loadTitlePrefColor(context, "color");
 		size = SWDreamSettingsActivity.loadTitlePrefSize(context, "size");
-		
-		
+        //brightnessInDevice = SWDreamSettingsActivity.loadIntPref(context, "brightnessInDevice");
+        nightMode = SWDreamSettingsActivity.loadTitlePref(context, "nightMode");
+
         Log.d(TAG + "theme", theme);
         Log.d(TAG + "color", String.valueOf(color));
         Log.d(TAG + "size", String.valueOf(size));
-	}
+        //Log.d(TAG + "brightnessInDevice", String.valueOf(brightnessInDevice));
+        Log.d(TAG + "nightMode", nightMode);
+    }
 
 	View.OnClickListener mOnClickListener = new View.OnClickListener() {
         public void onClick(View v) {
@@ -96,28 +194,48 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 
             // When the button is clicked, save the string in our prefs and return that they
             // clicked OK.
+
             
             if (0 == colorToUse || -1 == sizeToUSe || null == themeToUse || "".equals(themeToUse)){
 				Toast.makeText(getApplicationContext(), getResources().getString(R.string.toast_not_configure), Toast.LENGTH_SHORT).show();
             }else{
             
 	            Log.d(TAG, "OnClickListener");
+
+                CheckBox nm = (CheckBox) findViewById(R.id.nightModeCkb);
+                String nightMode = "false";
+                if (nm.isChecked())
+                    nightMode = "true";
 	
 	            Log.d(TAG + "theme", themeToUse);
 	            Log.d(TAG + "color", String.valueOf(colorToUse));
 	            Log.d(TAG + "size", String.valueOf(sizeToUSe));
-	            
+                Log.d(TAG + "brightnessInDevice", String.valueOf(brightnessInDevice));
+                Log.d(TAG + "nightMode", nightMode);
+
 	            saveTitlePref(context, "theme", themeToUse);
 	            saveTitlePref(context, "color", colorToUse);
 	            saveTitlePref(context, "size", sizeToUSe);
-	            
-	            finish();
+                saveTitlePref(context, "brightnessInDevice", brightnessInDevice);
+                saveTitlePref(context, "nightMode", nightMode);
+
+                finish();
             }
         }
     };
 
+    private void saveBrightnessInDevice(){
+        try {
+            brightnessInDevice = android.provider.Settings.System.getInt(
+                    getContentResolver(),
+                    android.provider.Settings.System.SCREEN_BRIGHTNESS);
+        } catch (Settings.SettingNotFoundException e) {
+            brightnessInDevice = 0;
+            e.printStackTrace();
+        }
+    }
 
-	
+
     // Write the prefix to the SharedPreferences object for this widget
     static void saveTitlePref(Context context, String key, String value) {
         SharedPreferences.Editor prefs = context.getSharedPreferences(PREFS_NAME, 0).edit();
@@ -143,7 +261,16 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
             return "";
         }
     }
-    
+
+    // Read the prefix from the SharedPreferences object for this widget.
+    // If there is no preference saved, get the default from a resource
+    static int loadIntPref(Context context,  String key) {
+        SharedPreferences prefs = context.getSharedPreferences(PREFS_NAME, 0);
+        int value = prefs.getInt(PREF_PREFIX_KEY + key, 0);
+
+        return value;
+    }
+
     // Read the prefix from the SharedPreferences object for this widget.
     // If there is no preference saved, get the default from a resource
     static int loadTitlePrefColor(Context context, String key) {
@@ -174,7 +301,7 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 		ArrayAdapter<CharSequence> colorAp = ArrayAdapter.createFromResource(this, R.array.colors, android.R.layout.simple_spinner_item);
 		colorAp.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 		color.setAdapter(colorAp);
-		
+
 		Spinner theme = (Spinner) findViewById(R.id.themeSpinner);
 		ArrayAdapter<CharSequence> themeAp = ArrayAdapter.createFromResource(this, R.array.themes, android.R.layout.simple_spinner_item);
 		themeAp.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -229,7 +356,7 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 				colorToUse = Color.parseColor("#FF0000");
 				break;
 			case "Pink":
-				colorToUse = Color.parseColor("#FF5CD6");
+				colorToUse = Color.parseColor("#DF0174");
 				break;
 			case "White":
 				colorToUse = Color.parseColor("#FFFFFF");
@@ -244,7 +371,7 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 				colorToUse = Color.parseColor("#3333FF");
 				break;
 			case "Green":
-				colorToUse = Color.parseColor("#2EB82E");
+				colorToUse = Color.parseColor("#0B6138");
 				break;
 			case "Purple":
 				colorToUse = Color.parseColor("#7A007A");
@@ -257,7 +384,7 @@ public class SWDreamSettingsActivity extends Activity implements OnItemSelectedL
 	
 	private void setupTheme(String item) {
 		
-		themeToUse = item.toLowerCase().replace(" ", "").trim();
+		themeToUse = item.replace(" ", "").trim();
 		Log.d(TAG + ".theme!", themeToUse);
 	}
 	

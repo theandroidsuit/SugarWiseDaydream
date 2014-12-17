@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/SWDaydream.iml" filepath="$PROJECT_DIR$/app/SWDaydream.iml" />
       <module fileurl="file://$PROJECT_DIR$/SugarWiseDayDream-AS.iml" filepath="$PROJECT_DIR$/SugarWiseDayDream-AS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>

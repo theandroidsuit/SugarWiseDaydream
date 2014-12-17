@@ -82,7 +82,31 @@
     	        android:prompt="@string/pickSize"/>
            
         </RelativeLayout>
-        	    
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="3dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawSelectorOnTop="true"
+                android:text="@string/nightModeTxt"
+                android:textStyle="bold"
+                android:layout_alignParentLeft="true"/>
+
+            <CheckBox
+                android:id="@+id/nightModeCkb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:layout_alignParentRight="true"
+                android:gravity="top" />
+
+        </RelativeLayout>
 	</LinearLayout>
 
     <Button

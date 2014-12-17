@@ -15,14 +15,14 @@ import com.theandroidsuit.sugarwisedaydream.bean.Wisdom;
 
 public class SugarWiseJSONParser {
 
-	public List<Wisdom> getDatafromAsset(Context context, String theme){
+    public List<Wisdom> getDatafromAsset(Context context, String theme){
 		JSONObject jObject = loadJSON(context, SugarWiseUtils.MODE_ASSET, theme);
 		
 		return parse(jObject); 
 	}
 
     /** Receives a JSONObject and returns a list */
-    public List<Wisdom> parse(JSONObject jObject){
+    private List<Wisdom> parse(JSONObject jObject){
  
         JSONArray jWisdom = null;
         String type = "";
@@ -108,7 +108,7 @@ public class SugarWiseJSONParser {
     }
     
     
-    public JSONObject loadJSONFromAsset(Context context, String theme) {
+    private JSONObject loadJSONFromAsset(Context context, String theme) {
         String jsonStr = null;
         try {
 

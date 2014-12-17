@@ -6,6 +6,7 @@ import java.util.Random;
 import com.theandroidsuit.sugarwisedaydream.bean.Wisdom;
 
 import android.content.Context;
+import android.graphics.Color;
 
 
 public class SugarWiseUtils {
@@ -16,7 +17,21 @@ public class SugarWiseUtils {
 	
 	public static final String MODE_ASSET = "asset";
 	public static final String MODE_SERVICE = "service";
-	private  List<Wisdom> listWisdom = null;
+
+
+    public static final int COLOR_RED = Color.parseColor("#FF0000");
+    public static final int COLOR_PINK = Color.parseColor("#FF5CD6");
+    public static final int COLOR_BLUE = Color.parseColor("#3333FF");
+    public static final int COLOR_GREEN = Color.parseColor("#2EB82E");
+    public static final int COLOR_GREY = Color.parseColor("#696969");
+    public static final int COLOR_PURPLE = Color.parseColor("#7A007A");
+    public static final int COLOR_WHITE = Color.parseColor("#FFFFFF");
+    public static final int COLOR_YELLOW = Color.parseColor("#FFFF4D");
+
+
+
+
+    private  List<Wisdom> listWisdom = null;
 	private static Wisdom wisdom = null;
 	
 	private Context context;

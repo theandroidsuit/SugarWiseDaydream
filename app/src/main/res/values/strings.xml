@@ -17,7 +17,8 @@
     <string name="pickSize">Pick a size</string>
     
     <string name="toast_not_configure">Configuration not valid</string>
-    
+    <string name="nightModeTxt">Night mode</string>
+
     <string-array name="sizes">
         <item>Pick a size</item>
         <item>Small</item>
