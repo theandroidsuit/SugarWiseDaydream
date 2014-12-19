@@ -80,7 +80,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
 
         layout = (RelativeLayout) findViewById(R.id.layoutDream);
 
-        setNewSWLayout(this);
+        setNewSWLayout();
         setTimeLayout(this);
 
         layout.setOnClickListener(this);
@@ -104,7 +104,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
         registerReceiver(m_timeChangedReceiver, s_intentFilter);
     }
 
-    public static void setNewSWLayout(Context ctx) {
+    public static void setNewSWLayout() {
 
         Log.d(TAG, "setSWLayout");
 
@@ -128,7 +128,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
     }
 
 
-    public static void setNextSWLayout(Context ctx) {
+    public static void setNextSWLayout() {
 
         Log.d(TAG, "setSWLayout");
 
@@ -186,7 +186,7 @@ public class SWDaydream extends DreamService implements OnClickListener{
         else
             minutoV.setText(String.valueOf(minuto));
 
-        setNextSWLayout(ctx);
+        setNextSWLayout();
 
     }
 
@@ -210,6 +210,8 @@ public class SWDaydream extends DreamService implements OnClickListener{
 
         TextView batteryV = (TextView) layout.findViewById(R.id.batteryView);
         batteryV.setText(String.valueOf(level));
+
+        percentSymbolV.setText(ctx.getString(R.string.percentSymbol));
 
         //battStatusV.setTextColor(color);
         //batteryV.setTextColor(color);

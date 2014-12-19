@@ -85,19 +85,20 @@ public final class R {
         public static final int nightModeTxt=0x7f080014;
         public static final int november=0x7f080015;
         public static final int october=0x7f080016;
-        public static final int pickColor=0x7f080017;
-        public static final int pickSize=0x7f080018;
-        public static final int pickTheme=0x7f080019;
-        public static final int pm=0x7f08001a;
-        public static final int saturday=0x7f08001b;
-        public static final int september=0x7f08001c;
-        public static final int sizeTxt=0x7f08001d;
-        public static final int sunday=0x7f08001e;
-        public static final int themeTxt=0x7f08001f;
-        public static final int thursday=0x7f080020;
-        public static final int toast_not_configure=0x7f080021;
-        public static final int tuesday=0x7f080022;
-        public static final int wednesday=0x7f080023;
+        public static final int percentSymbol=0x7f080017;
+        public static final int pickColor=0x7f080018;
+        public static final int pickSize=0x7f080019;
+        public static final int pickTheme=0x7f08001a;
+        public static final int pm=0x7f08001b;
+        public static final int saturday=0x7f08001c;
+        public static final int september=0x7f08001d;
+        public static final int sizeTxt=0x7f08001e;
+        public static final int sunday=0x7f08001f;
+        public static final int themeTxt=0x7f080020;
+        public static final int thursday=0x7f080021;
+        public static final int toast_not_configure=0x7f080022;
+        public static final int tuesday=0x7f080023;
+        public static final int wednesday=0x7f080024;
     }
     public static final class style {
         /** 
