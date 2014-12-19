@@ -17,8 +17,9 @@ public final class R {
     }
     public static final class array {
         public static final int colors=0x7f060000;
-        public static final int sizes=0x7f060001;
-        public static final int themes=0x7f060002;
+        public static final int formats=0x7f060001;
+        public static final int sizes=0x7f060002;
+        public static final int themes=0x7f060003;
     }
     public static final class attr {
     }
@@ -31,16 +32,27 @@ public final class R {
         public static final int sw_daydream_icon=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f0b0009;
-        public static final int author=0x7f0b0003;
-        public static final int buttonConfigure=0x7f0b0008;
-        public static final int colorSpinner=0x7f0b0005;
-        public static final int contentContainer=0x7f0b0001;
+        public static final int action_settings=0x7f0b0014;
+        public static final int author=0x7f0b000d;
+        public static final int battStatusView=0x7f0b0008;
+        public static final int batteryContainer=0x7f0b0007;
+        public static final int batteryView=0x7f0b0009;
+        public static final int buttonConfigure=0x7f0b0013;
+        public static final int colorSpinner=0x7f0b000f;
+        public static final int contentContainer=0x7f0b000b;
+        public static final int formatSpinner=0x7f0b0011;
+        public static final int horaView=0x7f0b0002;
         public static final int layoutDream=0x7f0b0000;
-        public static final int nightModeCkb=0x7f0b0007;
-        public static final int sentence=0x7f0b0002;
-        public static final int sizeSpinner=0x7f0b0006;
-        public static final int themeSpinner=0x7f0b0004;
+        public static final int minutoView=0x7f0b0004;
+        public static final int nightModeCkb=0x7f0b0012;
+        public static final int percentageView=0x7f0b000a;
+        public static final int sentence=0x7f0b000c;
+        public static final int separator=0x7f0b0003;
+        public static final int sizeSpinner=0x7f0b0010;
+        public static final int themeSpinner=0x7f0b000e;
+        public static final int timeContainer=0x7f0b0001;
+        public static final int timeFormatContainer=0x7f0b0005;
+        public static final int timeFormatView=0x7f0b0006;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -51,17 +63,41 @@ public final class R {
     }
     public static final class string {
         public static final int action_settings=0x7f080000;
-        public static final int app_name=0x7f080001;
-        public static final int colorTxt=0x7f080002;
-        public static final int configButton=0x7f080003;
-        public static final int daydream_name=0x7f080004;
-        public static final int nightModeTxt=0x7f080005;
-        public static final int pickColor=0x7f080006;
-        public static final int pickSize=0x7f080007;
-        public static final int pickTheme=0x7f080008;
-        public static final int sizeTxt=0x7f080009;
-        public static final int themeTxt=0x7f08000a;
-        public static final int toast_not_configure=0x7f08000b;
+        public static final int am=0x7f080001;
+        public static final int app_name=0x7f080002;
+        public static final int april=0x7f080003;
+        public static final int august=0x7f080004;
+        public static final int battStatus_connected=0x7f080005;
+        public static final int battStatus_unconnected=0x7f080006;
+        public static final int colorTxt=0x7f080007;
+        public static final int configButton=0x7f080008;
+        public static final int daydream_name=0x7f080009;
+        public static final int december=0x7f08000a;
+        public static final int february=0x7f08000b;
+        public static final int formatTxt=0x7f08000c;
+        public static final int friday=0x7f08000d;
+        public static final int january=0x7f08000e;
+        public static final int july=0x7f08000f;
+        public static final int june=0x7f080010;
+        public static final int march=0x7f080011;
+        public static final int may=0x7f080012;
+        public static final int monday=0x7f080013;
+        public static final int nightModeTxt=0x7f080014;
+        public static final int november=0x7f080015;
+        public static final int october=0x7f080016;
+        public static final int pickColor=0x7f080017;
+        public static final int pickSize=0x7f080018;
+        public static final int pickTheme=0x7f080019;
+        public static final int pm=0x7f08001a;
+        public static final int saturday=0x7f08001b;
+        public static final int september=0x7f08001c;
+        public static final int sizeTxt=0x7f08001d;
+        public static final int sunday=0x7f08001e;
+        public static final int themeTxt=0x7f08001f;
+        public static final int thursday=0x7f080020;
+        public static final int toast_not_configure=0x7f080021;
+        public static final int tuesday=0x7f080022;
+        public static final int wednesday=0x7f080023;
     }
     public static final class style {
         /** 

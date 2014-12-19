@@ -83,6 +83,28 @@
            
         </RelativeLayout>
 
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="3dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/formatTxt"
+                android:textStyle="bold"
+                android:layout_alignParentLeft="true"/>
+
+            <Spinner
+                android:id="@+id/formatSpinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawSelectorOnTop="true"
+                android:textStyle="italic"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -107,7 +129,8 @@
                 android:gravity="top" />
 
         </RelativeLayout>
-	</LinearLayout>
+
+    </LinearLayout>
 
     <Button
         android:id="@+id/buttonConfigure"

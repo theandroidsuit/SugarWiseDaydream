@@ -3,11 +3,101 @@
     android:id="@+id/layoutDream"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_margin="5sp"
+    android:layout_margin="5dp"
     android:orientation="vertical"
     android:layout_centerInParent="true">
 
-    
+
+    <LinearLayout
+        android:id="@+id/timeContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:layout_alignParentStart="true"
+        android:gravity="left">
+
+        <TextView
+            android:id="@+id/horaView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fcfcfc"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="H"/>
+
+        <TextView
+            android:id="@+id/separator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fcfcfc"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text=":"/>
+
+        <TextView
+            android:id="@+id/minutoView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fcfcfc"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="M"/>
+
+        <LinearLayout
+            android:id="@+id/timeFormatContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/timeFormatView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="AM/PM"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/batteryContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/timeContainer"
+        android:orientation="horizontal"
+        android:gravity="right"
+        android:layout_alignParentRight="true">
+
+        <TextView
+            android:id="@+id/battStatusView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fcfcfc"
+            android:textSize="15dp"
+            android:paddingRight="5dp"
+            android:text=""/>
+
+        <TextView
+            android:id="@+id/batteryView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fcfcfc"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:text=""/>
+
+        <TextView
+            android:id="@+id/percentageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fcfcfc"
+            android:textSize="20dp"
+            android:text=""/>
+
+    </LinearLayout>
+
+
     <LinearLayout
         android:id="@+id/contentContainer"
         android:layout_width="match_parent"
